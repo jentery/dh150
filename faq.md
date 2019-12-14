@@ -12,7 +12,7 @@ Examples of these materials include:
 * Radio drama such as [*Sorry, Wrong Number*](https://archive.org/details/Suspense-SorryWrongNumber) by Lucile Fletcher and [*War of the Worlds*](https://archive.org/details/WarOfTheWorlds1938RadioBroadcast256kbps/War-of-the-Worlds-1938-Radio-Broadcast-136kbps-cleaned.mp3) by Orson Welles and H.G. Wells 
 * Podcasts such as [*Everything Is Alive*](https://www.everythingisalive.com/episodes/maeve-lamppost-of-brooklyn) by Maeve Higgins, Ian Chillag, and Jennifer Mills and [*Within the Wires*](http://www.nightvalepresents.com/withinthewires) by Jeffrey Cranor, Janina Matthewson, and Mary Epworth
 * Animated films such as [*Biidaaban (The Dawn Comes)*](https://www.youtube.com/watch?v=vWjnYKyiUB8) by Amanda Strong and Leanne Betasamosake Simpson  
-* Fantasy and science fiction such as [*The Fifth Season*](https://www.orbitbooks.net/orbit-excerpts/the-fifth-season/) by N.K. Jemisin and ["Message in a Bottle"](https://tachyonpublications.com/product/falling-love-hominids/) by Nalo Hopkinson 
+* Fantasy and science fiction such as [*The Fifth Season*](https://www.orbitbooks.net/orbit-excerpts/the-fifth-season/) (selected chapters) by N.K. Jemisin and ["Message in a Bottle"](https://tachyonpublications.com/product/falling-love-hominids/) by Nalo Hopkinson 
 * Experimental fiction such as [*With Those We Love Alive*](http://collection.eliterature.org/3/work.html?work=with-those-we-love-alive) by Porpentine and Brenda Neotenomie and [*THE M00D OF THE MOMENT*](https://www.yhchang.com/THE_MOOD_OF_THE_MOMENT_V.html) by Young-Hae Chang Heavy Industries
 
 As we study these materials in class, you'll also make some media of your own. 

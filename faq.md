@@ -8,7 +8,7 @@ This course is an introduction to the study and practice of media in the context
 
 Examples of these materials include: 
 * Games such as [*Undertale*](https://undertale.com/) by Toby Fox and Temmie Chang and [*Gone Home*](https://gonehome.game/) by the Fulbright Company 
-* Comics such as [*My Favorite Thing Is Monsters*](http://www.fantagraphics.com/my-favorite-thing-is-monsters/) by Emil Ferris and [*Fun Home*](http://www.houghtonmifflinbooks.com/booksellers/press_release/bechdel/) by Alison Bechdel  
+* Comics such as [*My Favorite Thing Is Monsters*](http://www.fantagraphics.com/my-favorite-thing-is-monsters/) (selected chapters) by Emil Ferris and [*Fun Home*](http://www.houghtonmifflinbooks.com/booksellers/press_release/bechdel/) (selected chapters) by Alison Bechdel  
 * Radio drama such as [*Sorry, Wrong Number*](https://archive.org/details/Suspense-SorryWrongNumber) by Lucile Fletcher and [*War of the Worlds*](https://archive.org/details/WarOfTheWorlds1938RadioBroadcast256kbps/War-of-the-Worlds-1938-Radio-Broadcast-136kbps-cleaned.mp3) by Orson Welles and H.G. Wells 
 * Podcasts such as [*Everything Is Alive*](https://www.everythingisalive.com/episodes/maeve-lamppost-of-brooklyn) by Maeve Higgins, Ian Chillag, and Jennifer Mills and [*Within the Wires*](http://www.nightvalepresents.com/withinthewires) by Jeffrey Cranor, Janina Matthewson, and Mary Epworth
 * Animated films such as [*Biidaaban (The Dawn Comes)*](https://www.youtube.com/watch?v=vWjnYKyiUB8) by Amanda Strong and Leanne Betasamosake Simpson  

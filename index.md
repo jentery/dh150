@@ -19,11 +19,11 @@ Contents:
 * [Policies](#policies) 
 * [Acknowledgements](#acknowledgements)  
 
-## Description 
+# Description 
 
 Coming soon. 
 
-## Aims
+# Aims
 
 This course is designed to help you learn to: 
 
@@ -33,13 +33,13 @@ This course is designed to help you learn to:
 
 All three of these aims should, regardless of your major, apply to work across disciplines and occupations.
 
-## Background
+# Background
 
 My name is Jentery Sayers. I’m an associate professor of English and Cultural, Social, and Political Thought (CSPT), and I direct the Praxis Studio for Comparative Media Studies. I've been at UVic since 2011, and I did my PhD at the University of Washington. Most of my work is in comparative media studies. I teach American fiction, cultural studies, media, and prototyping at UVic. 
 
 More coming soon.  
 
-## Structure
+# Structure
 
 I've designed this course to unfold through a series of modules: 
 
@@ -54,11 +54,11 @@ I've designed this course to unfold through a series of modules:
 
 We’ll meet twice each week. The course will combine lectures and class discussions with workshops. I will often dedicate an entire class session to a workshop, where you’ll respond to prompts and worksheets I’ll distribute. The prompts will guide your study and practice of media, including how you make your own content with audio, image, and text.
 
-## Materials
+# Materials
 
 There are no required books or textbooks.
 
-## Schedule
+# Schedule
 
 This course unfolds through a series of modules, such as "Making a Website" and "Audio in Fiction." For each module, I link to materials, including handouts, that we'll discuss during class. Please study those materials in advance, and see me for a passcode where applicable. Thank you! 
 
@@ -214,7 +214,7 @@ The second half of your log is due today.
 
 The final exam will happen some time in April.
 
-## Assignments
+# Assignments
 
 I’m asking you to:
 
@@ -226,59 +226,59 @@ I will provide you with prompts for each of these assignments. Except for the ex
 
 There are no essays or presentations required for this course.
 
-## Notes 
+# Notes 
 
 As the term unfolds, I will share in this section notes, handouts, and reflections from lectures and workshops. Expect new content here almost every week of class. These notes should help you to develop your log and prepare for the final exam.    
 
-## Policies 
+# Policies 
 
-### Prerequisites 
+## Prerequisites 
 
 There are no prerequisites for this course. It is open to all undergraduate students at UVic. 
   
-### Assessment 
+## Assessment 
 
 The final exam and one half of your log are required to pass this course. Failure to complete these two assignments will result in a failing N grade (calculated as a 0 for your GPA). 
 
 I will use UVic's [undergraduate grading scale](https://web.uvic.ca/calendar2020-01/undergrad/info/regulations/grading.html) to produce rubrics for each assignment and assess your work. I do not post marks outside my office, and I do not use plagiarism detection software.
 
-### Late Submissions and Extensions
+## Late Submissions and Extensions
 
 If you need to request an extension or you're concerned about the possibility of a late submission, then please email me. I recommend that you do not fall behind on any assignment, if possible, but I understand that extensions may be necessary for numerous reasons. 
 
-### Communications 
+## Communications 
 
 The best way to communicate with me is in person, either by appointment or during my office hours, which are Mondays, 1-3pm, in CLE D334. You are also welcome to email me at jentery@uvic.ca. I respond to work email between 9am and 5pm, Monday through Friday, excluding holidays.  
 
 You are also welcome to communicate with Yu-Hsuan, Faith, and Ian in person or by email or appointment. TAs for this course are able to provide guidance on your work, but please see me with any questions about your marks and how assignments are assessed. 
 
-### Feedback 
+## Feedback 
 
 Yu-Hsuan, Faith, Ian, and I will provide feedback on your logs. We'll do so in writing, and feedback will be distributed in person during class. I will provide feedback in person, by appointment, on your exam. 
 
 Throughout the term, I'll request feedback (verbal and in writing) from you on how the course is going. I'll also ask you to complete Course Experience Surveys at the end of the term (during our last meeting). 
 
-### Attendance and Participation
+## Attendance and Participation
 
 Weekly attendance in undergraduate courses is expected. If you must miss class, then please notify me ahead of time by email. Cases of continuous, unexplained absence may negatively affect your grade, log, exam, and performance in workshops. Attendance and active participation in discussions and workshops are part of fulfilling the course requirements. 
 
-### Laptops and Mobile Devices 
+## Laptops and Mobile Devices 
 
 Laptops and mobile devices are welcome in (but not required for) this course. 
 
-### Learning Climate  
+## Learning Climate  
 
 The University of Victoria is committed to promoting, providing, and protecting a positive, supportive, and safe working and learning environment for all its members. You and I are expected to adhere to [UVic's equity and human rights policies](https://www.uvic.ca/equity/). You should alert me immediately if you have any questions about these policies and their application, or if you have concerns about course proceedings or participants.
 
-### Academic Integrity  
+## Academic Integrity  
 
 You and I are expected to adhere to [UVic's academic integrity policy](https://www.uvic.ca/current-students/home/academics/academic-integrity/index.php) and be aware of the policies for the evaluation of student course work. Violations of the integrity policy will result in a failing grade for the given assignment and may additionally result in a failing grade for the course. By taking this course, you agree that all submitted assignments may be subject to an originality review. I do not use software to detect plagiarism in essays or any other assignments.
 
-### Accessibility and Accommodation 
+## Accessibility and Accommodation 
 
 Students with diverse learning styles and needs are welcome in this course. In particular, if you have a disability or health consideration that may require accommodations, please feel free to approach me and/or the [Centre for Accessible Learning (CAL)](https://www.uvic.ca/services/cal/) as soon as possible. CAL staff are available by appointment to assess specific needs, provide referrals, and arrange appropriate accommodations. The sooner you let us know your needs, the quicker we can assist you in achieving your learning goals in this course.
 
-### Basic Needs 
+## Basic Needs 
 
 I want you to thrive in this course and everywhere else. Please let me know as early as possible if you have any concerns or if you require any assistance to succeed. I’ll do my best to help.
 

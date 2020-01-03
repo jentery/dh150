@@ -14,7 +14,7 @@ Contents:
 * [Structure](#structure)  
 * [Materials](#materials)      
 * [Schedule](#schedule)   
-* [Prompts](#prompts) 
+* [Assignments](#assignments) 
 * [Notes](#notes)   
 * [Policies](#policies) 
 * [Acknowledgements](#acknowledgements)  
@@ -25,15 +25,21 @@ Coming soon.
 
 ## Aims
 
-Coming soon.  
+This course is designed to help you learn to: 
+
+* Interpret the use of audio, image, and text, especially for storytelling. We'll practice various techniques for listening, watching, seeing, reading, and playing media.
+* Communicate with audio, image, and text. You’ll have opportunities to practice composing with each of these media.
+* Make a simple website and some content for it. No worries if you’ve never made your own site. I’ll provide you with examples and templates, and I will assume no experience in web design or content management.
+
+All three of these aims should, regardless of your major, apply to work across disciplines and occupations.
 
 ## Background
 
-My name is Jentery Sayers. I’m an associate professor of English and Cultural, Social, and Political Thought (CSPT), and I direct the Praxis Studio for Comparative Media Studies. I've been at UVic since 2011, and I did my PhD at the University of Washington. Most of my work is in comparative media studies. I teach American fiction, cultural studies, media, materialism, and prototyping at UVic. 
+My name is Jentery Sayers. I’m an associate professor of English and Cultural, Social, and Political Thought (CSPT), and I direct the Praxis Studio for Comparative Media Studies. I've been at UVic since 2011, and I did my PhD at the University of Washington. Most of my work is in comparative media studies. I teach American fiction, cultural studies, media, and prototyping at UVic. 
 
 More coming soon.  
 
-## Structure 
+## Structure
 
 I've designed this course to unfold through a series of modules: 
 
@@ -46,9 +52,11 @@ I've designed this course to unfold through a series of modules:
 * "Prototyping with Media and Fiction" 
 * "Remembering Media" 
 
+We’ll meet twice each week. The course will combine lectures and class discussions with workshops. I will often dedicate an entire class session to a workshop, where you’ll respond to prompts and worksheets I’ll distribute. The prompts will guide your study and practice of media, including how you make your own content with audio, image, and text.
+
 ## Materials
 
-Coming soon. 
+There are no required books or textbooks.
 
 ## Schedule
 
@@ -56,9 +64,17 @@ This course unfolds through a series of modules, such as "Making a Website" and 
 
 More coming soon. 
 
-## Prompts
+## Assignments
 
-Coming soon. 
+I’m asking you to:
+
+* Keep a log / journal of your work, marked at the middle and end of term (each of these two marks will be 25% of your final grade)
+* Submit worksheets for four workshops (each 5% of your mark)
+* Take an exam at the end of term (30% of your final mark)
+
+I will provide you with prompts for each of these assignments. Except for the exam, which you'll submit to me in person, all of the assignments will be submitted online. You'll create a URL and website (public or private) for your log, and the worksheets will be online forms. 
+
+There are no essays or presentations required for this course.
 
 ## Notes 
 

@@ -1,5 +1,3 @@
-# "Digital Humanities 150" FAQ
-
 This is an FAQ for undergraduate students in my Digital Humanities 150 course (Spring 2020) at the University of Victoria. I'll circulate the full course outline in early January. 
 
 ## What Will We Study? 

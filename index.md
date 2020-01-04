@@ -85,7 +85,7 @@ Handout, ["Definitions"](#definitions)
 
 ### M 13 January 
 
-Nalo Hopkinson, ["Message in a Bottle"](http://jenteryteaches.com/noneshall/150/hopkinson.pdf) (2005; 25 pages) 
+Nalo Hopkinson, ["Message in a Bottle"](http://jenteryteaches.com/noneshall/150/hopkinsonMessageInABottle.pdf) (2005; 25 pages) 
 
 Handout, ["Why Media?"](#why-media)
 

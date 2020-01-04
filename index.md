@@ -175,7 +175,7 @@ This module focuses on the use of typefaces, links, rules, and menus in fiction.
 
 ### R 9 March
 
-Handout, ["Text and Fiction"](#text-in-fiction)
+Handout, ["Text and Fiction"](#text-and-fiction)
 
 ### M 12 March
 

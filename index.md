@@ -261,15 +261,15 @@ Coming soon.
 
 Coming soon. 
 
-### Audio in Fiction 
+### Audio and Fiction 
 
 Coming soon. 
 
-### Images in Fiction
+### Images and Fiction
 
 Coming soon. 
 
-### Text in Fiction
+### Text and Fiction
 
 Coming soon. 
 
@@ -286,6 +286,8 @@ Coming soon.
 Coming soon. 
 
 # Policies 
+
+Here are policies for the course. 
 
 ## Prerequisites 
 

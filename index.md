@@ -38,30 +38,32 @@ These four aims should apply to work across disciplines and occupations.
 
 My name is Jentery Sayers. I’m an associate professor of English and Cultural, Social, and Political Thought (CSPT), and I direct the Praxis Studio for Comparative Media Studies. I've been at UVic since 2011, and I did my PhD at the University of Washington. Most of my work is in comparative media studies. I teach courses on American fiction, cultural studies, media, and prototyping. 
 
-This course has a history (since 2009 or so) of asking students to combine theories of digital media with media practice. The content is grounded in the humanities, but with questions relevent to the arts and sciences, too. I've taught the course numerous times in the past. I find the humanities to be central to matters of media and technology because they demonstrate how history, fiction, language, and culture are fundamental to not only innovation (or the combination of critical and experimental work) but also values-oriented design (how stuff is made, by whom, and for whom). Pedagogically, I like to anchor inquiry in how "this becomes that": how, for instance, media are composed and then change conceptually and materially over time. This means we'll combine abstractions (ideas, norms, structures) with attention to action (intepretation, prototyping, composition) and particulars (details, situations, substance) in this course. It also means we'll ask "how, when, and why?" as well as "what next, and under what assumptions?" 
+This course has a history (since 2009 or so) of asking students to combine theories of digital media with media practice. The content is grounded in the humanities, but with questions relevent to the arts and sciences, too. I've taught the course numerous times in the past. I find the humanities to be central to matters of media and technology because they demonstrate how history, fiction, language, and culture are fundamental to not only innovation (or the combination of critical and experimental work) but also values-oriented design (how stuff is made, by whom, and for whom). Pedagogically, I like to anchor inquiry in how "this becomes that": how, for instance, media are composed and then change conceptually and materially over time. This means we'll combine abstractions (ideas, norms, structures) with attention to both action (intepretation, prototyping, composition) and particulars (details, situations, substance) in this course. It also means we'll ask "how, when, and why?" as well as "what next, and under what assumptions?" 
 
 # Structure
 
 I've designed this course to unfold through a series of modules or "chunks" of content. I hope this approach provides you with a concrete sense of the course topics and areas of study.  
 
-* "What Are Media?" 
-* "Making a Website"
-* "Media Aesthetics" 
-* "Audio in Fiction" 
-* "Images in Fiction" 
-* "Text in Fiction" 
-* "Prototyping with Media and Fiction" 
-* "Remembering Media" 
+* "What Are Media?": on defining audio, image, text and their relation to fiction    
+* "Making a Website": on using HTML and CSS to compose and publish audio, images, and text 
+* "Media Aesthetics": on evaluating how we sense and make sense of media and fiction  
+* "Audio in Fiction": on ways of listening to and playing fiction 
+* "Images in Fiction": on ways of seeing, watching, and playing fiction 
+* "Text in Fiction": on ways of reading and playing fiction 
+* "Prototyping with Media and Fiction": on speculations informed by media aesthetics 
+* "Remembering Media": on what we did and learned this term 
 
 We’ll meet twice each week. The course will combine lectures and class discussions with workshops. I will often dedicate an entire class session to a workshop, where you’ll respond to prompts and worksheets I’ll distribute. The prompts will guide your study and practice of media, including how you make your own content with audio, image, and text.
 
 # Materials
 
-There are no required books or textbooks.
+There are no required books or textbooks for this course. Here's a list of what we'll study (in the order we're studying them): 
+
+Coming soon. 
 
 # Schedule
 
-This course unfolds through a series of modules, such as "Making a Website" and "Audio in Fiction." For each module, I link to materials, including handouts, that we'll discuss during class. Please study those materials in advance, and see me for a passcode where applicable. Thank you! 
+Here's the schedule for the course. I link to materials, including handouts, that we'll discuss during class. Please study those materials in advance, and see me for a passcode where applicable. Where materials are neither open access nor in the public domain, I abide by fair dealing guidelines. I also donate to Patreon accounts, where applicable. If I need to change the schedule, then I will notify you during class at least a week in advance of the change. 
 
 ## Introductions
 
@@ -79,13 +81,13 @@ This module defines and prompts discussion about key terms, including "media" an
 
 Young-Hae Chang Heavy Industries, [*M00D OF THE M0MENT*](https://www.yhchang.com/THE_MOOD_OF_THE_MOMENT_V.html) (2007; 1:53 minutes)
 
-Handout, "Definitions"
+Handout, ["Definitions"](#definitions)
 
 ### M 13 January 
 
 Nalo Hopkinson, ["Message in a Bottle"](http://jenteryteaches.com/noneshall/150/hopkinson.pdf) (2005; 25 pages) 
 
-Handout, "What's the Point?"
+Handout, ["Why Media?"](#why-media?)
 
 ## Making a Website 
 
@@ -93,15 +95,15 @@ This module focuses on using a text editor to compose a simple website in HTML a
 
 ### R 16 January 
 
-Handout, "Composing a Site"
+Handout, ["Composing a Site"](#composing-a-site)
 
 Please ensure you have access to a text editor. 
 
 ### M 20 January
 
-Handout, "Publishing a Site"
+Handout, ["Publishing a Site"](#publishing-a-site)
 
-Handout, "Prompts"
+Handout, ["Prompts"](#prompts) 
 
 ## Media Aesthetics 
 
@@ -109,9 +111,9 @@ This module outlines one way to approach media and fiction together.
 
 ### R 23 January
 
-Handout, "The 20 M's"
+Handout, ["The 20 M's"](#the-20-ms)
 
-Handout, "Apparatuses"
+Handout, ["Apparatuses"](#apparatus)
 
 ## Audio in Fiction 
 
@@ -119,7 +121,7 @@ This module focuses on the use of acousmatics, soundscapes, and voiceover in fic
 
 ### M 27 January
 
-Handout, "Audio in Fiction"
+Handout, ["Audio in Fiction"](#audio-in-fiction)
 
 ### R 30 January 
 
@@ -145,7 +147,7 @@ This module focuses on the use of frames, windows, motion, and menus in fiction.
 
 ### M 13 February
 
-Handout, "Images in Fiction" 
+Handout, ["Images in Fiction"](#images-in-fiction) 
 
 The first half of your log is due today. 
 
@@ -173,7 +175,7 @@ This module focuses on the use of typefaces, links, rules, and menus in fiction.
 
 ### R 9 March
 
-Handout, "Text in Fiction"
+Handout, ["Text in Fiction"](#text-in-fiction)
 
 ### M 12 March
 
@@ -197,11 +199,11 @@ This module focuses on using audio, image, and text to prototype what you want t
 
 ### M 26 March
 
-Handout, "Types of Prototypes" 
+Handout, ["Types of Prototypes"](#types-of-prototypes)
 
 ### R 30 March
 
-Handout, "Prototyping as Speculation" 
+Handout, ["Prototyping as Speculation"](#prototyping-as-speculation)  
 
 ## Remembering Media 
 
@@ -209,7 +211,7 @@ This module focuses on recapping and reflecting on what we learned this term.
 
 ### R 2 April 
 
-Handout, "Review" 
+Handout, ["Review"](#review) 
 
 The second half of your log is due today. 
 
@@ -229,7 +231,59 @@ There are no essays or presentations required for this course.
 
 # Notes 
 
-As the term unfolds, I will share in this section notes, handouts, and reflections from lectures and workshops. Expect new content here almost every week of class. These notes should help you to develop your log and prepare for the final exam.    
+As the term unfolds, I will share in this section notes, handouts, and reflections from lectures and workshops. Expect new content here almost every week of class. These notes should help you to develop your log and prepare for the final exam.  
+
+### Definitions
+
+Coming soon. 
+
+### Why Media?
+
+Coming soon. 
+
+### Composing a Site
+
+Coming soon. 
+
+### Publishing a Site 
+
+Coming soon.  
+
+### Prompts 
+
+Coming soon. 
+
+### The 20 Ms
+
+Coming soon. 
+
+### Apparatuses
+
+Coming soon. 
+
+### Audio in Fiction 
+
+Coming soon. 
+
+### Images in Fiction
+
+Coming soon. 
+
+### Text in Fiction
+
+Coming soon. 
+
+### Types of Prototypes 
+
+Coming soon. 
+
+### Prototyping as Speculation
+
+Coming soon. 
+
+### Review
+
+Coming soon. 
 
 # Policies 
 
@@ -243,43 +297,43 @@ The final exam and one half of your log are required to pass this course. Failur
 
 I will use UVic's [undergraduate grading scale](https://web.uvic.ca/calendar2020-01/undergrad/info/regulations/grading.html) to produce rubrics for each assignment and assess your work. I do not post marks outside my office, and I do not use plagiarism detection software.
 
-## Late Submissions and Extensions
+### Late Submissions and Extensions
 
 If you need to request an extension or you're concerned about the possibility of a late submission, then please email me. I recommend that you do not fall behind on any assignment, if possible, but I understand that extensions may be necessary for numerous reasons. 
 
-## Communications 
+### Communications 
 
 The best way to communicate with me is in person, either by appointment or during my office hours, which are Mondays, 1-3pm, in CLE D334. You are also welcome to email me at jentery@uvic.ca. I respond to work email between 9am and 5pm, Monday through Friday, excluding holidays.  
 
 You are also welcome to communicate with Yu-Hsuan, Faith, and Ian in person or by email or appointment. TAs for this course are able to provide guidance on your work, but please see me with any questions about your marks and how assignments are assessed. 
 
-## Feedback 
+### Feedback 
 
 Yu-Hsuan, Faith, Ian, and I will provide feedback on your logs. We'll do so in writing, and feedback will be distributed in person during class. I will provide feedback in person, by appointment, on your exam. 
 
 Throughout the term, I'll request feedback (verbal and in writing) from you on how the course is going. I'll also ask you to complete Course Experience Surveys at the end of the term (during our last meeting). 
 
-## Attendance and Participation
+### Attendance and Participation
 
 Weekly attendance in undergraduate courses is expected. If you must miss class, then please notify me ahead of time by email. Cases of continuous, unexplained absence may negatively affect your grade, log, exam, and performance in workshops. Attendance and active participation in discussions and workshops are part of fulfilling the course requirements. 
 
-## Laptops and Mobile Devices 
+### Laptops and Mobile Devices 
 
 Laptops and mobile devices are welcome in (but not required for) this course. 
 
-## Learning Climate  
+### Learning Climate  
 
 The University of Victoria is committed to promoting, providing, and protecting a positive, supportive, and safe working and learning environment for all its members. You and I are expected to adhere to [UVic's equity and human rights policies](https://www.uvic.ca/equity/). You should alert me immediately if you have any questions about these policies and their application, or if you have concerns about course proceedings or participants.
 
-## Academic Integrity  
+### Academic Integrity  
 
 You and I are expected to adhere to [UVic's academic integrity policy](https://www.uvic.ca/current-students/home/academics/academic-integrity/index.php) and be aware of the policies for the evaluation of student course work. Violations of the integrity policy will result in a failing grade for the given assignment and may additionally result in a failing grade for the course. By taking this course, you agree that all submitted assignments may be subject to an originality review. I do not use software to detect plagiarism in essays or any other assignments.
 
-## Accessibility and Accommodation 
+### Accessibility and Accommodation 
 
 Students with diverse learning styles and needs are welcome in this course. In particular, if you have a disability or health consideration that may require accommodations, please feel free to approach me and/or the [Centre for Accessible Learning (CAL)](https://www.uvic.ca/services/cal/) as soon as possible. CAL staff are available by appointment to assess specific needs, provide referrals, and arrange appropriate accommodations. The sooner you let us know your needs, the quicker we can assist you in achieving your learning goals in this course.
 
-## Basic Needs 
+### Basic Needs 
 
 I want you to thrive in this course and everywhere else. Please let me know as early as possible if you have any concerns or if you require any assistance to succeed. I’ll do my best to help.
 

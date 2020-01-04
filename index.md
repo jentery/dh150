@@ -1,6 +1,6 @@
 Digital Humanities 150   
 An undergraduate course for 108 students   
-UVic | Spring 2020 | M,R 10-11:20am        
+UVic | Winter 2020 | M,R 10-11:20am        
 Jentery Sayers | [jentery@uvic.ca](mailto:jentery@uvic.ca)   
 Office: CLE D334 | M 1-3pm or by appt.      
 TAs: Yu-Hsuan Liou, Faith Ryan + Ian Waddell         

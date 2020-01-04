@@ -125,11 +125,11 @@ Handout, ["Audio and Fiction"](#audio-and-fiction)
 
 ### R 30 January 
 
-Orson Welles and the Mercury Theatre, [*War of the Worlds*](http://jenteryteaches.com/noneshall/150/welles.mp3) (1938; 59:19 minutes) 
+Orson Welles and the Mercury Theatre, [*War of the Worlds*](http://jenteryteaches.com/noneshall/150/wellesWoW.mp3) (1938; 59:19 minutes) 
 
 ### M 3 February 
 
-Lucille Fletcher, [*Sorry, Wrong Number*](http://jenteryteaches.com/noneshall/150/fletcher.mp3) (1943; 29:56 minutes) 
+Lucille Fletcher, [*Sorry, Wrong Number*](http://jenteryteaches.com/noneshall/150/fletcherSorryWrongNumber.mp3) (1943; 29:56 minutes) 
 
 ### R 6 February
 
@@ -140,6 +140,8 @@ Maeve Higgins, Ian Chillag, and Jennifer Mills, [*Everything Is Alive*](https://
 ### M 10 February
 
 Fandor, ["Show and Tell: The Movie Voiceover"](https://www.youtube.com/watch?v=3_qW-xPanqU) (2018; Parts [1](https://www.youtube.com/watch?v=3_qW-xPanqU) and [2](https://www.youtube.com/watch?v=I7wPUNTBkVk); 9:48 minutes) 
+
+Marina Kittaka, [*Secrets Agent*](https://even-kei.itch.io/secrets-agent) (2014; play for at least 30 minutes)
 
 ## Images in Fiction 
 
@@ -153,11 +155,11 @@ The first half of your log is due today.
 
 ### R 24 February
 
-Alison Bechdel, [*Fun Home*](http://jenteryteaches.com/noneshall/150/bechdel.pdf) (2006; selections) 
+Alison Bechdel, *Fun Home* (coming soon) (2006; selections) 
 
 ### M 27 February
 
-Emil Ferris, [*My Favorite Thing Is Monsters*](http://jenteryteaches.com/noneshall/150/ferris.pdf) (2017; selections)
+Emil Ferris, *My Favorite Thing Is Monsters* (coming soon) (2017; selections)
 
 Note that the 29th is the last day for withdrawing from full year and second term courses without penalty of failure.
 
@@ -179,7 +181,7 @@ Handout, ["Text and Fiction"](#text-and-fiction)
 
 ### M 12 March
 
-N.K. Jemisin, [*The Fifth Season*](http://jenteryteaches.com/noneshall/150/jemisin.pdf) (2015; selections) 
+N.K. Jemisin, *The Fifth Season* (coming soon) (2015; selections) 
 
 ### R 16 March
 

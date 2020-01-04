@@ -87,7 +87,7 @@ Handout, ["Definitions"](#definitions)
 
 Nalo Hopkinson, ["Message in a Bottle"](http://jenteryteaches.com/noneshall/150/hopkinson.pdf) (2005; 25 pages) 
 
-Handout, ["Why Media?"](#why-media?)
+Handout, ["Why Media?"](#why-media)
 
 ## Making a Website 
 
@@ -113,7 +113,7 @@ This module outlines one way to approach media and fiction together.
 
 Handout, ["The 20 M's"](#the-20-ms)
 
-Handout, ["Apparatuses"](#apparatus)
+Handout, ["Apparatuses"](#apparatuses)
 
 ## Audio in Fiction 
 
@@ -121,7 +121,7 @@ This module focuses on the use of acousmatics, soundscapes, and voiceover in fic
 
 ### M 27 January
 
-Handout, ["Audio in Fiction"](#audio-in-fiction)
+Handout, ["Audio and Fiction"](#audio-and-fiction)
 
 ### R 30 January 
 
@@ -147,7 +147,7 @@ This module focuses on the use of frames, windows, motion, and menus in fiction.
 
 ### M 13 February
 
-Handout, ["Images in Fiction"](#images-in-fiction) 
+Handout, ["Images and Fiction"](#images-and-fiction) 
 
 The first half of your log is due today. 
 
@@ -175,7 +175,7 @@ This module focuses on the use of typefaces, links, rules, and menus in fiction.
 
 ### R 9 March
 
-Handout, ["Text in Fiction"](#text-in-fiction)
+Handout, ["Text and Fiction"](#text-in-fiction)
 
 ### M 12 March
 
@@ -253,7 +253,7 @@ Coming soon.
 
 Coming soon. 
 
-### The 20 Ms
+### The 20 M's
 
 Coming soon. 
 

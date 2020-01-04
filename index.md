@@ -1,6 +1,6 @@
 Digital Humanities 150   
-An undergraduate course for 108 students   
-UVic | Winter 2020 | M,R 10-11:20am        
+An undergrad course for 108 students   
+UVic | Winter 2020 | M R: 10-11:20am        
 Jentery Sayers | [jentery@uvic.ca](mailto:jentery@uvic.ca)   
 Office: CLE D334 | M 1-3pm or by appt.      
 TAs: Yu-Hsuan Liou, Faith Ryan + Ian Waddell         
@@ -25,23 +25,24 @@ Coming soon.
 
 # Aims
 
-This course is designed to help you learn to: 
+This course encourages you to practice: 
 
-* Interpret the use of audio, image, and text, especially for storytelling. We'll practice various techniques for listening, watching, seeing, reading, and playing media.
-* Communicate with audio, image, and text. You’ll have opportunities to practice composing with each of these media.
-* Make a simple website and some content for it. No worries if you’ve never made your own site. I’ll provide you with examples and templates, and I will assume no experience in web design or content management.
+* Interpreting the design and use of audio, image, and text for storytelling. We'll experiment with various techniques for listening, watching, seeing, reading, and playing media.
+* Communicating persuasively with audio, image, and text. You’ll have opportunities to compose with each of these media.
+* Building a vocabulary for engaging media and fiction from the 20th and 21st centuries.  
+* Making a simple website and some content for it. No worries if you’ve never made your own site. I’ll provide you with examples and templates, and I will assume no experience in web design or content management.
 
-All three of these aims should, regardless of your major, apply to work across disciplines and occupations.
+These four aims should apply to work across disciplines and occupations.
 
 # Background
 
-My name is Jentery Sayers. I’m an associate professor of English and Cultural, Social, and Political Thought (CSPT), and I direct the Praxis Studio for Comparative Media Studies. I've been at UVic since 2011, and I did my PhD at the University of Washington. Most of my work is in comparative media studies. I teach American fiction, cultural studies, media, and prototyping at UVic. 
+My name is Jentery Sayers. I’m an associate professor of English and Cultural, Social, and Political Thought (CSPT), and I direct the Praxis Studio for Comparative Media Studies. I've been at UVic since 2011, and I did my PhD at the University of Washington. Most of my work is in comparative media studies. I teach courses on American fiction, cultural studies, media, and prototyping. 
 
-More coming soon.  
+This course has a history (since 2009 or so) of asking students to combine theories of digital media with media practice. The content is grounded in the humanities, but with questions relevent to the arts and sciences, too. I've taught the course numerous times in the past. I find the humanities to be central to matters of media and technology because they demonstrate how history, fiction, language, and culture are fundamental to not only innovation (or the combination of critical and experimental work) but also values-oriented design (how stuff is made, by whom, and for whom). Pedagogically, I like to anchor inquiry in how "this becomes that": how, for instance, media are composed and then change conceptually and materially over time. This means we'll combine abstractions (ideas, norms, structures) with attention to action (intepretation, prototyping, composition) and particulars (details, situations, substance) in this course. It also means we'll ask "how, when, and why?" as well as "what next, and under what assumptions?" 
 
 # Structure
 
-I've designed this course to unfold through a series of modules: 
+I've designed this course to unfold through a series of modules or "chunks" of content. I hope this approach provides you with a concrete sense of the course topics and areas of study.  
 
 * "What Are Media?" 
 * "Making a Website"

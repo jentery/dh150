@@ -57,13 +57,32 @@ We’ll meet twice each week. The course will combine lectures and class discuss
 
 # Materials
 
-There are no required books or textbooks for this course. Here's a list of what we'll study (in the order we're studying them): 
+There are no required books or textbooks for this course; however, I recommend purchasing *Fun Home* as well as copies of *Gone Home* and *Undertale*, which you could play with friends.
 
-Coming soon. 
+Here's a list of what we'll study (in the order we're studying them): 
+
+* Young-Hae Chang Heavy Industries, *M00D OF THE M0MENT*
+* Nalo Hopkinson, "Message in a Bottle"
+* Orson Welles and the Mercury Theatre, *War of the Worlds*
+* Lucille Fletcher, *Sorry, Wrong Number*
+* Janina Matthewson, Jeffrey Cranor, and Mary Epworth, *Within the Wires*
+* Maeve Higgins, Ian Chillag, and Jennifer Mills, *Everything Is Alive*
+* Fandor, "Show and Tell: The Movie Voiceover" 
+* Marina Kittaka, *Secrets Agent*
+* Alison Bechdel, *Fun Home* (selections) 
+* Emil Ferris, *My Favorite Thing Is Monsters* (selections) 
+* Amanda Strong and Leanne Betasamosake Simpson, *Biidaaban (The Dawn Comes)*
+* Fulbright Company, *Gone Home* 
+* N.K. Jemisin, *The Fifth Season* (selections) 
+* Porpentine and Brenda Neotenomie, *With Those We Love Alive* 
+* Toby Fox and Temmie Chang, *Undertale* 
+* Avery Alder, *Simple World* 
+
+Most of these materials are available online or in the public domain. When neither is the case, I'm providing passcode-protected access according to fair dealing guidelines. See me for the ID and passcode. Where applicable, I've donated to artists's Patreon accounts or the like. 
 
 # Schedule
 
-Here's the schedule for the course. I link to materials, including handouts, that we'll discuss during class. Please study those materials in advance, and see me for a passcode where applicable. Where materials are neither open access nor in the public domain, I abide by fair dealing guidelines. I also donate to Patreon accounts, where applicable. If I need to change the schedule, then I will notify you during class at least a week in advance of the change. 
+Here's the schedule for the course. I link to materials, including handouts, that we'll discuss during class. Please study those materials in advance, and (again) see me for a passcode where applicable. If I need to change the schedule, then I will notify you during class at least a week in advance of the change. 
 
 ## Introductions
 

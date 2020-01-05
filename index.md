@@ -424,11 +424,11 @@ Notes coming soon.
 
 Here are policies for the course. I'll review each of them during our first meeting, but please do not hesitate to contact me should you have any questions or concerns about them. 
 
-## Prerequisites 
+### Prerequisites 
 
 There are no prerequisites for this course. It is open to all undergraduate students at UVic. 
   
-## Assessment 
+### Assessment 
 
 The final exam and one half of your log are required to pass this course. Failure to complete these two assignments will result in a failing N grade (calculated as a 0 for your GPA). 
 

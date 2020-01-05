@@ -260,7 +260,27 @@ As the term unfolds, I will share in this section notes and reflections from lec
 
 ### Definitions
 
-Notes today. 
+Here are some definitions of key terms used to engage media and fiction in this course. Each definition is but one among many possibilities. (These are not *the* definitions.) After "media" and "fiction," they are alphabetized.   
+ 
+* **Fiction**: a work of audio, image, and/or text that imagines, if only in part, its character(s), world(s), and/or events(s); has a story that's arranged with narrative; may be read, watched, played, seen, and/or heard
+* **Media**: congealed labour or techniques made durable; not "the media" (singular) or "mass media" of the communications industry; three primary examples in this course are audio, image, and text 
+* **Apparatus**: a mechanism used to only design and compose media and fiction but also economize people's experiences; examples in this course include editors, grids, engines, stacks, and networks 
+* **Audio**: a congealed way of hearing and composing; at once process and thing                          
+* **Format**: a way to nest, circulate, or store media; examples include novels, comics, games, and radio            
+* **Genre**: when fiction congeals into recognizable conventions accompanied by audience expectations; may become someone's preferred way of reading; classic examples are tragedy or comedy, but other examples include fantasy, science fiction, detective, slapstick, romance, action, adventure, horror, mystery, simulation, role-playing, and suspense     
+* **Image**: a congealed way of seeing and composing; at once process and thing
+* **Labour**: what congeals in media but cannot be recorded completely by it; the activities people individually and collectively perform to produce work; examples include emotional, mental, physical, sensual, manual, and machine labour  
+* **Narrative**: how the story in a work of fiction is structured and arranged    
+* **Norms**: worldviews that fiction and media both reproduce and resist; ideologies that discipline perception, the production of knowledge, and social and cultural practice; necessarily exclude some ways of hearing, seeing, reading, and composing in favour of other ways   
+* **Play**: a negotiation or experiment with the meanings, materials, and modes of media and fiction; need not involve explicit rules; also the primary way of engaging games
+* **Prototype**: a possibility presented through media and fiction; associated terms include sketch, scenario, wireframe, experiment, and draft; not a real or finished product with a brand; usually doesn't involve post-production   
+* **Story**: the setting(s), plot, character(s), conflict(s), and point(s) of view in a work of fiction
+* **Style**: what people say is unique about how a given person or group composes with audio, images, and/or text; an artist's or author's "signature"   
+* **Technology**: a system, such as phonography, photography, print, and computing, that reproduces media; usually involves automation  
+* **Text**: a congealed way of reading and composing; at once process and thing   
+* **Work**: an output or result of labour, such as a work of fiction; not just an object or thing, but its content and the processes that went into making and circulating it 
+
+Again, these definitions are not exhaustive. I provide them to render transparent the assumptions of this course and my approaches to it. Equally important, definitions are often quite fuzzy or contingent with history and culture. They are more like guides for situations than answers to important questions, and they should be approached with a healthy dose of skepticism. What's missing from them? What do people want from them? What makes them work? I therefore hope you'll question and revise these definitions rather than adopting them wholesale for deployment in this course or elsewhere.  
 
 ### Why Media?
 
@@ -312,7 +332,7 @@ Notes coming soon.
 
 # Policies 
 
-Here are policies for the course. 
+Here are policies for the course. I'll review each of them during our first meeting, but please do not hesitate to contact me should you have any questions or concerns about them. 
 
 ## Prerequisites 
 
@@ -374,4 +394,4 @@ The [Student Services website](https://www.uvic.ca/studentaffairs/departments/st
 
 As a faculty member who has the privilege to live and work as a guest on these lands, I acknowledge with respect that the University of Victoria is located on the unceded territory of the Lkwungen peoples and the Songhees, Esquimalt, and <u>W̱</u>SÁNEĆ First Nations, whose historical relationships with the land continue to this day.
 
-I owe a debt of gratitude to Daniel Anderson, Erin R. Anderson, Anna Anthropy, Kristin Arola, Moya Bailey, Cheryl Ball, Anne Balsamo, Nina Belojevic, Kathi Inman Berens, Lauren Berlant, Rachel Sagner Buurma, micha cárdenas, Steph Ceraso, Deb Chachra, Ed Chang, Kandice Chuh, Wendy Chun, Hillary Chute, Beth Coleman, Heidi Rae Cooley, Cathy Davidson, Tracey El Hajj, Lori Emerson, Mary Flanagan, Jacob Gaboury, David Gaertner, Alexander Galloway, Margaret Galvan, Alex Gil, Lisa Gitelman, Dene Grigar, Richard Grusin, Aimi Hamraie, Katherine Hayles, Sara Hendren, Garnet Hertz, Stefan Higgins, Curtis Hisayasu, Patrick Jagoda, Kat Jungnickel, Matthew Kirschenbaum, Lauren Klein, Kim Knight, Kari Kraus, Virginia Kuhn, Elizabeth LaPensée, Alan Liu, Hector Lopez, Elizabeth Losh, Alexis Lothian, Shaun Macpherson, Mark Marino, Shannon Mattern, Ellen McCallum, Tara McPherson, W.J.T. Mitchell, Aimée Morrison, Stuart Moulthrop, Janet Murray, Timothy Murray, Lisa Nakamura, Alondra Nelson, Marcel O'Gorman, Élika Ortega, Allison Parrish, John Durham Peters, Jessica Rajko, Howard Rambsy II, Rita Raley, Matt Ratto, Margaret Rhee, Roopika Risam, Daniela Rosner, Anastasia Salter, Mark Sample, Alana Sayers, Cynthia Selfe, Steven Shaviro, Karis Shearer, Emily Short, Leanne Betasamosake Simpson, Nick Sousanis, Jonathan Sterne, Jennifer Lynn Stoever, Jesse Stommel, Victoria Szabo, Cathy Thomas, Phillip Thurtle, Whitney Trettien, Bill Turkel, Annette Vee, Noah Wardrip-Fruin, Jacqueline Wernimont, Kathleen Woodward, Melanie Yergeau, and Gregory Zinman, whose approaches to teaching and research have especially influenced the construction of this syllabus.
+I owe a debt of gratitude to Daniel Anderson, Erin R. Anderson, Anna Anthropy, Kristin Arola, Moya Bailey, Cheryl Ball, Anne Balsamo, Nina Belojevic, Ruha Benjamin, Kathi Inman Berens, Lauren Berlant, Rachel Sagner Buurma, micha cárdenas, Steph Ceraso, Deb Chachra, Ed Chang, Kandice Chuh, Wendy Chun, Hillary Chute, Beth Coleman, Heidi Rae Cooley, Cathy Davidson, Tracey El Hajj, Lori Emerson, Mary Flanagan, Jacob Gaboury, David Gaertner, Alexander Galloway, Margaret Galvan, Alex Gil, Lisa Gitelman, Dene Grigar, Richard Grusin, Aimi Hamraie, Katherine Hayles, Sara Hendren, Garnet Hertz, Stefan Higgins, Curtis Hisayasu, Patrick Jagoda, Kat Jungnickel, Matthew Kirschenbaum, Lauren Klein, Kim Knight, Kari Kraus, Virginia Kuhn, Elizabeth LaPensée, Alan Liu, Hector Lopez, Elizabeth Losh, Alexis Lothian, Shaun Macpherson, Mark Marino, Shannon Mattern, Ellen McCallum, Tara McPherson, W.J.T. Mitchell, Aimée Morrison, Stuart Moulthrop, Janet Murray, Timothy Murray, Lisa Nakamura, Alondra Nelson, Marcel O'Gorman, Élika Ortega, Allison Parrish, John Durham Peters, Jessica Rajko, Howard Rambsy II, Rita Raley, Matt Ratto, Margaret Rhee, Roopika Risam, Tara Rodgers, Daniela Rosner, Anastasia Salter, Mark Sample, Alana Sayers, Cynthia Selfe, Steven Shaviro, Karis Shearer, Emily Short, Leanne Betasamosake Simpson, Nick Sousanis, Jonathan Sterne, Jennifer Lynn Stoever, Jesse Stommel, Victoria Szabo, Cathy Thomas, Phillip Thurtle, Whitney Trettien, Bill Turkel, Annette Vee, Noah Wardrip-Fruin, Jacqueline Wernimont, Kathleen Woodward, Melanie Yergeau, and Gregory Zinman, whose approaches to teaching and research have especially influenced the construction of this syllabus.

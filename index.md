@@ -264,7 +264,7 @@ Here are some definitions of key terms used to engage media and fiction in this 
  
 * **Fiction**: a work of audio, image, and/or text that imagines, if only in part, its character(s), world(s), and/or events(s); has a story that's arranged with narrative; may be read, watched, played, seen, and/or heard
 * **Media**: congealed labour or techniques made durable; not "the media" (singular) or "mass media" of the communications industry; three primary examples in this course are audio, image, and text 
-* **Apparatus**: a mechanism used to not only design and compose media and fiction but also economize people's experiences; examples in this course include editors, grids, engines, stacks, and networks 
+* **Apparatus**: a mechanism used to measure media and fiction and also economize people's experiences; examples in this course include editors, grids, engines, stacks, and networks 
 * **Audio**: a congealed way of hearing and composing; at once process and thing                          
 * **Format**: a way to nest, circulate, or store media; examples include novels, comics, games, and radio            
 * **Genre**: when fiction congeals into recognizable conventions accompanied by audience expectations; may become someone's preferred way of reading; classic examples are tragedy or comedy, but other examples include fantasy, science fiction, detective, slapstick, romance, action, adventure, horror, mystery, simulation, role-playing, and suspense     
@@ -371,7 +371,30 @@ Consider how a given work of media and fiction intersects with your own interest
 
 ### Apparatuses
 
-Notes today. 
+Approaches to media in fiction rely heavily on how media are measured: how they are divided into components and then isolated, traversed, compared, contrasted, and the like. These components are not the inevitable output of technologies. They are decisions with histories, norms, and expectations. That is, they are made and used often, they have conventions, and people want or assume particular experiences from them. They are also entwined with disciplines and discourses, such as how people talk about games, comics, radio, and books. A mechanism for their production may be called an "apparatus."
+
+An apparatus is not exactly a form or template. It's a relation machine. It helps people to sense and make sense of media in fiction&mdash;to measure media, build vocabularies for media, and move between, within, across, beyond, and to media.
+
+Here's a list of five apparatuses at play in this course. After each, I mention some components they produce and some relations they enable. I imagine a few of the terms may be unfamiliar, but I define the terms in later modules, such as "Audio in Fiction," "Images in Fiction," and "Text in Fiction." Thanks for your patience.   
+
+* **The Grid**: produces panels and gutters in comics; columns, margins, headers, and lexia on pages; and snap guides in design software; relations premised on flatness, surface, sequence, syntax, scanning, and juxtaposition
+* **The Stack**: produces a front end and back end as well as presentation, logic, and database layers; relations premised on depth, dependencies, access, and visibility 
+* **The Network**: produces paths, maps, branches, and nodes; relations premised on links, forks, paradigms, and wandering 
+* **The Editor**: produces tracks, segments, fades, cuts, splices, wipes, and effects; relations premised on ellipsis, sequence, condensing, synchronization, and simultaneity 
+* **The Engine**: produces worlds, theatres, and models; relations premised on programming, simulation, immersion, and immediacy  
+
+These apparatuses of course intersect. Any given web project, for instance, may involve all of them. Equally interesting, an apparatus may not be explicit in people's engagements with media. The lines of a grid or the graphs for a network rarely appear on page or screen, and an engine usually wants people to forget they're inside a program or world. An apparatus is thus more like an interface. It's there, with palpable consequences; it's just not tangible or tactile.   
+
+An apparatus has clear implications for design, yet it's relevant to studies of fiction, too. If an apparatus is a relation machine, then those relations likely congeal with repeated and collocated use, understood in fiction as genre. Here's another list, then. It uses prepositions to mark relations enabled by apparatuses and then experiments with those prepositions to describe components and experiences common in particular genres, which I italicize. 
+
+* **At (spectacle)**: privileges the coherence of audio, image, and/or text into a single presentation; the story matters less than the experience; spectacles are common in *action and adventure*   
+* **Within (worldbuilding)**: privileges the configuration of audio, image, and/or text as components in a system with rules or conventions; a story is played or inhabited; worldbuilding is common in *fantasy, science fiction, and roleplaying*        
+* **Between (texture)**: privileges friction or tension between components of audio, image, and/or text; a story emerges from play or ambiguity and may promise resolution; texture is common in *strategy, comedy, and detective fiction*   
+* **Across (deferral)**: privileges the use of audio, image, and/or text to make promises and then postpone delivery; the story thrives on what is or could be next; deferral is common in *mystery, horror, thrillers, and suspense*   
+* **Beyond (epic)**: privileges pointing to audio, image, and/or text found elsewhere; the story is part of and refers to something larger; epic is common in *sagas, encyclopedic fiction, and historical fiction* 
+* **To (address)**: privileges interpellation (hey you!) or identification (it me!) via components of audio, image, and/or text; address is common in *simulation and coming-of-age fiction*    
+
+These aren't recipes for genres, and this isn't an exercise in totalization (as if one list could capture all the things). It's simply a starting point for approaching media in fiction through an apparatus. I return to the notion of genre later in this course. For now, I'll repeat here my definition of it: "genre: when fiction congeals into recognizable conventions accompanied by audience expectations; may become someone's preferred way of reading." The apparatus of media, or how they're measured, shapes these conventions and expectations.  
 
 ### Audio and Fiction 
 

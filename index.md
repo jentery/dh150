@@ -178,7 +178,7 @@ The first half of your log is due today. Reading break is next week (February 17
 
 ### R 24 February
 
-Alison Bechdel, *Fun Home* (coming soon) (2006; selections) 
+Alison Bechdel, *Fun Home: A Family Tragicomic* (coming soon) (2006; selections) 
 
 ### M 27 February
 

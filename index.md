@@ -69,7 +69,7 @@ Here's a list of what we'll study (in the order we'll study them):
 * Maeve Higgins, Ian Chillag, and Jennifer Mills, *Everything Is Alive*
 * Fandor, "Show and Tell: The Movie Voiceover" 
 * Marina Kittaka, *Secrets Agent*
-* Alison Bechdel, *Fun Home* (selections) 
+* Alison Bechdel, *Fun Home: A Family Tragicomic* (selections) 
 * Emil Ferris, *My Favorite Thing Is Monsters* (selections) 
 * Amanda Strong and Leanne Betasamosake Simpson, *Biidaaban (The Dawn Comes)*
 * Fulbright Company, *Gone Home* 

@@ -264,7 +264,7 @@ Here are some definitions of key terms used to engage media and fiction in this 
  
 * **Fiction**: a work of audio, image, and/or text that imagines, if only in part, its character(s), world(s), and/or events(s); has a story that's arranged with narrative; may be read, watched, played, seen, and/or heard
 * **Media**: congealed labour or techniques made durable; not "the media" (singular) or "mass media" of the communications industry; three primary examples in this course are audio, image, and text 
-* **Apparatus**: a mechanism used to only design and compose media and fiction but also economize people's experiences; examples in this course include editors, grids, engines, stacks, and networks 
+* **Apparatus**: a mechanism used to not only design and compose media and fiction but also economize people's experiences; examples in this course include editors, grids, engines, stacks, and networks 
 * **Audio**: a congealed way of hearing and composing; at once process and thing                          
 * **Format**: a way to nest, circulate, or store media; examples include novels, comics, games, and radio            
 * **Genre**: when fiction congeals into recognizable conventions accompanied by audience expectations; may become someone's preferred way of reading; classic examples are tragedy or comedy, but other examples include fantasy, science fiction, detective, slapstick, romance, action, adventure, horror, mystery, simulation, role-playing, and suspense     
@@ -284,7 +284,19 @@ Again, these definitions are not exhaustive. I provide them to render transparen
 
 ### Why Media?
 
-Notes today. 
+What is the point of studying media and fiction together in the 2020s? Consider the list. It translates how this course applies generally to the practice of communication and specifically to its analytical, structural, social, cultural, and practical dimensions. None of these applications is restricted to the academy. 
+
+Approaching media and fiction together attends to matters of: 
+
+* **Situation**, or the *context of communication*, including how, when, and where people relate and collaborate through particular media and/or fictions. 
+* **Composition**, or the *content of communication*, including what people read, see, hear, watch, and play in particular media and/or fictions. 
+* **Audience**, or the *purpose of communication*, including what people need, want, and/or expect from particular media and/or fictions. 
+* **Norms**, or the *values of communication*, including what people deem to be credible, compelling, biased, predictable, or problematic about particular media and/or fictions. 
+* **Novelty**, or the *uniqueness of communication*, including how and why particular media and/or fiction are considered to be innovative, disruptive, experimental, or generic. 
+* **Engagement**, or the *experience of communication*, including what people feel and remember about particular media and/or fiction. 
+* **Design**, or the *interface of communication*, including what people notice and ignore and how they navigate content and context. 
+
+Perhaps a bit cheesy, but I use the acronym **SCANNED** to remember this list and to state succinctly why people might approach media and fiction together. I'll use the course modules to demonstrate how.  
 
 ### Composing a Site
 
@@ -300,7 +312,62 @@ Notes coming soon.
 
 ### The 20 M's
 
-Notes today. 
+This term I'll use 20 m's to facilitate our study of media and fiction. The list is a guide, not a set of instructions, and will inevitably fall apart with some practice and pressure. I avoid common dichotomies between mind and body, logic and feeling, and analysis and experience, mostly because such dichotomies are driven by norms or ideals frequently critiqued within media and literary studies. Although there's an order to the outline, with "Apprehension" appearing first, it's not a hierarchy or series of steps. The "Evaluation" section may prompt revisions to "Synthesis," for example, or some people may wish to start with "Comprehension." I use "work" throughout the guide to refer to a work of fiction and its media (audio, image, and text), and I encourage repeated description to render the process as approachable as possible. Suggestions welcome.  
+
+**Apprehension** 
+
+"What's happening here?" Apprehension is about impressions, sensations, and evocations. It's about the moment, which may be familiar. "I've felt this before." While experience may feel personal, it's social, too. It's structured by media and fiction, and it's shaped by design.   
+
+* Describe the *materials* used. 
+* Describe the *modes* or senses engaged. 
+* Describe the *mood* inhabited or experienced. 
+
+Consider recording or annotating your (initial) engagement in real time (like an unboxing video or Let's Play), if only for your own records. With express consent, you might do the same for someone else and then compare your results. Account for eye rolls and anxious feelings as well: what's off-putting, predictable, unclear, discomfiting, frustrating . . . Apprehension isn't necessarily appreciation.   
+
+**Comprehension** 
+
+"What's this about?" Comprehension is about expressions, understanding, and situating things. It's about making sense after the fact&mdash;identifying and arranging the parts. While it may feel impersonal, it's nevertheless motivated. People usually want meaning and even purpose from media and fiction. 
+
+* Describe the *modules* or parts of the work. 
+* Describe the units used to *measure* the work and its parts.  
+* Describe the *main content* of the story (who, what, when, and where).
+* Describe the work's history, its network, and its *moment* of composition (who, what, when, and where). 
+
+Consider distilling the work, reflecting on it, and even graphing its parts, story, and/or relation to other works in its network. Note how and when these practices are about control, or the pleasure of making sense of things. When is control problematic? What do graphs or classifications get wrong? 
+
+**Synthesis** 
+
+"How does it all come together?" Synthesis is about boundaries and relations. It entwines apprehension with comprehension. It connects materials with abstractions and personal experiences with structures and designs. It's never total or complete; it can't and shouldn't account for all the things.  
+
+* Describe how (you assume) the work was *made*. 
+* Get *meta*. Describe how the story is told.
+* Describe what the work *means* (or its multiple, incongruous *meanings*). 
+* Describe how it *massages* or *manipulates* people's senses.
+* Describe how people *move* with, within, across, and beyond it. 
+* Describe what *motivates* people to return to and/or identify with it. 
+* Describe how it and responses to it have *morphed* over time. 
+* Describe how it is or would be collected and *maintained* over time. 
+
+Consider taking notes for each of these but developing a response to just one or two. Otherwise, the process may be overwhelming. 
+
+**Evaluation** 
+
+"So what?" Evaluation is about assessment, or why people should care about the work and engagements with it. Evaluations have intended audiences; knowing that audience and their expectations focuses the inquiry. 
+
+* Describe how the work *mediates* its relation to power and "common sense" (norms, assumed knowledge, and congealed ways of perceiving). 
+* Describe who and what it *misses*, ignores, or essentializes.  
+* Describe the *memories* it elicits and how it elicits them. 
+* Describe how it functions as *mimesis* (show, drama) and diegesis (tell, narrative) within and against its network.  
+
+Again, consider taking notes for each of these but developing a response to just one or two. A response may not be an essay or series of paragraphs. Compose with audio, image, and/or text to determine what sticks with you and/or what others deem to be most compelling.  
+
+**Action** 
+
+"What to do about it all?" Action is about learning and intervention: what people do with a work of media and fiction they encounter and study. Perhaps they do nothing with it. Preferring not to is indeed a sort of action. But so are improving the work, responding to it, integrating it into a project, discussing it with others, and drawing motivation from it. "Active learning" assumes many forms.  
+
+* *Mobilize* the work: change it, prototype with it, teach it, critique it, exhibit it, write about it. 
+
+Consider how a given work of media and fiction intersects with your own interests and trajectories and then determine how to communicate these intersections to (or with) other people. 
 
 ### Apparatuses
 

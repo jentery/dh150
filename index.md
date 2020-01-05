@@ -82,7 +82,7 @@ Most of these materials are available online or in the public domain. When neith
 
 # Schedule
 
-Here's the schedule for the course. I link to materials, including handouts, readings, audio, games, and videos, that we'll discuss during class. Please study those materials in advance, and see me for a passcode where applicable. If I need to change the schedule, then I will notify you during class at least a week in advance of the change. 
+Here's the schedule for the course. I link to materials, including notes, readings, audio, games, and videos, that we'll discuss during class. Please study those materials in advance, and see me for a passcode where applicable. If I need to change the schedule, then I will notify you during class at least a week in advance of the change. 
 
 ## Introductions
 
@@ -100,13 +100,13 @@ This module defines and prompts discussion about key terms, including "media" an
 
 Young-Hae Chang Heavy Industries, [*M00D OF THE M0MENT*](https://www.yhchang.com/THE_MOOD_OF_THE_MOMENT_V.html) (2007; 1:53 minutes)
 
-Handout, ["Definitions"](#definitions)
+Notes, ["Definitions"](#definitions)
 
 ### M 13 January 
 
 Nalo Hopkinson, ["Message in a Bottle"](http://jenteryteaches.com/noneshall/150/hopkinsonMessageInABottle.pdf) (2005; 25 pages) 
 
-Handout, ["Why Media?"](#why-media)
+Notes, ["Why Media?"](#why-media)
 
 ## Making a Website 
 
@@ -114,15 +114,15 @@ This module focuses on using a text editor to compose a simple website in HTML a
 
 ### R 16 January 
 
-Handout, ["Composing a Site"](#composing-a-site)
+Notes, ["Composing a Site"](#composing-a-site)
 
 Please ensure you have access to a text editor. 
 
 ### M 20 January
 
-Handout, ["Publishing a Site"](#publishing-a-site)
+Notes, ["Publishing a Site"](#publishing-a-site)
 
-Handout, ["Prompts"](#prompts) 
+Notes, ["Prompts"](#prompts) 
 
 Please determine the URL for your UVic website. (It will include your NetLink ID.) Please also ensure you have access to [Cyberduck](https://cyberduck.io/). (You may want to install it on your computer.) 
 
@@ -132,9 +132,9 @@ This module outlines one way to approach media and fiction together.
 
 ### R 23 January
 
-Handout, ["The 20 M's"](#the-20-ms)
+Notes, ["The 20 M's"](#the-20-ms)
 
-Handout, ["Apparatuses"](#apparatuses)
+Notes, ["Apparatuses"](#apparatuses)
 
 Please provide me with the URL for your course website. I'll circulate an online form for this purpose. 
 
@@ -144,7 +144,7 @@ This module focuses on the use of acousmatics, soundscapes, and voiceover in fic
 
 ### M 27 January
 
-Handout, ["Audio and Fiction"](#audio-and-fiction)
+Notes, ["Audio and Fiction"](#audio-and-fiction)
 
 ### R 30 January 
 
@@ -172,7 +172,7 @@ This module focuses on the use of frames, windows, cartooning, and subjective sh
 
 ### M 13 February
 
-Handout, ["Images and Fiction"](#images-and-fiction) 
+Notes, ["Images and Fiction"](#images-and-fiction) 
 
 The first half of your log is due today. Reading break is next week (February 17-21). 
 
@@ -200,7 +200,7 @@ This module focuses on the use of typefaces, links, rules, and theatre of mind i
 
 ### R 9 March
 
-Handout, ["Text and Fiction"](#text-and-fiction)
+Notes, ["Text and Fiction"](#text-and-fiction)
 
 ### M 12 March
 
@@ -224,11 +224,11 @@ This module focuses on using audio, image, and text to prototype what you want t
 
 ### M 26 March
 
-Handout, ["Types of Prototypes"](#types-of-prototypes)
+Notes, ["Types of Prototypes"](#types-of-prototypes)
 
 ### R 30 March
 
-Handout, ["Prototyping as Speculation"](#prototyping-as-speculation)  
+Notes, ["Prototyping as Speculation"](#prototyping-as-speculation)  
 
 ## Remembering Media 
 
@@ -236,7 +236,7 @@ This module focuses on recapping and reflecting on what we learned this term.
 
 ### R 2 April 
 
-Handout, ["Review"](#review) 
+Notes, ["Review"](#review) 
 
 The second half of your log is due today. 
 
@@ -256,59 +256,59 @@ There are no essays or presentations required for this course.
 
 # Notes 
 
-As the term unfolds, I will share in this section notes, handouts, and reflections from lectures and workshops. Expect new content here almost every week of class. These notes should help you to develop your log and prepare for the final exam.  
+As the term unfolds, I will share in this section notes and reflections from lectures and workshops. Expect new content here almost every week of class. These notes should help you to develop your log and prepare for the final exam.  
 
 ### Definitions
 
-Coming soon. 
+Notes today. 
 
 ### Why Media?
 
-Coming soon. 
+Notes today. 
 
 ### Composing a Site
 
-Coming soon. 
+Notes coming soon. 
 
 ### Publishing a Site 
 
-Coming soon.  
+Notes coming soon.  
 
 ### Prompts 
 
-Coming soon. 
+Notes coming soon. 
 
 ### The 20 M's
 
-Coming soon. 
+Notes today. 
 
 ### Apparatuses
 
-Coming soon. 
+Notes today. 
 
 ### Audio and Fiction 
 
-Coming soon. 
+Notes coming soon. 
 
 ### Images and Fiction
 
-Coming soon. 
+Notes coming soon. 
 
 ### Text and Fiction
 
-Coming soon. 
+Notes coming soon. 
 
 ### Types of Prototypes 
 
-Coming soon. 
+Notes coming soon. 
 
 ### Prototyping as Speculation
 
-Coming soon. 
+Notes coming soon. 
 
 ### Review
 
-Coming soon. 
+Notes coming soon. 
 
 # Policies 
 

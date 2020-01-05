@@ -4,7 +4,7 @@ UVic | Winter 2020 | M R: 10-11:20am
 Jentery Sayers | [jentery@uvic.ca](mailto:jentery@uvic.ca)   
 Office: CLE D334 | M 1-3pm or by appt.      
 TAs: Yu-Hsuan Liou, Faith Ryan + Ian Waddell         
-[jentery.github.io/dh150/](https://jentery.github.io/dh150/) ([PDF](https://jentery.github.io/dh150/syllabus.pdf))     
+[jentery.github.io/dh150/](https://jentery.github.io/dh150/) ([PDF](https://jentery.github.io/dh150/syllabus.pdf) without notes)     
 
 Contents: 
 
@@ -21,14 +21,14 @@ Contents:
 
 # Description 
 
-Coming soon. 
+Aside from a module on making a website, this is not a technical course. The assignments are open to media practice (such as the composition of audio and video) without requiring it. The course does not involve any quantitative or computational methods, either. Please also note that, by "media," I mean "audio, image, and text," not "the media" or mass communications and their outlets. 
 
 # Aims
 
 This course encourages you to practice: 
 
 * Interpreting the design and use of audio, image, and text for storytelling. We'll experiment with various techniques for listening, watching, seeing, reading, and playing media.
-* Communicating persuasively with audio, image, and text. You’ll have opportunities to compose with each of these media.
+* Communicating persuasively with audio, image, and text. You’ll have opportunities to compose both with and about each of these media.
 * Building a vocabulary for engaging media and fiction from the 20th and 21st centuries.  
 * Making a simple website and some content for it. No worries if you’ve never made your own site. I’ll provide you with examples and templates, and I will assume no experience in web design or content management.
 
@@ -36,13 +36,13 @@ These four aims should apply to work across disciplines and occupations.
 
 # Background
 
-My name is Jentery Sayers. I’m an associate professor of English and Cultural, Social, and Political Thought (CSPT), and I direct the Praxis Studio for Comparative Media Studies. I've been at UVic since 2011, and I did my PhD at the University of Washington. Most of my work is in comparative media studies. I teach courses on American fiction, cultural studies, media, and prototyping. 
+My name is Jentery Sayers. I’m an associate professor of English and Cultural, Social, and Political Thought (CSPT), and I direct the Praxis Studio for Comparative Media Studies. I've been at UVic since 2011, and I did my PhD at the University of Washington. Most of my work is in the field of comparative media studies. I teach courses on American fiction, cultural studies, media, and prototyping. 
 
-This course has a history (since 2009 or so) of asking students to combine theories of digital media with media practice. The content is grounded in the humanities, but with questions relevent to the arts and sciences, too. I've taught the course numerous times in the past. I find the humanities to be central to matters of media and technology because they demonstrate how history, fiction, language, and culture are fundamental to not only innovation (or the combination of critical and experimental work) but also values-oriented design (how stuff is made, by whom, and for whom). Pedagogically, I like to anchor inquiry in how "this becomes that": how, for instance, media are composed and then change conceptually and materially over time. This means we'll combine abstractions (ideas, norms, structures) with attention to both action (intepretation, prototyping, composition) and particulars (details, situations, substance) in this course. It also means we'll ask "how, when, and why?" as well as "what next, and under what assumptions?" 
+This course has a history (since 2009 or so) of combining media concepts with media practice. The content is grounded in the humanities, but with questions relevent to the arts and sciences, too. I've taught the course numerous times in the past. I find the humanities to be central to matters of media and technology because they demonstrate how history, fiction, language, and culture are fundamental to not only innovation (or the combination of critical and experimental work) but also values-oriented design (how stuff is made, by whom, and for whom). Pedagogically, I like to anchor inquiry in how "this becomes that": how, for instance, media are composed and then change conceptually and materially over time. This means we'll combine abstractions (ideas, norms, structures) with attention to both action (intepretation, prototyping, composition) and particulars (details, situations, substance) in this course. It also means we'll ask "how, when, and why?" as well as "what next, and under what assumptions?" 
 
 # Structure
 
-I've designed this course to unfold through a series of modules or "chunks" of content. I hope this approach provides you with a concrete sense of the course topics and areas of study.  
+I've designed this course to unfold through a series of modules or "chunks" of content. I hope this design provides you with a framework for approaching the course topics and planning ahead.   
 
 * "What Are Media?": on defining audio, image, text and their relation to fiction    
 * "Making a Website": on using HTML and CSS to compose and publish audio, images, and text 
@@ -53,13 +53,13 @@ I've designed this course to unfold through a series of modules or "chunks" of c
 * "Prototyping with Media and Fiction": on speculations informed by media aesthetics 
 * "Remembering Media": on what we did and learned this term 
 
-We’ll meet twice each week. The course will combine lectures and class discussions with workshops. I will often dedicate an entire class session to a workshop, where you’ll respond to prompts and worksheets I’ll distribute. The prompts will guide your study and practice of media, including how you make your own content with audio, image, and text.
+We’ll meet twice each week. The course will combine lectures and class discussions with workshops. I will often dedicate an entire meeting to a workshop, where you’ll respond to prompts and worksheets I’ll distribute. The prompts will guide your study and practice of media, including how you make your own content with audio, image, and text.
 
 # Materials
 
-There are no required books or textbooks for this course; however, I recommend purchasing *Fun Home* as well as copies of *Gone Home* and *Undertale*, which you could play with friends.
+There are no required books or textbooks for this course; however, I recommend purchasing *Fun Home* as well as copies of *Gone Home* and *Undertale*, both of which you could play with friends.
 
-Here's a list of what we'll study (in the order we're studying them): 
+Here's a list of what we'll study (in the order we'll study them): 
 
 * Young-Hae Chang Heavy Industries, *M00D OF THE M0MENT*
 * Nalo Hopkinson, "Message in a Bottle"
@@ -82,7 +82,7 @@ Most of these materials are available online or in the public domain. When neith
 
 # Schedule
 
-Here's the schedule for the course. I link to materials, including handouts, that we'll discuss during class. Please study those materials in advance, and (again) see me for a passcode where applicable. If I need to change the schedule, then I will notify you during class at least a week in advance of the change. 
+Here's the schedule for the course. I link to materials, including handouts, readings, audio, games, and videos, that we'll discuss during class. Please study those materials in advance, and see me for a passcode where applicable. If I need to change the schedule, then I will notify you during class at least a week in advance of the change. 
 
 ## Introductions
 
@@ -90,11 +90,11 @@ We'll begin by introducing ourselves, reviewing the syllabus, and talking about 
 
 ### M 6 January
 
-Hello! It's day one.  
+Hello! It's day one. Please read the syllabus when you have a moment.    
 
 ## What Are Media? 
 
-This module defines and prompts discussion about key terms, including "media" and "fiction," used throughout the course. It also engages fundamental questions of message and address.  
+This module defines and prompts discussion about key terms, including "media" and "fiction," used throughout the course. It also engages fundamental questions of message and address in studies of media and fiction.  
 
 ### R 9 January
 
@@ -124,6 +124,8 @@ Handout, ["Publishing a Site"](#publishing-a-site)
 
 Handout, ["Prompts"](#prompts) 
 
+Please determine the URL for your UVic website. (It will include your NetLink ID.) Please also ensure you have access to [Cyberduck](https://cyberduck.io/). (You may want to install it on your computer.) 
+
 ## Media Aesthetics 
 
 This module outlines one way to approach media and fiction together. 
@@ -133,6 +135,8 @@ This module outlines one way to approach media and fiction together.
 Handout, ["The 20 M's"](#the-20-ms)
 
 Handout, ["Apparatuses"](#apparatuses)
+
+Please provide me with the URL for your course website. I'll circulate an online form for this purpose. 
 
 ## Audio in Fiction 
 
@@ -164,7 +168,7 @@ Marina Kittaka, [*Secrets Agent*](https://even-kei.itch.io/secrets-agent) (2014;
 
 ## Images in Fiction 
 
-This module focuses on the use of frames, windows, motion, and menus in fiction.  
+This module focuses on the use of frames, windows, cartooning, and subjective shots in fiction.  
 
 ### M 13 February
 
@@ -180,7 +184,7 @@ Alison Bechdel, *Fun Home* (coming soon) (2006; selections)
 
 Emil Ferris, *My Favorite Thing Is Monsters* (coming soon) (2017; selections)
 
-Note that the 29th is the last day for withdrawing from full year and second term courses without penalty of failure.
+Note that the 29th is the last day to withdraw from the course without penalty of failure.
 
 ### R 2 March
 
@@ -192,7 +196,7 @@ Fulbright Company, [*Gone Home*](https://gonehome.game/) (2013; play or watch no
 
 ## Text in Fiction 
 
-This module focuses on the use of typefaces, links, rules, and menus in fiction. 
+This module focuses on the use of typefaces, links, rules, and theatre of mind in fiction. 
 
 ### R 9 March
 
@@ -236,7 +240,7 @@ Handout, ["Review"](#review)
 
 The second half of your log is due today. 
 
-The final exam will happen some time in April.
+The final exam will be scheduled for some time in April.
 
 # Assignments
 

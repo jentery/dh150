@@ -84,6 +84,8 @@ Most of these materials are available online or in the public domain. When neith
 
 Here's the schedule for the course. I link to materials, including notes, readings, audio, games, and videos, that we'll discuss during class. Please study those materials in advance, and see me for a passcode where applicable. If I need to change the schedule, then I will notify you during class at least a week in advance of the change. 
 
+To keep us on schedule and help all of us plan ahead, expect an email from me to everyone in this class once (and only once) per week. If you're not receiving that weekly email, then please let me know. 
+
 ## Introductions
 
 We'll begin by introducing ourselves, reviewing the syllabus, and talking about the aims and assumptions of the course.  

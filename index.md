@@ -174,7 +174,7 @@ This module focuses on the use of frames, windows, cartooning, and subjective sh
 
 Handout, ["Images and Fiction"](#images-and-fiction) 
 
-The first half of your log is due today. 
+The first half of your log is due today. Reading break is next week (February 17-21). 
 
 ### R 24 February
 

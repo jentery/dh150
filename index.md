@@ -306,11 +306,123 @@ I use the acronym **SCANNED** to remember this list and to state succinctly why 
 
 ### Composing a Site
 
-Notes coming soon. 
+Here I'm going to explain how to keep a research log for this course using audio, image, and text. The log can be disseminated online as a website, but connecting to the internet isn't required to read or compose it. This module ("Making a Website") is the only technical part of the course. I promise!  
+
+The log has eight components, all explained below. Composition happens in a text editor (1), conceptualization in a wireframe (2), encoding in HTML (3), media via referenced source files (4), presentation in CSS (5), distribution via FTP (6), publication via a URL (7), and validation via a . . . validator (8). Two formats are involved: HTML, which is the primary file format (`index.html`), and the log, which nests paragraphs of text organized into articles displayed on a page in reverse chronological order (newest content at the top), with a references section at the bottom.
+
+**Text Editor** 
+
+A text editor is not a word processor. It does not, for instance, present content as it may appear in print. Most computers come with a text editor already installed, but one can also be downloaded. I use [Sublime Text](https://www.sublimetext.com/). When trying a text editor for the first time, I experiment with the settings. I paste some placeholder text (called "lorem ipsum") into the editor and then save it to my desktop as both a TXT and HTML file. (When naming files, I use camelCase, such as `myFile.html` or `mySong.mp3`, or snake_case, such as `my_file.html` or `my_song.mp3`, to avoid introducing spaces in filenames. Spaces create all sorts of problems.) I test colour schemes, too, and I check to see which dictionaries (such as Canadian English) are available. I also run a quick find and replace command to see how well that command functions in the editor, and I enable the "word wrap" feature if it's not already selected. (Word wrap ensures text appears within the width of the editor's window.) Once I'm done, I open other files, including HTML files, to see whether and how the editor highlights syntax (that is, how it displays text in different colours and fonts according to a given language's grammar and vocabulary). Syntax highlighting is very useful when writing in HTML. It highlights HTML tags, for example (see "HTML" below), allowing people to check for encoding errors and also scan a document to assess its structure. 
+
+Text editors are designed according to lines, not pages. An entire paragraph of content will be only a line in an editor. Lines are also dedicated to spaces, such as spaces between paragraphs. I use a text editor to write essays and code, make websites and slides, and take notes. I composed this syllabus in a text editor, and with [Pandoc](https://pandoc.org/) I converted the content into multiple formats so that people could access it via the web, e-readers, and print. One perceived benefit of writing with a text editor is that it can minimize distractions. Experiences vary, but I'm less likely to care about how many pages or words I've written, or the appearance and layout of my work, when using a text editor. There's less pressure; to me, text editors feel indifferent to circulation and publication. I also enjoy composing practically all my work in the same environment and would rather keep software subscriptions and dependencies to a minimum. Since text files are not large, they don't consume a bunch of space on my hard drive, either; nonetheless, I routinely back them up to a remote server, just in case something happens to my laptop.  
+
+Text editors also foreground how and to what effects text are media. As explained in the following sections, composing HTML and CSS in an editor involves *toggling between text as content, presentation, annotation, structure, and rule*. Text serves more than one function. It helps to produce meaning, it describes, it shapes, it decorates, and it instructs. Yet some of those functions are not always obvious. A browser, for example, will initially display only the content and presentation of a document. People have to examine the document's source files to see some of the annotations, structures, and rules at play. Such examination evokes all the labour involved in making and maintaining the material people find online, including what's hidden from view. Despite all the rhetoric about digital this and digital that, the work of contemporary media isn't fast, easy, and automated, and a lot of it goes unacknowledged, unattributed, and uncompensated. 
+
+**HTML* 
+
+HyperText Markup Language (HTML) is a format and markup language used to present documents in browsers. It has a syntax made of tags. For keeping a research log, I made this HTML document (COMING SOON), named `index.html`. (I explain the reason for the filename in the "URL" section below.) The document is quite simple, and it's only a page. My advice is to print this PDF version (COMING SOON) of the `index.html` file and then manually copy it, line by line, as a new file in a text editor. This way, HTML should be easier to recall as a process and not just a resource to copy and paste. This new file can also be named `index.html` (using `Save As...`). Clicking it should open it in a browser, where the source HTML can be viewed using a shortcut in Chrome (`Option+Command+U` on a Mac; `CTRL + U` on a PC), Firefox (`Command + U` on a Mac; `CTRL + U` on a PC), or Safari (`Option+Command+U` on a Mac).
+
+An HTML document has a `<head>` and `<body>`. They're separate, but both are nested inside the `<html>` tag. The `<head>` section contains meta stuff, such as the content type, author name, page title, and language used. It can be seen in the source HTML; however, the `<head>` is not initially displayed in a browser. The `<body>`, meanwhile, is initially displayed in the browser and can be seen in the source HTML. It contains content, such as articles, headers, paragraphs, lists, images, audio, video, links, and footers. This content is annotated and structured with tags, which usually open with `< >` and close with `</ >` (an exception is an "empty tag," such as `<img>` and `<meta>`, because they do not describe content). Here is a list of useful tags for keeping a research log. All of them appear in the `index.html` file I provide.  
+
+**Inside the Head**    
+* `<head>`: contains the metadata of a page and its site; not the same as `<header>` 
+* `<meta>` (empty tag): specific metadata about the site, such as the author name, language, and keywords
+* `<title>`: the title of the page (this title appears in tabs and search engine results)
+* `<link>` (empty tag): used to reference a stylesheet (see "CSS" below) 
+
+**Inside the Body**   
+* `<body>`: contains the content of the page 
+* `<h1>, <h2>, <h3>`: section headings on the page; often used for titles of entries
+* `<article>`: an article or entry on the page 
+* `<header>`: a header of an article on the page; usually includes the article's title; not the same as `<head>`  
+* `<aside>`: content, such as an "about me" section, indirectly related to the main content
+* `<footer>`: content at the bottom of the page; usually includes basic information about the site or page 
+* `<p>`: a paragraph 
+* `<a>`: an anchor; used to create links to other sites or content elsewhere on the page or site; accompanied by `<href>`, which points to a URL (see "URL" below)
+* `<code>`: a snippet of code 
+* `<em>`: emphasized text; usually results in italics  
+* `<strong>`: important text; usually results in bold 
+* `<img>` (empty tag): an image file; requires pointing to a source file via `src` 
+* `<audio>`: an audio file; requires pointing to a source file via `src`
+* `<video>`: a video file; requires pointing to a source file via `src`
+
+In the `index.html` file I provide, I use these tags to structure the log into a series of articles, producing the format of a research log. Each article contains content as well as a header, stylized like so: 
+
+`<header>`   
+`<h2>1: A Wireframe for My Research Log</h2>`    
+`<h3>6 January 2020 by Jentery Sayers</h3>`   
+`</header>`   
+
+The title (`<h2>`) includes the number of the entry and a title for it. The metadata (`<h3>`) includes the date and author name. (I used my actual name here; however, authors obviously identify and attribute their work in multiple ways, which may not correspond partly or entirely with their actual names.) The article title and metadata are nested in a header (`<header>`), with the newest entry at the top of the page (reverse chronological order) and a references section at the bottom of the page. The content of each article is nested in paragraphs (`<p>`), and headers and paragraphs are nested in articles (`<article>`). Comments, which are often used for notes, explanations, and instructions as well as revisions and draft material, appear within `<!-- -->`. They are viewable only in the HTML source files. (Sometimes people forget they're there.)
+
+The above snippet of `<header>` markup demonstrates HTML's use of *syntax*&mdash;a grammar or economy for giving a structure and vocabulary to text: using tags to arrange blocks of content into headings, for instance. But HTML also addresses *semantics* by defining the attributes of its elements: for example, `<p>` means, "This is a paragraph." Together, the syntax and semantics of HTML help people and machines to interpret the form of documents and their use of text as media. 
+
+Today, HTML is frequently automated through WYSIWYG (what-you-see-is-what-you-get) interfaces found in content management systems and word processors. People can simply highlight a word and convert it into a link, or they can run with an existing website theme instead of learning markup. But knowing how to compose with HTML isn't outdated; it's not some act of nostalgia for folks who won't let go of their text editors. It remains useful for several reasons. First, HTML is everywhere, and it's been around for a long time. HTML is now in version 5 (HTML5), and people across occupations rely on it to write. HTML is also a core component of web design. Familiarity with HTML increases confidence in not only the interpretation of online materials but also the creation of unique or experimental content. Third, management systems tend to give people way more than they need: databases, plugins, and themes, for example. While such systems may reduce learning curves, they usually increase labour over time. There's a reason they're called management systems: they require maintenance (such as updates), storage (usually on a remote server), other programs (called "dependencies"), and perhaps embedded advertisements. They may be susceptible to hacks, too, and getting all your stuff (media, content, and design files) out of a management system can be difficult. (I recommend avoiding software that doesn't let you export, or easily export, your stuff.) Conversely, a simple site, written locally on your computer, can be easier in the long run, with fewer storage and maintenance demands. (This research log, for example, should fit on a USB stick or phone.) Finally, the manual composition of HTML helps people to determine when they need, and don't need, to use particular software (including proprietary software), toolkits (like Bootstrap), and markup alternatives (such as Markdown, used by Reddit and GitHub). Making these decisions based on what's either necessary or preferred for a given project, as opposed to adopting high-performance platforms popular in industry or academia, is a form of "minimal computing": a low-tech, low-maintenance, content-forward approach to media practice.
+
+**Wireframes**
+
+Wireframes are low-tech design prototypes that present the basic form and layout of websites and apps. They are almost always drawn prior to content production, and they require only pencil and paper (I prefer graph paper, but a ruler and plain paper or a whiteboard and marker work, too). Here's a wireframe (COMING SOON) of the `index.html` file I provide above. The articles (`<article>`) are nested in a single section (`<section>`), and that section is sandwiched by the header (`<h1>`, top), bio (`<aside>`, bottom), and footer (`<footer>`, bottom). The articles are the main content, the header displays the title of the log, the bio describes the author, and the footer lists the author's name and affiliation as well as the applicable license. All these tags are nested inside the body (`<body>`), and metadata (found within `<head>`) is not shown. Note that, since the log is only a page, there's no navigation bar or search box. Also note *how the page is an image*: a congealed way of seeing the research log without the particulars of content or markup. Creating and tweaking wireframes early in the composition process can save people a lot of time, labour, and resources, and many people find such low-tech, abstract representations to be quite useful when determining and testing how audiences may find, navigate, engage, and remember content. 
+
+**Media**  
+
+The `img`, `audio`, and `video` tags are used to display media in HTML documents. I'll start with images. 
+
+`<img src="wireframe.jpg" alt="A wireframe of my research log. It's drawn with pencil and contains a title at the top, four articles in the middle, and an aside and footer at the bottom. All are nested inside the body of the log. The frames contain no content or markup. The wireframe only presents the log's general shape and structure.">`
+
+This `img` tag with `src=` is used to point to a JPEG file inside the same folder as `index.html` (see "HTML" above), and `alt=` is used to describe the image as text. This alternative text helps people using screen readers to hear and interpret the image content. Search engines also read alt text, which shapes search results. Common image formats are JPEG, GIF, TIFF, and PNG. For this research log, image widths of 400-800 pixels are probably best. Images can be resized in Microsoft Paint (PC) and Preview (Mac) and transfered to a server with FTP (see "FTP" below). Screengrabs can be taken with a Snipping Tool (PC) and the shortcut, `Shift-Command-4` (Mac). If image files are placed in a subdirectory such as `images`, then the `img src=` file path should point to that subdirectory: `<img src="images/wireframe.jpg">` instead of `<img src="wireframe.jpg">`, for example. References to source files won't work if the path isn't placed inside quotation marks (`" "`). 
+
+Audio and video are a bit different, in part because they require controls (a "player").
+
+`<audio controls>`    
+`<source src="wireframe.mp3" type="audio/mpeg">`    
+`<source src="wireframe.ogg" type="audio/ogg">`    
+`Your browser doesn't support HTML5 audio.`    
+`</audio>`    
+
+`<video controls width="450">`    
+`<source src="wireframe.mp4" type="video/mp4">`   
+`<source src="wireframe.webm" type="video/webm">`    
+`Your browser doesn't support HTML5 video.`    
+`</video>`     
+
+Again, the `src=` points to a file within the same folder as `index.html`, but the types are defined (`mp3` or `ogg` for audio; `mp4` or `webm` for video), and at least two formats are provided for each (to render the audio and video more accessible across browsers with different supported formats). `Your browser doesn't support...` is included in case the browser can't display audio or video in HTML5. Common audio formats are MP3, Ogg, and WAV, and MP3 should work across all browsers at this point. Common video formats are MP4, Ogg, and WebM, and MP4 should work across all browsers, too. When embedding video, the frame width needs to be defined; in the example above, the width is 450 pixels. Audio and video can be created on many mobile phones and then sent to laptops and desktops. They can also be transfered to a server with FTP (see "FTP" below). Audacity is a popular, cross-platform audio editor; iMovie is provided for video on Macs; and the Photos app on PCs can be used to edit video. The Adobe Creative suite remains an industry standard for both audio and video as well as design. If audio and video files are placed in a subdirectory such as `assets` or `media`, then the `source src=` file path should point to that subdirectory: `<source src="media/wireframe.mp3">` instead of `<source src="wireframe.mp3">`, for example. People often place all their media (images, audio, and video) in one folder, if only to make them easier to find. And again, references to source files won't work if the path isn't placed inside quotation marks (`" "`). 
+
+One final note: image, audio, and video do not need to be embedded in an HTML document. Links are an alternative, and they can also supplement embedded media: `<a href="wireframe.mp3">description of my wireframe</a>`, `<a href="wireframe.mp4">video of my wireframe</a>`, or `<a href="wireframe.jpg">photo of my wireframe</a>`, for example. A link sends people to another page (in this case, one dedicated to an image, audio clip, or video clip), and it also provides them with the address (see "URL" below) of source files. That address is used to download (`Save As...`) media. 
+
+**CSS**
+
+While HTML is a markup language, Cascading Style Sheets (CSS) is a style sheet language. HTML emphasizes structure and semantics; it organizes content and annotates it. CSS emphasizes structure and rules; it describes the presentation of markup such as HTML. Both involve a syntax. But, in short, presentation and its structure (CSS, in `style.css`) are separated from content and its structure (HTML, in `index.html`), and together they are rendered as a page in a browser. As with HTML, I made an example CSS file (COMING SOON) to use for a research log. It's also quite basic, intended only to give people a sense of how CSS works. My advice is to print this PDF version (COMING SOON) of the file and then manually copy it, line by line, in a text editor. This new file can also be named `style.css` (using `Save As...`), which is the CSS filename conventionally used in web design.  
+
+CSS is the file pertaining to layout, fonts, colour, and decoration. It contains a list of rules. A rule (also called a rule set) requires a "selector" and "declaration block," and that declaration block consists of properties and values. Consider, for instance, a few lines near the top of the `style.css` file referenced above: 
+
+`body {`      
+`font-family: Helvetica, Arial, sans-serif;`    
+`background-color: #ffffff;`    
+`}`
+
+The selector is `body`, the declaration block includes two declarations made within braces (`{ }`), the properties in the declaration are `font-family` and `background-color`, and the values of the properties are `Helvetica, Arial, sans-serif` and `#ffffff`. If I translate this rule set into sentences, it says: "The body text, including headings and paragraphs, should be displayed in Helvetica, with a background colour of white. If Helvetica is not installed, the text should display in Arial. If Arial is not installed, the text should display in the default sans-serif font." Note that CSS uses American English ("color"), hexidecimal values (a hash followed by six alphanumeric characters, such as `#ffffff` for white), hyphens between words in properties, colons to separate properties from values, and semicolons to define the end of a declaration. I recommend using no more than two fonts on a page and establishing contrast between the foreground (text colour) and background (background color). Hexidecimal colour codes and pickers are available online, Google maintains a large [collection of fonts](https://fonts.google.com/), and Utah State University's WebAim project provides tools, such as the [contrast checker](https://webaim.org/resources/contrastchecker/), for accessibility. 
+
+In this case, the style sheet I provide does not contain very many rule sets. What is not defined (such as font size and colour) will be defined by the system and/or browser's default settings. I'm keeping the style simple to focus the log on content and to decrease page load time. That said, there's a plenty of room for the sheet to grow. For now, here's a list of the selectors appearing in the `style.css` file I provide. 
+
+* `body`: describes the presentation of content within the HTML `<body>` tag 
+* `article`: describes the presentation of content within the HTML `<article>` tag
+* `aside`: describes the presentation of content within the HTML `<aside>` tag
+* `footer`: describes the presentation of content within the HTML `<footer>` tag
+* `a`: describes the presentation of anchor (`<a>`) tags, including `a:link` (an unvisited link), `a:visited` (a visited link), `a:hover` (mouse-over effect), and `a:active` (clicked or selected link), which should be listed in that order in the `style.css` file 
+
+One perhaps unfamiliar property in `style.css` is `padding`. It creates space around an HTML element defined by a tag such as `<aside>`. If the element has a border, then `padding` is the space between the content and its border. 
+
+Of course, `style.css` needs to "talk" to `index.html`. This connection is made via a reference already included in the `<head>` of the `index.html` file I reference above: 
+
+`<link rel="stylesheet" href="style.css">`
+
+Style sheets for websites can usually be found by adding `style.css` after the `/` at the end of a URL (see "URL" below), and they more or less operate in the background. Sometimes they are embedded in HTML files, but I recommend creating a separate CSS file, especially when building large sites. A single change to a CSS file can apply to an entire website. I also prefer to toggle between reading CSS and HTML instead of interpreting them in the same space.  
+
+CSS is interesting because, although it helps to create the page content and presentation people see on screens (or hear with screen readers), it's initially hidden from view and interpreted mostly by machines. Again, CSS is a set of declarations written with text: a language made for rendering optical images with pixels. Even if it does run in the background, learning to compose with it facilitates important distinctions between making meaning and making rules with text. Both are constructed and interpreted; however, *rules are to be enacted while meaning is to be deciphered.* 
 
 ### Publishing a Site 
 
-Notes coming soon.  
+Notes coming soon.   
 
 ### Prompts 
 

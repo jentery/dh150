@@ -422,7 +422,23 @@ CSS is interesting because, although it helps to create the page content and pre
 
 ### Publishing a Site 
 
-Notes coming soon.   
+I described the first five components of a research log in "Composing a Site." Here I'll describe the other three components.  
+
+**FTP**
+
+People use File Transfer Protocol (FTP) to move files between "clients" (such as laptops, mobile phones, programs, and desktop computers) and servers on a network. FTP is a way to backup files; it's also a mechanism for dissemination and publication. I can, for example, open an FTP application, log into my host server, and transfer my `index.html` file (see "HTML" above) by dragging and dropping it from my desktop into the FTP application. Depending on the server settings and where exactly I drop the file, `index.html` may be discoverable online. 
+
+As an example, students at the University of Victoria (UVic) may use FTP and UVic's hosting services to publish web content. Systems provides [instructions](https://www.uvic.ca/systems/support/web/webhosting-students/index.php) for the entire process (only five steps!), and they recommend a Secure File Transfer Protocol (SFTP) application called Cyberduck. To connect and transfer files to `studentweb.uvic.ca` (the host server), you need a secure internet connection to the UVic network either on campus or via a [Virtual Private Network (VPN)](https://www.uvic.ca/systems/support/internettelephone/remoteaccess/index.php) when not on campus. You can also restrict access to your site using [Windows](https://www.uvic.ca/systems/support/web/webhosting-students/restrictwindows.php) or [Mac OS](https://www.uvic.ca/systems/support/web/webhosting-students/restrictmacos.php). Files placed in the `www` folder of `student.uvic.ca` will be found at `https://studentweb.uvic.ca/~NetLinkID`, where `NetLinkID` is the student's NetLink ID (for example, my NetLinkID is `jentery`, and thus my student URL would be `https://studentweb.uvic.ca/~jentery`). It's easy to forget, but the `~` before the NetLink ID in the URL is required. Student web content will not appear without it.   
+
+FTP applications rely on Graphical User Interfaces (GUIs) to facilitate transfer. This way, people can use input fields, icons, windows, buttons, and lists instead of writing text commands in a computer terminal. Images accompany text in a GUI to render the transfer process more approachable, and an FTP connection to a host server may in some cases decrease or eliminate the need for content management and/or file sharing systems. Again, experiences vary. 
+
+**URL**  
+
+A Uniform Resource Locator (URL) is a reference to a resource on the web. The most common type of URL refers to a webpage via Hypertext Transfer Protocol (HTTP). URLs are found in address bars of browsers and are also called web addresses. At the University of Victoria (UVic), an example is `https://studentweb.uvic.ca/~NetLinkID/index.html`. The protocol is HTTP (secured, hence the `s` in `https`), the host is `studentweb.uvic.ca`, the subdirectory is `~NetLinkID` (such as `~jentery`), and the filename is `index.html`. When `https://studentweb.uvic.ca/~NetLinkID/` is entered in an address bar, the browser will look for the server's default document. In this case (and in most), that default document is `index.html`, meaning people can just type `https://studentweb.uvic.ca/~NetLinkID/` (without the filename) to load the site. For this reason, `index` is the filename most often used for website homepages, and it's the filename used for the research log in this course.  
+
+**Validator**
+
+The syntax of CSS and HTML&mdash;their grammar, vocabulary, and resulting structure&mdash;can be validated by a computer. Validation attends to not only functionality, such as the economical uses of tags and selectors, but also accessibility, including engagement with media by people with disabilities and impairments. The [W3C Web Accessibility Initiative (WAI)](https://www.w3.org/WAI/) observes that "accessibility is essential for some and useful for all," and they provide validation services for [markup](https://validator.w3.org/) and [CSS](http://jigsaw.w3.org/css-validator/). Material can be validated via upload, URL, or direct input. While valid syntax is but one step toward accessibility, it's an important and informative one, especially when considered early and often. I try to validate a research log whenever I publish new entries. 
 
 ### Prompts 
 

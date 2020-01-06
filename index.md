@@ -176,27 +176,27 @@ Marina Kittaka, [*Secrets Agent*](https://even-kei.itch.io/secrets-agent) (2014;
 
 This module focuses on the use of frames, windows, cartooning, and subjective shots in fiction.  
 
-### M 13 February
+### R 13 February
 
 Notes, ["Images and Fiction"](#images-and-fiction) 
 
 The first half of your log is due today. Reading break is next week (February 17-21). 
 
-### R 24 February
+### M 24 February
 
 Alison Bechdel, *Fun Home: A Family Tragicomic* (coming soon) (2006; selections) 
 
-### M 27 February
+### R 27 February
 
 Emil Ferris, *My Favorite Thing Is Monsters* (coming soon) (2017; selections)
 
 Note that the 29th is the last day to withdraw from the course without penalty of failure.
 
-### R 2 March
+### M 2 March
 
 Amanda Strong and Leanne Betasamosake Simpson, [*Biidaaban (The Dawn Comes)*](https://www.youtube.com/watch?v=vWjnYKyiUB8) (2019; 19:14 minutes)
 
-### M 5 March
+### R 5 March
 
 Fulbright Company, [*Gone Home*](https://gonehome.game/) (2013; play or watch no-commentary gameplay for at least 60 minutes)  
 
@@ -204,23 +204,23 @@ Fulbright Company, [*Gone Home*](https://gonehome.game/) (2013; play or watch no
 
 This module focuses on the use of typefaces, links, rules, and theatre of mind in fiction. 
 
-### R 9 March
+### M 9 March
 
 Notes, ["Text and Fiction"](#text-and-fiction)
 
-### M 12 March
+### R 12 March
 
 N.K. Jemisin, *The Fifth Season* (coming soon) (2015; selections) 
 
-### R 16 March
+### M 16 March
 
 Porpentine and Brenda Neotenomie, [*With Those We Love Alive*](http://collection.eliterature.org/3/work.html?work=with-those-we-love-alive) (2014; play for at least 45 minutes)
 
-### M 19 March
+### R 19 March
 
 Toby Fox and Temmie Chang, [*Undertale*](https://undertale.com/) (2015; play or watch no-commentary gameplay for at least 60 minutes)
 
-### R 23 March
+### M 23 March
 
 Avery Alder, [*Simple World*](https://buriedwithoutceremony.com/simple-world) (2013; 10 pages) 
 
@@ -228,11 +228,11 @@ Avery Alder, [*Simple World*](https://buriedwithoutceremony.com/simple-world) (2
 
 This module focuses on using audio, image, and text to prototype what you want to see in the world.  
 
-### M 26 March
+### R 26 March
 
 Notes, ["Types of Prototypes"](#types-of-prototypes)
 
-### R 30 March
+### M 30 March
 
 Notes, ["Prototyping as Speculation"](#prototyping-as-speculation)  
 

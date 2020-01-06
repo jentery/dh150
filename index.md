@@ -23,16 +23,16 @@ Contents:
 
 Media are everywhere. This course examines how people compose fiction with them. How do we approach media and fiction together? How do we read but also watch, see, play, and listen to fiction? How is fiction designed and experienced? 
 
-This course does not involve any quantitative methods or computer programming. Please also note that, by "media," I mean "audio, image, and text," not "the media" or mass communications and their outlets. Since this is an introductory course open to all undergraduate students at UVic, I will not assume that you have any experience with media or digital studies.  
+This course is not a technical course. It does not, for instance, involve any quantitative methods or computer programming. Please also note that, by "media," I mean "audio, image, and text," not "the media" or mass communications and their outlets. Since this is an introductory course open to all undergraduate students at UVic, I will not assume you have any experience with media or digital studies.  
 
 # Aims
 
-This course encourages you to practice: 
+This course encourages you to: 
 
-* Interpreting the design and use of audio, image, and text for storytelling. We'll experiment with various techniques for listening, watching, seeing, reading, and playing media.
-* Communicating persuasively with audio, image, and text. You’ll have opportunities to compose both with and about each of these media.
-* Building a vocabulary for engaging media and fiction from the 20th and 21st centuries.  
-* Making a simple website and some content for it. No worries if you’ve never made your own site. I’ll provide you with examples and templates, and I will assume no experience in web design or content management.
+* Interpret the design and use of audio, image, and text for storytelling. We'll experiment with various techniques for watching, seeing, playing, reading, and listening to media and fiction.
+* Communicate persuasively with audio, image, and text. You'll have opportunities to compose both with and about each of these media.
+* Build a vocabulary for engaging media and fiction from the 20th and 21st centuries.  
+* Make a simple website and some content for it. No worries if you've never made your own site. I’ll provide you with examples and templates, and I will assume no experience in web design or content management.
 
 These four aims should apply to work across disciplines and occupations.
 
@@ -40,11 +40,11 @@ These four aims should apply to work across disciplines and occupations.
 
 My name is Jentery Sayers. I’m an associate professor of English and Cultural, Social, and Political Thought (CSPT), and I direct the Praxis Studio for Comparative Media Studies. I've been at UVic since 2011, and I did my PhD at the University of Washington. Most of my work is in the field of comparative media studies. I teach courses on American fiction, cultural studies, media, and prototyping. 
 
-This course has a history (since 2009 or so) of combining media concepts with media practice. The content is grounded in the humanities, but with questions relevent to the arts and sciences, too. I've taught the course numerous times in the past. I find the humanities to be central to matters of media and technology because they demonstrate how history, fiction, language, and culture are fundamental to not only innovation (or the combination of critical and experimental work) but also values-oriented design (how stuff is made, by whom, and for whom). Pedagogically, I like to anchor inquiry in how "this becomes that": how, for instance, media are composed and then change conceptually and materially over time. This means we'll combine abstractions (ideas, norms, structures) with attention to both action (intepretation, prototyping, composition) and particulars (details, situations, substance) in this course. It also means we'll ask "how, when, and why?" as well as "what next, and under what assumptions?" 
+This course has a history (since 2009 or so) of combining media concepts with media practice. The content is grounded in the humanities, but with questions relevant to the arts and sciences, too. I've taught this course numerous times, with a variety of themes. I like to anchor inquiry in how "this becomes that"&mdash;how, for instance, media are composed and then change over time&mdash;and I find the humanities to be central to matters of media and technology because they demonstrate why history, fiction, language, and culture are fundamental to not only innovation but also the values of design. How is stuff made, by whom, for whom, and under what assumptions? Engaging such questions demands attention to processes *and* things. Media aren't just products or ideas.   
 
 # Structure
 
-I've designed this course to unfold through a series of modules or "chunks" of content. I hope this design provides you with a framework for approaching the course topics and planning ahead.   
+I've designed this course to unfold through a series of modules. I hope they provide you with a framework for what we'll study and a map for how we'll approach it.   
 
 * "What Are Media?": on defining audio, image, text and their relation to fiction    
 * "Making a Website": on using HTML and CSS to compose and publish audio, images, and text 
@@ -55,20 +55,20 @@ I've designed this course to unfold through a series of modules or "chunks" of c
 * "Prototyping with Media and Fiction": on speculations informed by media aesthetics 
 * "Remembering Media": on what we did and learned this term 
 
-We’ll meet twice each week. The course will combine lectures and class discussions with workshops. I will often dedicate an entire meeting to a workshop, where you’ll respond to prompts and worksheets I’ll distribute. The prompts will guide your study and practice of media, including how you make your own content with audio, image, and text.
+We'll meet twice each week. The course will combine lectures and class discussions with workshops. I will often dedicate an entire meeting to a workshop, where you'll respond to prompts and worksheets I'll distribute. The prompts will guide your study and practice of media, including how you make your own content with audio, image, and text.
 
 # Materials
 
 There are no required books or textbooks for this course; however, I recommend purchasing *Fun Home* as well as copies of *Gone Home* and *Undertale*, both of which you could play with friends.
 
-Here's a list of what we'll study (in the order we'll study them): 
+Here's a list of what we'll study in the order we'll study them: 
 
 * Young-Hae Chang Heavy Industries, *M00D OF THE M0MENT*
 * Nalo Hopkinson, "Message in a Bottle"
 * Orson Welles and the Mercury Theatre, *War of the Worlds*
 * Lucille Fletcher, *Sorry, Wrong Number*
-* Janina Matthewson, Jeffrey Cranor, and Mary Epworth, *Within the Wires*
-* Maeve Higgins, Ian Chillag, and Jennifer Mills, *Everything Is Alive*
+* Janina Matthewson, Jeffrey Cranor, and Mary Epworth, *Within the Wires* (one episode)
+* Maeve Higgins, Ian Chillag, and Jennifer Mills, *Everything Is Alive* (one episode)
 * Fandor, "Show and Tell: The Movie Voiceover" 
 * Marina Kittaka, *Secrets Agent*
 * Alison Bechdel, *Fun Home: A Family Tragicomic* (selections) 
@@ -86,7 +86,7 @@ Most of these materials are available online or in the public domain. When neith
 
 Here's the schedule for the course. I link to materials, including notes, readings, audio, games, and videos, that we'll discuss during class. Please study those materials in advance, and see me for a passcode where applicable. If I need to change the schedule, then I will notify you during class at least a week in advance of the change. 
 
-To keep us on schedule and help all of us plan ahead, expect an email from me to everyone in this class once (and only once) per week. If you're not receiving that weekly email, then please let me know. 
+To keep us on schedule and help all of us plan ahead, expect an email from me to everyone once (and only once) per week. If you're not receiving that weekly email, then please let me know. 
 
 ## Introductions
 
@@ -111,6 +111,8 @@ Notes, ["Definitions"](#definitions)
 Nalo Hopkinson, ["Message in a Bottle"](http://jenteryteaches.com/noneshall/150/hopkinsonMessageInABottle.pdf) (2005; 25 pages) 
 
 Notes, ["Why Media?"](#why-media)
+
+Please find a partner for workshops this term. I'll elaborate during class. 
 
 ## Making a Website 
 
@@ -244,13 +246,13 @@ Notes, ["Review"](#review)
 
 The second half of your log is due today. 
 
-The final exam will be scheduled for some time in April.
+The final exam will be scheduled for some time in April. I help you to prepare for it during this meeting. 
 
 # Assignments
 
 I’m asking you to:
 
-* Keep a log / journal of your work, marked at the middle and end of term (each of these two marks will be 25% of your final grade)
+* Keep a log of your work, marked at the middle and end of term (each of these two marks will be 25% of your final grade)
 * Submit worksheets for four workshops (each 5% of your mark)
 * Take an exam at the end of term (30% of your final mark)
 
@@ -264,17 +266,17 @@ As the term unfolds, I will share in this section notes and reflections from lec
 
 ### Definitions
 
-Here are some definitions of key terms used to engage media and fiction in this course. Each definition is but one among many possibilities. (These are not *the* definitions.) After "media" and "fiction," they are alphabetized.   
+Here are some definitions of key terms used to engage media and fiction in this course. After "media" and "fiction," they are alphabetized.   
  
 * **Fiction**: a work of audio, image, and/or text that imagines, if only in part, its character(s), world(s), and/or events(s); has a story that's arranged with narrative; may be read, watched, played, seen, and/or heard
 * **Media**: congealed labour or techniques made durable; not "the media" (singular) or "mass media" of the communications industry; three primary examples in this course are audio, image, and text 
 * **Apparatus**: a mechanism used to measure media and fiction and also economize people's experiences; examples in this course include editors, grids, engines, stacks, and networks 
 * **Audio**: a congealed way of hearing and composing; at once process and thing                          
 * **Format**: a way to nest, circulate, or store media; examples include novels, comics, games, and radio            
-* **Genre**: when fiction congeals into recognizable conventions accompanied by audience expectations; may become someone's preferred way of reading; classic examples are tragedy or comedy, but other examples include fantasy, science fiction, detective, slapstick, romance, action, adventure, horror, mystery, simulation, role-playing, and suspense     
+* **Genre**: when fiction congeals into recognizable conventions accompanied by audience expectations; may become someone's preferred way of engaging fiction; classic examples are tragedy or comedy, but other examples include fantasy, science fiction, detective, slapstick, romance, action, adventure, horror, mystery, simulation, role-playing, and suspense     
 * **Image**: a congealed way of seeing and composing; at once process and thing
 * **Labour**: what congeals in media but cannot be recorded completely by it; the activities people individually and collectively perform to produce work; examples include emotional, mental, physical, sensual, manual, and machine labour  
-* **Narrative**: how the story in a work of fiction is structured and arranged    
+* **Narrative**: how the story in a work of fiction is structured and arranged; components include setup, focalization, character development, and the uses of narrators, flashbacks, and sequencing  
 * **Norms**: worldviews that fiction and media both reproduce and resist; ideologies that discipline perception, the production of knowledge, and social and cultural practice; necessarily exclude some ways of hearing, seeing, reading, and composing in favour of other ways   
 * **Play**: a negotiation or experiment with the meanings, materials, and modes of media and fiction; need not involve explicit rules; also the primary way of engaging games
 * **Prototype**: a possibility presented through media and fiction; associated terms include sketch, scenario, wireframe, experiment, and draft; not a real or finished product with a brand; usually doesn't involve post-production   
@@ -282,13 +284,13 @@ Here are some definitions of key terms used to engage media and fiction in this 
 * **Style**: what people say is unique about how a given person or group composes with audio, images, and/or text; an artist's or author's "signature"   
 * **Technology**: a system, such as phonography, photography, print, and computing, that reproduces media; usually involves automation  
 * **Text**: a congealed way of reading and composing; at once process and thing   
-* **Work**: an output or result of labour, such as a work of fiction; not just an object or thing, but its content and the processes that went into making and circulating it 
+* **Work**: an output or result of labour, such as a work of fiction; not just an object or thing, but its content, apparatus, and the processes that went into making and circulating it 
 
-Again, these definitions are not exhaustive. I provide them to render transparent the assumptions of this course and my approaches to it. Equally important, definitions are often quite fuzzy or contingent with history and culture. They are more like guides for situations than answers to important questions, and they should be approached with a healthy dose of skepticism. What's missing from them? What do people want from them? What makes them work? I therefore hope you'll question and revise these definitions rather than adopting them wholesale for deployment in this course or elsewhere.  
+Again, these definitions are not exhaustive. I provide them to render transparent the assumptions of this course and my approaches to it. Equally important, definitions are often quite fuzzy or contingent with history and culture. They are more like guides for situations than answers to important questions, and they should be approached with a healthy dose of skepticism. What's missing from them? What do people want from them? What makes them work? I thus hope you'll question and revise these definitions rather than adopting them wholesale for deployment in this course or elsewhere.  
 
 ### Why Media?
 
-What is the point of studying media and fiction together in the 2020s? Consider the list. It translates how this course applies generally to the practice of communication and specifically to its analytical, structural, social, cultural, and practical dimensions. None of these applications is restricted to the academy. 
+What is the point of studying media and fiction together in the 2020s? Consider the following list. It translates how this course applies generally to the practice of communication and specifically to its analytical, structural, social, cultural, and practical dimensions. None of these applications is restricted to the academy. 
 
 Approaching media and fiction together attends to matters of: 
 
@@ -300,7 +302,7 @@ Approaching media and fiction together attends to matters of:
 * **Engagement**, or the *experience of communication*, including what people feel and remember about particular media and/or fiction. 
 * **Design**, or the *interface of communication*, including what people notice and ignore and how they navigate content and context. 
 
-Perhaps a bit cheesy, but I use the acronym **SCANNED** to remember this list and to state succinctly why people might approach media and fiction together. I'll use the course modules to demonstrate how.  
+I use the acronym **SCANNED** to remember this list and to state succinctly why people might approach media and fiction together. I'll use the course modules to demonstrate how.  
 
 ### Composing a Site
 
@@ -316,7 +318,9 @@ Notes coming soon.
 
 ### The 20 M's
 
-This term I'll use 20 m's to facilitate our study of media and fiction. The list is a guide, not a set of instructions, and will inevitably fall apart with some practice and pressure. I avoid common dichotomies between mind and body, logic and feeling, and analysis and experience, mostly because such dichotomies are driven by norms or ideals frequently critiqued within media and literary studies. Although there's an order to the outline, with "Apprehension" appearing first, it's not a hierarchy or series of steps. The "Evaluation" section may prompt revisions to "Synthesis," for example, or some people may wish to start with "Comprehension." I use "work" throughout the guide to refer to a work of fiction and its media (audio, image, and text), and I encourage repeated description to render the process as approachable as possible. Suggestions welcome.  
+"Media aesthetics" is the framework we'll use to approach media and fiction in this course. I define it as *the practice of evaluating how design and content are apprehended, comprehended, synthesized, and reproduced*. These terms are defined below. 
+
+We'll use 20 words starting with the letter "m" to facilitate our study of media and fiction through media aesthetics. The list is a guide, not a set of instructions, and will inevitably fall apart with some practice and pressure. In the list I avoid common dichotomies between mind and body, logic and feeling, and analysis and experience, mostly because such dichotomies are driven by norms or ideals frequently critiqued within media and literary studies. Although there's an order to the outline, with "Apprehension" appearing first, it's not a hierarchy or series of steps. The "Evaluation" section may prompt revisions to "Synthesis," for example, or some people may wish to start with "Comprehension." I use "work" throughout the guide to refer to a work of fiction and its media (audio, image, and text), and I encourage repeated description to render the process as approachable as possible. Suggestions welcome.  
 
 **Apprehension** 
 
@@ -375,7 +379,7 @@ Consider how a given work of media and fiction intersects with your own interest
 
 ### Apparatuses
 
-Approaches to media in fiction rely heavily on how media are measured: how they are divided into components and then isolated, traversed, compared, contrasted, and the like. These components are not the inevitable output of technologies. They are decisions with histories, norms, and expectations. That is, they are made and used often, they have conventions, and people want or assume particular experiences from them. They are also entwined with disciplines and discourses, such as how people talk about games, comics, radio, and books. A mechanism for their production may be called an "apparatus."
+Approaches to media in fiction rely heavily on how media are measured: how they are divided into components and then isolated, traversed, compared, contrasted, and the like. These components are not the inevitable output of technologies. They are decisions with histories, norms, and expectations. That is, they are made and used often, they have conventions, and people want or assume particular experiences from them. They are also entwined with disciplines and discourses, such as how people talk about games, comics, radio, and books. A mechanism for the production of these components may be called an "apparatus."
 
 An apparatus is not exactly a form or template. It's a relation machine. It helps people to sense and make sense of media in fiction&mdash;to measure media, build vocabularies for media, and move between, within, across, beyond, and to media.
 
@@ -398,7 +402,7 @@ An apparatus has clear implications for design, yet it's relevant to studies of 
 * **Beyond (epic)**: privileges pointing to audio, image, and/or text found elsewhere; the story is part of and refers to something larger; epic is common in *sagas, encyclopedic fiction, and historical fiction* 
 * **To (address)**: privileges interpellation (hey you!) or identification (it me!) via components of audio, image, and/or text; address is common in *simulation and coming-of-age fiction*    
 
-These aren't recipes for genres, and this isn't an exercise in totalization (as if one list could capture all the things). It's simply a starting point for approaching media in fiction through an apparatus. I return to the notion of genre later in this course. For now, I'll repeat here my definition of it: "genre: when fiction congeals into recognizable conventions accompanied by audience expectations; may become someone's preferred way of reading." The apparatus of media, or how they're measured, shapes these conventions and expectations.  
+These aren't recipes for genres, and this isn't an exercise in totalization (as if one list could capture everything about genre). It's simply a starting point for approaching media in fiction through an apparatus. I return to the notion of genre later in this course. For now, I'll repeat here my definition of it: "genre: when fiction congeals into recognizable conventions accompanied by audience expectations; may become someone's preferred way of engaging fiction." The apparatus of media, or how they're measured, shapes these conventions and expectations.  
 
 ### Audio and Fiction 
 
@@ -436,7 +440,7 @@ There are no prerequisites for this course. It is open to all undergraduate stud
 
 The final exam and one half of your log are required to pass this course. Failure to complete these two assignments will result in a failing N grade (calculated as a 0 for your GPA). 
 
-I will use UVic's [undergraduate grading scale](https://web.uvic.ca/calendar2020-01/undergrad/info/regulations/grading.html) to produce rubrics for each assignment and assess your work. I do not post marks outside my office, and I do not use plagiarism detection software.
+I will use UVic's [undergraduate grading scale](https://web.uvic.ca/calendar2020-01/undergrad/info/regulations/grading.html) to produce rubrics for each assignment in this course and assess your work. I do not post marks outside my office, and I do not use plagiarism detection software.
 
 ### Late Submissions and Extensions
 
@@ -450,7 +454,7 @@ You are also welcome to communicate with Yu-Hsuan, Faith, and Ian in person or b
 
 ### Feedback 
 
-Yu-Hsuan, Faith, Ian, and I will provide feedback on your logs. We'll do so in writing, and feedback will be distributed in person during class. I will provide feedback in person, by appointment, on your exam. 
+Yu-Hsuan, Faith, Ian, and I will provide feedback on your logs. We'll do so in writing, and feedback will be distributed in person during class. I will provide feedback in person (by appointment) on your exam. 
 
 Throughout the term, I'll request feedback (verbal and in writing) from you on how the course is going. I'll also ask you to complete Course Experience Surveys at the end of the term (during our last meeting). 
 
@@ -478,11 +482,11 @@ Students with diverse learning styles and needs are welcome in this course. In p
 
 I want you to thrive in this course and everywhere else. Please let me know as early as possible if you have any concerns or if you require any assistance to succeed. I’ll do my best to help.
 
-If you need to cover gaps in care, then please don't hesitate to bring your children to seminar. Babies who are nursing are always welcome, as I do not want you to choose between feeding your child and continuing your education. 
+If you need to cover gaps in care, then please don't hesitate to bring your children to class. Babies who are nursing are always welcome, as I do not want you to choose between feeding your child and continuing your education. 
 
 UVic takes student mental health very seriously, with a [website](https://www.uvic.ca/mentalhealth/) full of resources. We offer services such as assistance and referral to address students' personal, social, career, and study skills concerns. Services for students also include crisis and emergency mental health consultation and confidential assessment, counselling services (individual and small group), and referrals. Many of these programs are connected with Health Services, which is located at the Petersen Health Centre (Lower Parking Lot #5, off Sinclair Road, behind the residence cafeteria). Many offices have walk-in hours as well as appointments. 
 
-The [Student Services website](https://www.uvic.ca/studentaffairs/departments/student-services/index.php) lists several policies that you might want to know about and may make your life at UVic safer and easier. Only some of them are directly related to this seminar, but they're still important.
+The [Student Services website](https://www.uvic.ca/studentaffairs/departments/student-services/index.php) lists several policies that you might want to know about and may make your life at UVic safer and easier. Only some of them are directly related to this course, but they're still important.
 
 # Acknowledgements 
 

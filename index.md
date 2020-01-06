@@ -21,7 +21,9 @@ Contents:
 
 # Description 
 
-Aside from a module on making a website, this is not a technical course. The assignments are open to media practice (such as the composition of audio and video) without requiring it. The course does not involve any quantitative or computational methods, either. Please also note that, by "media," I mean "audio, image, and text," not "the media" or mass communications and their outlets. 
+Media are everywhere. This course examines how people compose fiction with them. How do we approach media and fiction together? How do we read but also watch, see, play, and listen to fiction? How is fiction designed and experienced? 
+
+This course does not involve any quantitative methods or computer programming. Please also note that, by "media," I mean "audio, image, and text," not "the media" or mass communications and their outlets. Since this is an introductory course open to all undergraduate students at UVic, I will not assume that you have any experience with media or digital studies.  
 
 # Aims
 
@@ -252,7 +254,7 @@ I’m asking you to:
 * Submit worksheets for four workshops (each 5% of your mark)
 * Take an exam at the end of term (30% of your final mark)
 
-I will provide you with prompts for each of these assignments. Except for the exam, which you'll submit to me in person, all of the assignments will be submitted online. You'll create a URL and website (public or private) for your log, and the worksheets will be online forms. 
+I will provide you with prompts for each of these assignments. Except for the exam, which you'll submit to me in person, all of the assignments will be submitted online. You'll create a URL and website (public or private) for your log, and the worksheets will be online forms. The log will contain seven, eight, or nine entries (three or four submitted at the middle of term, and four or five more submitted at the end of term). Each entry should take approximately 60 to 90 minutes to compose, plus revisions to the log prior to submission. 
 
 There are no essays or presentations required for this course.
 

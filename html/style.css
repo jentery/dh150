@@ -31,8 +31,3 @@ text-decoration: underline; color: #999999;
 a:active {
 text-decoration: underline; color: #999999; 
 }  
-
-img {
-    max-width:100%;
-    height:auto;
-}

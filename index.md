@@ -122,7 +122,7 @@ This module focuses on using a text editor to compose a simple website in HTML a
 
 Notes, ["Composing a Site"](#composing-a-site)
 
-Please ensure you have access to a text editor. 
+Please ensure you have access to a text editor and then please copy and paste [this file](https://raw.githubusercontent.com/jentery/dh150/master/html/index.html) into it. Save the file as `index.html`. Next, copy and paste [this file](https://raw.githubusercontent.com/jentery/dh150/master/html/style.css) into another text editor document, and then save it as `style.css`. 
 
 ### M 20 January
 

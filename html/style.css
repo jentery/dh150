@@ -1,0 +1,33 @@
+/*
+AUTHOR: Jentery Sayers
+DATE: January 2020
+*/
+
+body {
+font-family: helvetica;
+background-color: #ffff00;
+}
+
+article {
+padding:10px 0 10px 30px; /* Top, right, bottom, left */
+}
+
+aside {
+padding:10px 0 10px 30px;
+}
+
+a:link { /* unvisited link */
+text-decoration: none; color:#333333;
+}
+ 
+a:visited { /* visited link */
+text-decoration: none; color: #666666;
+} 
+ 
+a:hover { /* mouse-over */
+text-decoration: underline; color: #999999; 
+}
+  
+a:active {
+text-decoration: underline; color: #999999; 
+}  

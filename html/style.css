@@ -17,17 +17,17 @@ padding:10px 0 10px 30px;
 }
 
 a:link { /* unvisited link */
-text-decoration: none; color:#333333;
+text-decoration: none; color:#0000FF;
 }
  
 a:visited { /* visited link */
-text-decoration: none; color: #666666;
+text-decoration: none; color: #800080;
 } 
  
 a:hover { /* mouse-over */
-text-decoration: underline; color: #999999; 
+text-decoration: underline; color: #FF0000; 
 }
   
 a:active {
-text-decoration: underline; color: #999999; 
+text-decoration: underline; color: #FF0000; 
 }  

@@ -188,7 +188,7 @@ Alison Bechdel, *Fun Home: A Family Tragicomic* (coming soon) (2006; selections)
 
 ### R 27 February
 
-Emil Ferris, *My Favorite Thing Is Monsters* (coming soon) (2017; selections)
+Emil Ferris, [*My Favorite Thing Is Monsters*](http://jenteryteaches.com/noneshall/150/ferrisMyFavoriteThing.pdf) (2017; selections)
 
 Note that the 29th is the last day to withdraw from the course without penalty of failure.
 
@@ -210,7 +210,7 @@ Notes, ["Text and Fiction"](#text-and-fiction)
 
 ### R 12 March
 
-N.K. Jemisin, *The Fifth Season* (coming soon) (2015; selections) 
+N.K. Jemisin, [*The Fifth Season*](http://jenteryteaches.com/noneshall/150/jemisinTheFifthSeason.pdf) (2015; selections) 
 
 ### M 16 March
 

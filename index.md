@@ -432,9 +432,13 @@ As an example, students at the University of Victoria (UVic) may use FTP and UVi
 
 FTP applications rely on Graphical User Interfaces (GUIs) to facilitate transfer. This way, people can use input fields, icons, windows, buttons, and lists instead of writing text commands in a computer terminal. Images accompany text in a GUI to render the transfer process more approachable, and an FTP connection to a host server may in some cases decrease or eliminate the need for content management and/or file sharing systems. Again, experiences vary. 
 
+Please note that the URL convention for this course is: `https://studentweb.uvic.ca/~NetLinkID/dh150/`. Just replace `NetLinkID` with your UVic Netlink ID. Thank you! 
+
 **URL**  
 
 A Uniform Resource Locator (URL) is a reference to a resource on the web. The most common type of URL refers to a webpage via Hypertext Transfer Protocol (HTTP). URLs are found in address bars of browsers and are also called web addresses. At the University of Victoria (UVic), an example is `https://studentweb.uvic.ca/~NetLinkID/index.html`. The protocol is HTTP (secured, hence the `s` in `https`), the host is `studentweb.uvic.ca`, the subdirectory is `~NetLinkID` (such as `~jentery`), and the filename is `index.html`. When `https://studentweb.uvic.ca/~NetLinkID/` is entered in an address bar, the browser will look for the server's default document. In this case (and in most), that default document is `index.html`, meaning people can just type `https://studentweb.uvic.ca/~NetLinkID/` (without the filename) to load the site. For this reason, `index` is the filename most often used for website homepages, and it's the filename used for the research log in this course.  
+
+Again, please note that the URL convention for this course is: `https://studentweb.uvic.ca/~NetLinkID/dh150/`. Just replace `NetLinkID` with your UVic Netlink ID. Thank you! 
 
 **Validator**
 

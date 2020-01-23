@@ -142,6 +142,8 @@ Notes, ["The 20 M's"](#the-20-ms)
 
 Notes, ["Apparatuses"](#apparatuses)
 
+Rubric, ["Workshops"](#workshops)
+
 Please provide me with the URL for your course website. I'll circulate an online form for this purpose. 
 
 ## Audio in Fiction 
@@ -252,8 +254,8 @@ The final exam will be scheduled for some time in April. I help you to prepare f
 
 I’m asking you to:
 
-* Keep a log of your work, marked at the middle and end of term (each of these two marks will be 25% of your final grade)
-* Submit worksheets for four workshops (each 5% of your mark)
+* Keep a [log](#prompts) of your work, marked at the middle and end of term (each of these two marks will be 25% of your final grade)
+* Submit worksheets for four [workshops](#workshops) (each 5% of your mark)
 * Take an exam at the end of term (30% of your final mark)
 
 I will provide you with [prompts](#prompts) for each of these assignments. Except for the exam, which you'll submit to me in person, all of the assignments will be submitted online. You'll create a URL and website (public or private) for your log, and the worksheets will be online forms. The log will contain seven, eight, or nine entries (three or four submitted at the middle of term, and four or five more submitted at the end of term). Each entry should take approximately 60 to 90 minutes to compose, plus revisions to the log prior to submission. 
@@ -581,6 +583,26 @@ An apparatus has clear implications for design, yet it's relevant to studies of 
 * **To (address)**: privileges interpellation (hey you!) or identification (it me!) via components of audio, image, and/or text; address is common in *simulation and coming-of-age fiction*    
 
 These aren't recipes for genres, and this isn't an exercise in totalization (as if one list could capture everything about genre). It's simply a starting point for approaching media in fiction through an apparatus. I return to the notion of genre later in this course. For now, I'll repeat here my definition of it: "genre: when fiction congeals into recognizable conventions accompanied by audience expectations; may become someone's preferred way of engaging fiction." The apparatus of media, or how they're measured, shapes these conventions and expectations.  
+
+### Workshops 
+
+I'm asking you to complete four worksheets for four workshops this term. There will be a total of eight workshops, which you'll complete with a partner, with one of you completing a worksheet per workshop. The worksheets will be circulated as forms for you to submit online. Here's the rubric for the worksheets, each 5% of your final mark. Worksheets should be submitted before the next class meeting begins. Please do not submit more than one worksheet per workshop. 
+
+A+: The content of the worksheet is clear and contains no typos or other such hiccups. It responds accurately to the questions asked. It not only addresses what was taught and discussed during the workshop but adds an original and compelling perspective that wasn't taught or discussed. The worksheet was submitted on time. 
+
+A: The content of the worksheet is clear and contains no typos or other such hiccups. It responds accurately to the questions asked. It not only addresses what was taught and discussed during the workshop but adds an insightful and compelling perspective that wasn't taught or discussed. The worksheet was submitted on time. 
+
+A-: The content of the worksheet is clear and contains few to no typos or other such hiccups. It responds accurately to the questions asked. It not only addresses what was taught and discussed during the workshop but attends to details that weren't addressed or discussed. The worksheet was submitted on time. 
+
+B or B+: The content of the worksheet is mostly clear and contains few typos or other such hiccups. It responds accurately to the questions asked. It addresses what was taught and discussed during the workshop. The worksheet was submitted on time. 
+
+B-: The content of the worksheet is mostly clear and contains some typos or other such hiccups. It responds to the questions asked. It addresses most of what was taught and discussed during the workshop. The worksheet was submitted on time. 
+
+C or C+: The content of the worksheet is somewhat clear and contains some typos or other such hiccups. It responds partly to the questions asked. It addresses some of what was taught and discussed during the workshop. The worksheet was submitted on time. 
+
+D: The content of the worksheet is rarely clear and contains some typos or other such hiccups. It responds partly or rarely to the questions asked. It addresses some of what was taught and discussed during the workshop. The worksheet was submitted on time. 
+
+F: The worksheet is missing or was not submitted on time.  
 
 ### Audio and Fiction 
 

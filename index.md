@@ -154,6 +154,8 @@ This module focuses on the use of acousmatics, soundscapes, and voiceover in fic
 
 Notes, ["Audio and Fiction"](#audio-and-fiction)
 
+We'll have a workshop (#1) today. 
+
 ### R 30 January 
 
 Orson Welles and the Mercury Theatre, [*War of the Worlds*](http://jenteryteaches.com/noneshall/150/wellesWoW.mp3) (1938; 59:19 minutes) 
@@ -167,6 +169,8 @@ Lucille Fletcher, [*Sorry, Wrong Number*](http://jenteryteaches.com/noneshall/15
 Janina Matthewson, Jeffrey Cranor, and Mary Epworth, [*Within the Wires*](https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/136/188e8310-597c-4724-844f-d571668c7105/WithinTheWires_S01E01.mp3) (2016; Season 1, Cassette 1; 23:12 minutes; [transcript](https://www.patreon.com/posts/transcript-1-1-21980137))
 
 Maeve Higgins, Ian Chillag, and Jennifer Mills, [*Everything Is Alive*](https://www.everythingisalive.com/episodes/maeve-lamppost-of-brooklyn) (2018; Episode 2; [transcript](https://www.everythingisalive.com/content/episodes/2-maeve-lamppost-of-brooklyn/maeve-lamppost-transcript.pdf); 21:25 minutes)
+
+We'll have a workshop (#2) today. 
 
 ### M 10 February
 
@@ -184,13 +188,19 @@ Notes, ["Images and Fiction"](#images-and-fiction)
 
 The first half of your log is due today. Reading break is next week (February 17-21). 
 
+We'll return your marks for the first two workshops by today. 
+
 ### M 24 February
 
 Alison Bechdel, *Fun Home: A Family Tragicomic* (coming soon) (2006; selections) 
 
+We'll return your marks for the first half of the log by today.  
+
 ### R 27 February
 
 Emil Ferris, [*My Favorite Thing Is Monsters*](http://jenteryteaches.com/noneshall/150/ferrisMyFavoriteThing.pdf) (2017; selections)
+
+We'll have a workhop (#3) today.  
 
 Note that the 29th is the last day to withdraw from the course without penalty of failure.
 
@@ -201,6 +211,8 @@ Amanda Strong and Leanne Betasamosake Simpson, [*Biidaaban (The Dawn Comes)*](ht
 ### R 5 March
 
 Fulbright Company, [*Gone Home*](https://gonehome.game/) (2013; play or watch no-commentary gameplay for at least 60 minutes)  
+
+We'll have a workhop (#4) today.  
 
 ## Text in Fiction 
 
@@ -214,13 +226,19 @@ Notes, ["Text and Fiction"](#text-and-fiction)
 
 N.K. Jemisin, [*The Fifth Season*](http://jenteryteaches.com/noneshall/150/jemisinTheFifthSeason.pdf) (2015; selections) 
 
+We'll return your marks for the third and fourth workshops by today. 
+
 ### M 16 March
 
 Porpentine and Brenda Neotenomie, [*With Those We Love Alive*](http://collection.eliterature.org/3/work.html?work=with-those-we-love-alive) (2014; play for at least 45 minutes)
 
+We'll have a workhop (#5) today.  
+
 ### R 19 March
 
 Toby Fox and Temmie Chang, [*Undertale*](https://undertale.com/) (2015; play or watch no-commentary gameplay for at least 60 minutes)
+
+We'll have a workhop (#6) today.  
 
 ### M 23 March
 
@@ -234,9 +252,13 @@ This module focuses on using audio, image, and text to prototype what you want t
 
 Notes, ["Types of Prototypes"](#types-of-prototypes)
 
+We'll return your marks for the fifth and sixth workshops by today. 
+
 ### M 30 March
 
 Notes, ["Prototyping as Speculation"](#prototyping-as-speculation)  
+
+We'll have two workshops (#7 and #8) today.  
 
 ## Remembering Media 
 
@@ -249,6 +271,8 @@ Notes, ["Review"](#review)
 The second half of your log is due today. 
 
 The final exam will be scheduled for some time in April. I help you to prepare for it during this meeting. 
+
+We'll return your marks for the seventh and eighth workshops by today, and the marks for the second half of your log by Thursday, April 9th. 
 
 # Assignments
 
@@ -666,7 +690,7 @@ As part of "synthesis" in the 20 M's, I encourage you to get meta about how the 
 
 The meta stuff prompts considerations of *design, style, and structure*. 
 
-### MASSAGE
+### Massage
 
 As part of "synthesis" in the 20 M's, I encourage you to consider how the work massages or manipulates the senses. Here are some ways to think about massage and manipulation:  
 

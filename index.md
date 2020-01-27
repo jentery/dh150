@@ -530,7 +530,7 @@ Consider distilling the work, reflecting on it, and even graphing its parts, sto
 * Describe how (you assume) the work was *made*. 
 * Get [*meta*](#meta). Describe how the story is told.
 * Describe what the work *means* (or its multiple, incongruous *meanings*). 
-* Describe how it [*massages*](#massages) or [*manipulates*](#massages) people's senses.
+* Describe how it [*massages*](#massage) or [*manipulates*](#massage) people's senses.
 * Describe how people *move* with, within, across, and beyond it. 
 * Describe what *motivates* people to return to and/or identify with it. 
 * Describe how it and responses to it have *morphed* over time. 
@@ -637,6 +637,48 @@ As part of "comprehension" in the 20 M's, I encourage you to consider measuremen
 * Attention: the work as clicks, views, sales, or ratings, e.g. 
 
 Measurements prompt considerations of *value and apparatus*. (We'll talk more about apparatuses this term.) 
+
+### Main Content 
+
+As part of "comprehension" in the 20 M's, I encourage you to consider the main content or story. Here are some ways to think about it: 
+
+* Characters: humans, robots, nonhuman animals, mythological, and even environments or parts of the environment  
+* Setting: time, place, and location of the story 
+* Plot: major events and what happens, typically understood through exposition, rising action, climax, falling action, and denouement / resolution   
+* Theme: core ideas, threads, and even morals / lessons
+* Conflict: between characters, events, groups, environments (the tension upon which the story relies) 
+* Point of view: first, second, or third-person (omniscient or limited)
+
+The main content prompts considerations of *who, what, when, and where*.  
+
+### Meta
+
+As part of "synthesis" in the 20 M's, I encourage you to get meta about how the story is told. Here are some ways to get meta. Consider the:  
+
+* Situation: What's known or taken for granted in the work? How do characters understand each other (or so we assume)?
+* World: What's the scope and scale of the setting and its systems, history, mythologies, and/or landscape? How is the world of the work bigger or more expansive than the story itself? 
+* Duration: How long does the story take to communicate certain things? How does it use abbreviation, summary, stretched time, or warped time? What moves quickly? What doens't? 
+* Frequency: What's repeated? What are the patterns or textures of the work? 
+* Sequencing: How is the work arranged chronologically (analepsis, prolepsis) and non-chronologically? How does it use leveling (progressive disclosure)? Or branching (map or tree)?  
+* Evocation: How does the work draw on memories and resemblances?  
+* Focalization: How do we get our knowledge from characters and/or narrators (zero = omniscient narrator who knows more than characters, internal = narrator is a character and thus knows what the character knows, and external focalization = narator or camera eye telling less than what characters know)?
+* Narration (compare with plot above): How is the story told? Often involves abstract (summary), orientation (time and place), complicating action, resolution (climax), evaluation (commentary or elucidation), and coda (time of story meets time of narrative).
+
+The meta stuff prompts considerations of *design, style, and structure*. 
+
+### MASSAGE
+
+As part of "synthesis" in the 20 M's, I encourage you to consider how the work massages or manipulates the senses. Here are some ways to think about massage and manipulation:  
+
+* Is the work securing consensus? If so, then how? And what sort of consensus? 
+* Is the work a distraction? If so, then how? And from what? 
+* Is the work immersive? If so, then how? And in what?  
+* Does the work involve interaction? Does it invite input? Or maybe dialogue? If so, then how does it change, if at all, with each interaction? 
+* Does the work have a rhythm? If so, then what is it? And how does it affect flow?  
+* Does the work involve simultaneity? Does it ask you to balance things or to mulitask? If so, then to what effects? 
+* Does the work address you (hey you! hi there)? If so, then how? Directly or indirectly? Under what assumptions?       
+
+Massaging and manipulation prompt considerations of *motivation and ideology*.
 
 ### Audio and Fiction 
 

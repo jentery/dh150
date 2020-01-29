@@ -681,7 +681,7 @@ As part of "synthesis" in the 20 M's, I encourage you to get meta about how the 
 
 * Situation: What's known or taken for granted in the work? How do characters understand each other (or so we assume)?
 * World: What's the scope and scale of the setting and its systems, history, mythologies, and/or landscape? How is the world of the work bigger or more expansive than the story itself? 
-* Duration: How long does the story take to communicate certain things? How does it use abbreviation, summary, stretched time, or warped time? What moves quickly? What doens't? 
+* Duration: How long does the story take to communicate certain things? How does it use abbreviation, summary, stretched time, or warped time? What moves quickly? What doesn't? 
 * Frequency: What's repeated? What are the patterns or textures of the work? 
 * Sequencing: How is the work arranged chronologically (analepsis, prolepsis) and non-chronologically? How does it use leveling (progressive disclosure)? Or branching (map or tree)?  
 * Evocation: How does the work draw on memories and resemblances?  

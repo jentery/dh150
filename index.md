@@ -25,8 +25,6 @@ Media are everywhere. This course examines how people compose fiction with them.
 
 This course is not a technical course. It does not, for instance, involve any quantitative methods or computer programming. Please also note that, by "media," I mean "audio, image, and text," not "the media" or mass communications and their outlets. Since this is an introductory course open to all undergraduate students at UVic, I will not assume you have any experience with media or digital studies.  
 
----
-
 # Aims
 
 This course encourages you to: 
@@ -38,15 +36,11 @@ This course encourages you to:
 
 These four aims should apply to work across disciplines and occupations.
 
----
-
 # Background
 
 My name is Jentery Sayers. I’m an associate professor of English and Cultural, Social, and Political Thought (CSPT), and I direct the Praxis Studio for Comparative Media Studies. I've been at UVic since 2011, and I did my PhD at the University of Washington. Most of my work is in the field of comparative media studies. I teach courses on American fiction, cultural studies, media, and prototyping. 
 
 This course has a history (since 2009 or so) of combining media concepts with media practice. The content is grounded in the humanities, but with questions relevant to the arts and sciences, too. I've taught this course numerous times, with a variety of themes. I like to anchor inquiry in how "this becomes that"&mdash;how, for instance, media are composed and then change over time&mdash;and I find the humanities to be central to matters of media and technology because they demonstrate why history, fiction, language, and culture are fundamental to not only innovation but also the values of design. How is stuff made, by whom, for whom, and under what assumptions? Engaging such questions demands attention to processes *and* things. Media aren't just products or ideas.   
-
----
 
 # Structure
 
@@ -320,6 +314,8 @@ Here are some definitions of key terms used to engage media and fiction in this 
 
 Again, these definitions are not exhaustive. I provide them to render transparent the assumptions of this course and my approaches to it. Equally important, definitions are often quite fuzzy or contingent with history and culture. They are more like guides for situations than answers to important questions, and they should be approached with a healthy dose of skepticism. What's missing from them? What do people want from them? What makes them work? I thus hope you'll question and revise these definitions rather than adopting them wholesale for deployment in this course or elsewhere.  
 
+---
+
 ### Why Media?
 
 What is the point of studying media and fiction together in the 2020s? Consider the following list. It translates how this course applies generally to the practice of communication and specifically to its analytical, structural, social, cultural, and practical dimensions. None of these applications is restricted to the academy. 
@@ -335,6 +331,8 @@ Approaching media and fiction together attends to matters of:
 * **Design**, or the *interface of communication*, including what people notice and ignore and how they navigate content and context. 
 
 I use the acronym **SCANNED** to remember this list and to state succinctly why people might approach media and fiction together. I'll use the course modules to demonstrate how.  
+
+---
 
 ### Composing a Site
 
@@ -452,6 +450,8 @@ Style sheets for websites can usually be found by adding `style.css` after the `
 
 CSS is interesting because, although it helps to create the page content and presentation people see on screens (or hear with screen readers), it's initially hidden from view and interpreted mostly by machines. Again, CSS is a set of declarations written with text: a language made for rendering optical images with pixels. Even if it does run in the background, learning to compose with it facilitates important distinctions between making meaning and making rules with text. Both are constructed and interpreted; however, *rules are to be enacted while meaning is to be deciphered.* 
 
+---
+
 ### Publishing a Site 
 
 I described the first five components of a research log in "Composing a Site." Here I'll describe the other three components.  
@@ -475,6 +475,8 @@ Again, please note that the URL convention for this course is: `https://studentw
 **Validator**
 
 The syntax of CSS and HTML&mdash;their grammar, vocabulary, and resulting structure&mdash;can be validated by a computer. Validation attends to not only functionality, such as the economical uses of tags and selectors, but also accessibility, including engagement with media by people with disabilities and impairments. The [W3C Web Accessibility Initiative (WAI)](https://www.w3.org/WAI/) observes that "accessibility is essential for some and useful for all," and they provide validation services for [markup](https://validator.w3.org/) and [CSS](http://jigsaw.w3.org/css-validator/). Material can be validated via upload, URL, or direct input. While valid syntax is but one step toward accessibility, it's an important and informative one, especially when considered early and often. I try to validate a research log whenever I publish new entries. 
+
+---
 
 ### Prompts 
 
@@ -525,6 +527,8 @@ C or C+: The content of the log is often or occasionally clear. The content is s
 D: The content of the log is not often clear. The content may be supported by examples (with references) from the assigned materials. The entries and their media occasionally or rarely meet the requirements of their prompts. The entries collectively demonstrate that your work occasionally or rarely meets the aims of the course. The markup contains some to no errors, and the content contains some typos. The first half of the log may contain three or four entries. The second half of the log contains four or five entries. 
 
 F: The log is missing entirely or in part. The entries do not meet the requirements of the prompts.
+
+---
 
 ### The 20 M's
 
@@ -587,6 +591,8 @@ Again, consider taking notes for each of these but developing a response to just
 
 Consider how a given work of media and fiction intersects with your own interests and trajectories and then determine how to communicate these intersections to (or with) other people. 
 
+---
+
 ### Apparatuses
 
 Approaches to media in fiction rely heavily on how media are measured: how they are divided into components and then isolated, traversed, compared, contrasted, and the like. These components are not the inevitable output of technologies. They are decisions with histories, norms, and expectations. That is, they are made and used often, they have conventions, and people want or assume particular experiences from them. They are also entwined with disciplines and discourses, such as how people talk about games, comics, radio, and books. A mechanism for the production of these components may be called an "apparatus."
@@ -614,6 +620,8 @@ An apparatus has clear implications for design, yet it's relevant to studies of 
 
 These aren't recipes for genres, and this isn't an exercise in totalization (as if one list could capture everything about genre). It's simply a starting point for approaching media in fiction through an apparatus. I return to the notion of genre later in this course. For now, I'll repeat here my definition of it: "genre: when fiction congeals into recognizable conventions accompanied by audience expectations; may become someone's preferred way of engaging fiction." The apparatus of media, or how they're measured, shapes these conventions and expectations.  
 
+---
+
 ### Workshops 
 
 I'm asking you to complete four worksheets for four workshops this term. There will be a total of eight workshops, which you'll complete with a partner, with one of you completing a worksheet per workshop. The worksheets will be circulated as forms for you to submit online. Here's the rubric for the worksheets, each 5% of your final mark. Worksheets should be submitted before the next class meeting begins. Please do not submit more than one worksheet per workshop. 
@@ -634,6 +642,8 @@ D: The content of the worksheet is rarely clear and contains some typos or other
 
 F: The worksheet is missing or was not submitted on time.  
 
+---
+
 ### Modes
 
 As part of "apprehension" in the 20 M's, I encourage you to consider the modes or senses engaged. Modes and senses are about how people's bodies are engaged or addressed by fiction. Here are some ways to think about modes and senses:  
@@ -643,6 +653,8 @@ As part of "apprehension" in the 20 M's, I encourage you to consider the modes o
 * Agency: are you moving / engaging with or against the work? Maybe somewhere in between? What's the flow? Are you in, or do you want to be in, control? 
 
 The modes and senses of the 20 M's prompt considerations of *attention and how we attend*.  
+
+---
 
 ### Mood
 
@@ -654,6 +666,8 @@ As part of "apprehension" in the 20 M's, I encourage you to consider the mood. T
 * Describe the work as a feeling. Any goosebumps? What emotions or experiences do you associate with it? 
 
 Mood prompts considerations of *distance, immediacy, or familiarity.* 
+
+---
 
 ### Measure 
 
@@ -668,6 +682,8 @@ As part of "comprehension" in the 20 M's, I encourage you to consider measuremen
 
 Measurements prompt considerations of *value and apparatus*. (We'll talk more about apparatuses this term.) 
 
+---
+
 ### Main Content 
 
 As part of "comprehension" in the 20 M's, I encourage you to consider the main content or story. Here are some ways to think about it: 
@@ -680,6 +696,8 @@ As part of "comprehension" in the 20 M's, I encourage you to consider the main c
 * Point of view: first, second, or third-person (omniscient or limited)
 
 The main content prompts considerations of *who, what, when, and where*.  
+
+---
 
 ### Meta
 
@@ -696,6 +714,8 @@ As part of "synthesis" in the 20 M's, I encourage you to get meta about how the 
 
 The meta stuff prompts considerations of *design, style, and structure*. 
 
+---
+
 ### Massage
 
 As part of "synthesis" in the 20 M's, I encourage you to consider how the work massages or manipulates the senses. Here are some ways to think about massage and manipulation:  
@@ -710,29 +730,43 @@ As part of "synthesis" in the 20 M's, I encourage you to consider how the work m
 
 Massaging and manipulation prompt considerations of *motivation and ideology*.
 
+---
+
 ### Audio and Fiction 
 
 Notes coming soon. 
+
+---
 
 ### Images and Fiction
 
 Notes coming soon. 
 
+---
+
 ### Text and Fiction
 
 Notes coming soon. 
+
+---
 
 ### Types of Prototypes 
 
 Notes coming soon. 
 
+---
+
 ### Prototyping as Speculation
 
 Notes coming soon. 
 
+---
+
 ### Review
 
 Notes coming soon. 
+
+---
 
 # Policies 
 

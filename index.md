@@ -25,6 +25,8 @@ Media are everywhere. This course examines how people compose fiction with them.
 
 This course is not a technical course. It does not, for instance, involve any quantitative methods or computer programming. Please also note that, by "media," I mean "audio, image, and text," not "the media" or mass communications and their outlets. Since this is an introductory course open to all undergraduate students at UVic, I will not assume you have any experience with media or digital studies.  
 
+---
+
 # Aims
 
 This course encourages you to: 
@@ -36,11 +38,15 @@ This course encourages you to:
 
 These four aims should apply to work across disciplines and occupations.
 
+---
+
 # Background
 
 My name is Jentery Sayers. I’m an associate professor of English and Cultural, Social, and Political Thought (CSPT), and I direct the Praxis Studio for Comparative Media Studies. I've been at UVic since 2011, and I did my PhD at the University of Washington. Most of my work is in the field of comparative media studies. I teach courses on American fiction, cultural studies, media, and prototyping. 
 
 This course has a history (since 2009 or so) of combining media concepts with media practice. The content is grounded in the humanities, but with questions relevant to the arts and sciences, too. I've taught this course numerous times, with a variety of themes. I like to anchor inquiry in how "this becomes that"&mdash;how, for instance, media are composed and then change over time&mdash;and I find the humanities to be central to matters of media and technology because they demonstrate why history, fiction, language, and culture are fundamental to not only innovation but also the values of design. How is stuff made, by whom, for whom, and under what assumptions? Engaging such questions demands attention to processes *and* things. Media aren't just products or ideas.   
+
+---
 
 # Structure
 

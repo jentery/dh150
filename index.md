@@ -646,7 +646,7 @@ F: The worksheet is missing or was not submitted on time.
 
 ### Material
 
-As part of "apprehension" in the 20 M's, I encourage you to consider the materials used in the work of fiction. Materials are about the work as matter and physical substance. Here are some ways to think about materials:  
+As part of "apprehension" in [the 20 M's](#the-20-ms), I encourage you to consider the materials used in the work of fiction. Materials are about the work as matter and physical substance. Here are some ways to think about materials:  
 
 * Presence: can you touch or handle it? 
 * Texture: is it smooth or rough? 
@@ -656,25 +656,25 @@ As part of "apprehension" in the 20 M's, I encourage you to consider the materia
 * Packaging: is it packaged? if so, describe the packaging. 
 * Recording: how is it recorded? can you handle or see the record? 
 
-The materials of the 20 M's prompt considerations of the work as *stuff*. 
+Materials prompt considerations of the work as *stuff*. 
 
 ---
 
 ### Modes
 
-As part of "apprehension" in the 20 M's, I encourage you to consider the modes or senses engaged. Modes and senses are about how people's bodies are engaged or addressed by fiction. Here are some ways to think about modes and senses:  
+As part of "apprehension" in [the 20 M's](#the-20-ms), I encourage you to consider the modes or senses engaged. Modes and senses are about how people's bodies are engaged or addressed by fiction. Here are some ways to think about modes and senses:  
 
 * Through the five senses (hearing, seeing, tasting, smelling, and touching), including which are engaged more than others by the work(s) of fiction at hand.  
 * WOVEN: writing (including reading), oral (what's said and heard), visual (colour, layout, and images, for instance), electronic (how the work transmits media, and whether it's electronic), and nonverbal (gesture, audio, and movement, for instance). Thanks to [Georgia Tech's Writing and Communication Program](https://wcprogram.lmc.gatech.edu/posters/woven) for this approach and the acronym, WOVEN. 
 * Agency: are you moving / engaging with or against the work? Maybe somewhere in between? What's the flow? Are you in, or do you want to be in, control? 
 
-The modes and senses of the 20 M's prompt considerations of *attention and how we attend*.  
+Modes and senses prompt considerations of *attention and how we attend*.  
 
 ---
 
 ### Mood
 
-As part of "apprehension" in the 20 M's, I encourage you to consider the mood. The mood is about being in the world and engaging fiction. What's the work's vibe or feel? Here are some ways to think about mood: 
+As part of "apprehension" in [the 20 M's](#the-20-ms), I encourage you to consider the mood. The mood is about being in the world and engaging fiction. What's the work's vibe or feel? Here are some ways to think about mood: 
 
 * Describe the work as an encounter. What or whom are you encountering? Does it feel close or distant? 
 * Describe the work as an atmosphere. What's the "weather" of the work? 
@@ -685,9 +685,20 @@ Mood prompts considerations of *distance, immediacy, or familiarity.*
 
 ---
 
+### Modules
+
+As part of "comprehension" in [the 20 M's](#the-20-ms), I encourage you to consider modules, which draw attention the work's design and structure. Here are some ways to think about modules: 
+
+* Is the work available as a collection of component parts or files? If so, describe them. (Consider a website, for instance. It may have HTML, CSS, and media files.)
+* Describe the components of the work's composition, even if they are not available as a collection of parts or files. (Consider radio drama or podcasts, for instance. Their components may include dialogue (DX), sound effects (SFX), background sound (BG), and music (MX). Or, consider comics. Their components may include panels, gutters, tiers, and speech bubbles.) 
+
+Modules prompt considerations of the *relationships between parts and whole*. 
+
+---
+
 ### Measure 
 
-As part of "comprehension" in the 20 M's, I encourage you to consider measurements. To measure is to assess and/or quantify media, fiction, and engagements with them. Here are some ways to think about measurements:  
+As part of "comprehension" in [the 20 M's](#the-20-ms), I encourage you to consider measurements. To measure is to assess and/or quantify media, fiction, and engagements with them. Here are some ways to think about measurements:  
 
 * Length: the work as pages, words, or minutes, e.g.  
 * Progress: the work as levels or the distance to the end, e.g.
@@ -702,7 +713,7 @@ Measurements prompt considerations of *value and apparatus*. (We'll talk more ab
 
 ### Main Content 
 
-As part of "comprehension" in the 20 M's, I encourage you to consider the main content or story. Here are some ways to think about it: 
+As part of "comprehension" in [the 20 M's](#the-20-ms), I encourage you to consider the main content or story. Here are some ways to think about it: 
 
 * Characters: humans, robots, nonhuman animals, mythological, and even environments or parts of the environment  
 * Setting: time, place, and location of the story 
@@ -717,7 +728,7 @@ The main content prompts considerations of *who, what, when, and where*.
 
 ### Meta
 
-As part of "synthesis" in the 20 M's, I encourage you to get meta about how the story is told. Here are some ways to get meta. Consider the:  
+As part of "synthesis" in [the 20 M's](#the-20-ms), I encourage you to get meta about how the story is told. Here are some ways to get meta. Consider the:  
 
 * Situation: What's known or taken for granted in the work? How do characters understand each other (or so we assume)?
 * World: What's the scope and scale of the setting and its systems, history, mythologies, and/or landscape? How is the world of the work bigger or more expansive than the story itself? 
@@ -734,7 +745,7 @@ The meta stuff prompts considerations of *design, style, and structure*.
 
 ### Massage
 
-As part of "synthesis" in the 20 M's, I encourage you to consider how the work massages or manipulates the senses. Here are some ways to think about massage and manipulation:  
+As part of "synthesis" in [the 20 M's](#the-20-ms), I encourage you to consider how the work massages or manipulates the senses. Here are some ways to think about massage and manipulation:  
 
 * Is the work securing consensus? If so, then how? And what sort of consensus? 
 * Is the work a distraction? If so, then how? And from what? 

@@ -798,13 +798,68 @@ As part of "synthesis" in [the 20 M's](#the-20-ms), I encourage you to consider 
 * Does the work involve simultaneity? Does it ask you to balance things or to mulitask? If so, then to what effects? 
 * Does the work address you (hey you! hi there)? If so, then how? Directly or indirectly? Under what assumptions?       
 
-Massaging and manipulation prompt considerations of *motivation and ideology*.
+Massaging and manipulation prompt considerations of *discipline and ideology*.
+
+---
+
+### Motivates
+
+As part of "synthesis" in [the 20 M's](#the-20-ms), I encourage you to consider what motivates people to attend and return to a work. Here are some ways to approach such motivation:  
+
+* Describe the work as a community, network, or social experience. What brought or brings people to it? 
+* Describe the work as an embodied experience. What's pleasurable (or not) about it?  
+* Describe why people might want to research the work. What about it rewards study? 
+
+Motivation prompts considerations of *traction*. 
 
 ---
 
 ### Audio and Fiction 
 
-Notes coming soon. 
+During our discussions of radio drama, podcasts, and voiceover, we discussed the following terms: 
+
+**Acousmatic sound** 
+
+May be defined as: 
+
+1. The practice of listening to sound without attention to its source (acousmatic listening)
+2. A sound separated from its source (not what is seen but what is heard)
+3. A sound effect 
+4. A sound object or sample ("canned" sound) 
+
+**Soundscape**
+
+May be defined as: 
+
+1. A collection of sounds 
+2. Sounds of the everyday evironment and atmosphere (not "composed" but a product of routine activities)
+3. A component of ambient music or ambient sound
+4. Sounds associated with a place or situation 
+5. The background sound or music of a work of fiction 
+
+**Sound design**
+
+Often includes components such as: 
+
+* DX: dialogue (between characters) 
+* MX: music 
+* SFX: sound effect (part of the soundscape) 
+* BG: background, ambient sound (may be composed or recorded) 
+* FOL: foley (triggered by player action in games or made post-production by foley artists) 
+
+**Voice-over** 
+
+May be defined as what's said by a speaker who is either not seen or is communicating from a moment before or after what's being seen. It links voice with sounds and images. The speaker often recounts events happening on screen (or within a frame) and/or provides perspective or understanding for those events. Voice-over is common in the use of flashbacks and dream sequences. It can be also be approached as: 
+
+* Narration, or an act of telling 
+* Communication, or contact between narrator and narrated 
+* Direction, where the narrator remarks on what's seen or happening 
+* Testimony, where the narrator develops a moral, affective, or intellectual relationship with what's seen or happening
+* Ideology, where the narrator speaks for, about, and with the narrated 
+
+The voice-over may be recognized for the "grain" of the voice (its signature) or the "voice" of the grain (the signature or trace of a sound recording on wax, vinyl, tape, etc.). People often want to hear themselves in voices (see Echo and Narcissus). What happens when they don't? 
+
+I'm borrowing some of this language from Sarah Kozloff and Roland Barthes. 
 
 ---
 

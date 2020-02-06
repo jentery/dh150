@@ -849,7 +849,7 @@ Often includes components such as:
 
 **Voice-over** 
 
-May be defined as what's said by a speaker who is either not seen or is communicating from a moment before or after what's being seen. It links voice with sounds and images. The speaker often recounts events happening on screen (or within a frame) and/or provides perspective or understanding for those events. Voice-over is common in the use of flashbacks and dream sequences. It can be also be approached as: 
+May be defined as what's said by a speaker who is either not seen or is communicating from a moment before or after what's being seen. It links voice with sounds and images. The speaker often recounts events happening on screen (or within a frame) and/or provides perspective or understanding for those events. Voice-over is common in the use of flashbacks and dream sequences. It can also be approached as: 
 
 * Narration, or an act of telling 
 * Communication, or contact between narrator and narrated 

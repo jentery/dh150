@@ -654,6 +654,7 @@ As part of "apprehension" in the 20 M's, I encourage you to consider the materia
 * Visibility: what materials can you see? not see?  
 * Audibility: does it make a sound? what materials can you hear?
 * Packaging: is it packaged? if so, describe the packaging. 
+* Recording: how is it recorded? can you handle or see the record? 
 
 The materials of the 20 M's prompt considerations of the work as *stuff*. 
 

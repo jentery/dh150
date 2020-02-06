@@ -740,6 +740,22 @@ The moment prompts considerations of *shared situations*, or what about a work p
 
 ---
 
+### Made
+
+As part of "synthesis" in [the 20 M's](#the-20-ms), I encourage you to consider how the work was made. How did it come together? How did this become that? Of note, it's pretty much impossible to fully capture and describe this process, even if you can access, say, notes, documentation, or designer diaries. But here are some ways to determine or conjecture how a work was made: 
+
+* Visit a collection in person or online. Libraries, archives, and museums often have materials describing and/or documenting how works were made. 
+* Use the [Wayback Machine](https://archive.org/web/) or a similar service to compare versions of a work over time. (See "Morphed" below, too.) 
+* Read blogs and the like. Maybe those involved in the work shared their process in writing, through video, etc. 
+* Imitate the work. Make your own personal copy of it and document the process along the way. 
+* Deconstruct the work. If possible, take it apart, put it back together, and document the process along the way.  
+* Play it backwards. Start at the end, work your way to the beginning, and document the process along the way. 
+* Check the source code, if available and applicable. You might find some insightful comments there. 
+
+Made prompts considerations of *process* over product.  
+
+---
+
 ### Meta
 
 As part of "synthesis" in [the 20 M's](#the-20-ms), I encourage you to get meta about how the story is told. Here are some ways to get meta. Consider the:  

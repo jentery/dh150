@@ -687,7 +687,7 @@ Mood prompts considerations of *distance, immediacy, or familiarity.*
 
 ### Modules
 
-As part of "comprehension" in [the 20 M's](#the-20-ms), I encourage you to consider modules, which draw attention the work's design and structure. Here are some ways to think about modules: 
+As part of "comprehension" in [the 20 M's](#the-20-ms), I encourage you to consider modules, which draw attention the work's composition and arrangement. Here are some ways to think about modules: 
 
 * Is the work available as a collection of component parts or files? If so, describe them. (Consider a website, for instance. It may have HTML, CSS, and media files.)
 * Describe the components of the work's composition, even if they are not available as a collection of parts or files. (Consider radio drama or podcasts, for instance. Their components may include dialogue (DX), sound effects (SFX), background sound (BG), and music (MX). Or, consider comics. Their components may include panels, gutters, tiers, and speech bubbles.) 

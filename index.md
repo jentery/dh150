@@ -773,6 +773,19 @@ The meta stuff prompts considerations of *design, style, and structure*.
 
 ---
 
+### Means
+
+As part of "synthesis" in [the 20 M's](#the-20-ms), I encourage you to consider what the work means to you and others. Meaning is produced in all sorts of ways. Here are some ways to think about it:   
+
+* Describe why the work is, or was, considered to be important in a given moment, or why people say it matters.  
+* Describe how the work produces multiple, even incongruous interpretations. Or, describe why people interpret it in multiple, even incongruous ways. 
+* Describe the effect of one of the work's devices, techniques, or mechanics, such as irony, allegory, metafiction, worldbuilding, collage, montage, voiceover, chance, accumulation, role-play, point of view, or allusion. 
+* Identify what you consider to be the most important meaning of the work and explain whether that meaning is referential (points to something in or beyond the work), explicit (what it says directly), implicit (symbols or codes), or symptomatic (unstated beliefs, assumptions, or ideologies). (I'm borrowing these terms from David Bordwell.) 
+
+Meaning prompts considerations of *significance*. 
+
+---
+
 ### Massage
 
 As part of "synthesis" in [the 20 M's](#the-20-ms), I encourage you to consider how the work massages or manipulates the senses. Here are some ways to think about massage and manipulation:  

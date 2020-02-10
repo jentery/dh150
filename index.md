@@ -860,7 +860,7 @@ Here are some ways to approach what voice-over is doing in a given work:
 * Testimony, where the narrator serves as a witness to events and may even represent them by speaking on their behalf (e.g., [*Blade Runner*](https://youtu.be/3_qW-xPanqU?t=152))
 * Direct address, where the narrator speaks directly to the audience, often as a character, breaking the "fourth wall" (e.g., [*Ferris Bueller's Day Off*](https://youtu.be/I7wPUNTBkVk?t=163), [*Fight Club*](https://youtu.be/I7wPUNTBkVk?t=163), and [*Deadpool*](https://youtu.be/I7wPUNTBkVk?t=163))
 * Disruption, where the narrator intervenes actively in the composition or story, usually with a notable effect on flow or rhythm (e.g., [*Bande à part*](https://youtu.be/I7wPUNTBkVk?t=42))
-* Command, where the narrator makes something appear or occur on screen (e.g., [*The Wolf of Wall Street*](https://youtu.be/I7wPUNTBkVk?t=83) and [*George of the Jungle*](https://youtu.be/I7wPUNTBkVk?t=92))
+* Command or direction, where the narrator makes something appear or occur on screen (e.g., [*The Wolf of Wall Street*](https://youtu.be/I7wPUNTBkVk?t=83) and [*George of the Jungle*](https://youtu.be/I7wPUNTBkVk?t=92))
 * Commentary, where the narrator remarks on what's seen or happening, often for comedic or manipulative purposes (e.g., [*The Big Lebowski*](https://youtu.be/I7wPUNTBkVk?t=142) and [*Sunset Blvd.*](https://youtu.be/I7wPUNTBkVk?t=29))
 * Knowledge gap, where the narrator's descriptions suggest they may not follow or fully grasp what's seen or happening (e.g., [*Badlands*](https://youtu.be/I7wPUNTBkVk?t=200))
 * Autonomy, where voice-over and image run in parallel, without the need for synchronization or cohesion (e.g., [*The Thin Red Line*](https://youtu.be/I7wPUNTBkVk?t=224))

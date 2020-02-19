@@ -494,7 +494,7 @@ Nalo Hopkinson's piece, "Message in a Bottle," is a short story partly about cur
 
 Orson Welles's *War of the Worlds* uses sound effects and acousmatic voices to combine science fiction with *radio vérité*. Please use 250-300 words and at least one example from the radio drama to explain how it not only achieves this combination but also massages or manipulates the listening process.  
 
-Episode one of *Within the Wire*'s first season uses an audio cassette and a full body relaxation course to mediate its relation with listeners. Please use 250-300 words and at least one example from the episode to describe how and to what effects on the story's style. 
+Episode one of *Within the Wires*' first season uses an audio cassette and a full body relaxation course to mediate its relation with listeners. Please use 250-300 words and at least one example from the episode to describe how and to what effects on the story's style. 
 
 *Everything Is Alive* is a podcast where inanimate objects speak and participate in interviews. Review the titles of all 21 episodes and then compose 1 to 2 minutes of your own. Please follow the podcast's conventions: give your episode a title as well as a one- or two-sentence description. Include the audio file in your entry and avoid re-using objects or names from previous episodes.  
 

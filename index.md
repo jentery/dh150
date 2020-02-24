@@ -192,7 +192,7 @@ We'll return your marks for the first two workshops by today.
 
 ### M 24 February
 
-Alison Bechdel, *Fun Home: A Family Tragicomic* (coming soon) (2006; selections) 
+Alison Bechdel, [*Fun Home: A Family Tragicomic*](http://jenteryteaches.com/noneshall/150/bechdelFunHome.pdf) (2006; selections) 
 
 We'll return your marks for the first half of the log by today.  
 

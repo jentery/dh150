@@ -800,6 +800,12 @@ As part of "synthesis" in [the 20 m's](#the-20-ms), I encourage you to consider 
 
 Massaging and manipulation prompt considerations of *discipline and ideology*.
 
+--- 
+
+### Move 
+
+Coming soon. 
+
 ---
 
 ### Motivates
@@ -811,6 +817,12 @@ As part of "synthesis" in [the 20 m's](#the-20-ms), I encourage you to consider 
 * Describe why people might want to research the work. What about it rewards study? 
 
 Motivation prompts considerations of *traction*. 
+
+---
+
+### Memories
+
+Coming soon. 
 
 ---
 
@@ -873,7 +885,32 @@ I'm borrowing some of this language from Sarah Kozloff, Linda Martín Alcoff, Mi
 
 ### Images and Fiction
 
-Notes coming soon. 
+Images may be interpreted as: 
+
+* **Traces** with material links to space and time. They evoke [memories](#memories) and often point to [moments](#moment) from the past. This act of pointing is called an *index*. 
+* **Perspectives** that [measure](#measure) and shape how we see the world. These perspectives are shaped by the technologies we use (e.g., cameras) but also by culture and norms (e.g., the "gaze," or the act of looking at and even objectifying people). Cindy Sherman's ["Untitled Film Stills"](https://www.youtube.com/watch?v=Ik6hva9qsKg&feature=emb_title) (1977-80)  experiments with these norms. Perspective is often associated with *framing*. Frames both include and exclude the material of images, prompting us to ask what's not seen and who is assumed to be the viewer or audience. Norman Rockwell has some fun with framing (including frames within frames) in his ["Triple Self-Portrait."](https://www.saturdayeveningpost.com/2017/11/rockwell-finally-appears/)
+* **Experiences** that engage, [manipulate](#massage), and [massage](#massage] our [modes](#modes) of perception. They address us. They look back (e.g., a subject who makes eye contact with the audience) but also function as sensory input. *Optical* images are screens, projectors, or mirror reflections that address us. *Perceptual* images are images impressed on us after seeing, watching, or playing something; they are the images we remember or recall after the experience. 
+* **Representations** that resemble people, places, and things in the world. They imitate life; this imitation is called "mimesis" (showing rather than telling). Such a resemblance is called an *icon*, like characters in a comic or the button for an app. 
+* **Composed** or [made](#made). They have centres and edges. They use colour. They have elements conventions. They show and tell. They are not "captured" or "taken," even when they are photographs. The fact that images are made prompts attention to their *format* (from drawings to paintings to photographs to animation to sprites to video). 
+* **Language** that have or produce [meaning](#means). They concentrate or focus meaning while also excluding or resisting it. They are both *symbols* and *signs*. Importantly, symbols are arbitrary and abstract; they work independently of context. Signs, which are also symbols, are comprised of signifiers (the word "cat") and signifieds (an image of cat in your mind). When we ask what an image means, we're treating it as language (as a symbol or sign). We may also want it to mean something deeper than what appears on the surface. 
+* **Imagined** or mental images, such as dreams, ideas, and even [memories](#memories). We may have mental images of things that don't exist or happened so long ago we can't recall the particulars. We may imagine an image before we draw, write, design, or the like. 
+* **Stories** we assemble and interpet, often in the moment. Images often prompt us to complete a sequence, even when there's no sequence to complete. They play on what comes before and after, on our anticipation and expectations. We [move](#move) with them. 
+
+Today, the word image often refers to *graphic* images: maps, graphs, photographs, drawings, and the like. Graphic images rely on marks, and they can be circulated as *pictures*. But images may also imply *likeness*: not the picture in hand or on screen but what the image resembles or reveals. Cartoons don't look exactly like who or what they represent; however, they do express likeness (the essence, spirit, style, or aura of who or what's represented). 
+
+**Comics** 
+
+When we consider how images are made in comics, the following terms are often used: 
+
+* **Panel**: an image on a page; often has a border; many panels may appear on one page; the number and their relation speaks to a comic's "panel density"   
+* **Tier**: a row of panels 
+* **Gutter**: the space between panels 
+* **Splash**: the drawing (usually large) that opens a story; may serve the purpose of exposition 
+* **Spread**: an image spanning more than one page 
+* **Speech Bubble**: a bubble in and even beyond a panel containing text for monologue and dialogue
+* **Caption**: text of narration and commentary in the gutter 
+
+These notes draw from work by Lisa Cartwright, Hillary Chute, Gilles Deleuze, Mary Ann Doane, Scott McCloud, W.J.T. Mitchell, Charles Sanders Peirce, Susan Sontag, and Marita Sturken.  
 
 ---
 

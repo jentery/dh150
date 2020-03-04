@@ -576,10 +576,10 @@ Consider taking notes for each of these but developing a response to just one or
 
 "So what?" Evaluation is about assessment, or why people should care about the work and engagements with it. Evaluations have intended audiences; knowing that audience and their expectations focuses the inquiry. 
 
-* Describe how the work *mediates* its relation to power and "common sense" (norms, assumed knowledge, and congealed ways of perceiving). 
-* Describe who and what it *misses*, ignores, or essentializes.  
-* Describe the *memories* it elicits and how it elicits them. 
-* Describe how it functions as *mimesis* (show, drama) and diegesis (tell, narrative) within and against its network.  
+* Describe how the work [*mediates*](#mediates) its relation to power and "common sense" (norms, assumed knowledge, and congealed ways of perceiving). 
+* Describe who and what it [*misses*](#misses), ignores, or essentializes.  
+* Describe the [*memories*](#memories) it elicits and how it elicits them. 
+* Describe how it functions as [*mimesis*](#mimesis) (show, drama) and diegesis (tell, narrative) within and against its network.  
 
 Again, consider taking notes for each of these but developing a response to just one or two. A response may not be an essay or series of paragraphs. Compose with audio, image, and/or text to determine what sticks with you and/or what others deem to be most compelling.  
 

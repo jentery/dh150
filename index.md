@@ -567,8 +567,8 @@ Consider distilling the work, reflecting on it, and even graphing its parts, sto
 * Describe how it [*massages*](#massage) or [*manipulates*](#massage) people's senses.
 * Describe how people *move* with, within, across, and beyond it. 
 * Describe what [*motivates*](#motivates) people to return to and/or identify with it. 
-* Describe how it and responses to it have *morphed* over time. 
-* Describe how it is or would be collected and *maintained* over time. 
+* Describe how it and responses to it have [*morphed*](#morphed) over time. 
+* Describe how it is or would be collected and [*maintained*](#maintained) over time. 
 
 Consider taking notes for each of these but developing a response to just one or two. Otherwise, the process may be overwhelming. 
 
@@ -648,15 +648,15 @@ F: The worksheet is missing or was not submitted on time.
 
 As part of "apprehension" in [the 20 m's](#the-20-ms), I encourage you to consider the materials used in the work of fiction. Materials are about the work as matter and physical substance. Here are some ways to think about materials:  
 
-* Presence: can you touch or handle it? 
-* Texture: is it smooth or rough? 
-* Emphemera: what about it disappears, or what's ghostly or mutable about it? 
-* Visibility: what materials can you see? not see?  
-* Audibility: does it make a sound? what materials can you hear?
-* Packaging: is it packaged? if so, describe the packaging. 
-* Recording: how is it recorded? can you handle or see the record? 
+* Presence: Can you touch or handle it? 
+* Texture: Is it smooth or rough? 
+* Emphemera: What about it disappears, or what's ghostly or mutable about it? 
+* Visibility: What materials can you see? not see?  
+* Audibility: Does it make a sound? What materials can you hear?
+* Packaging: Is it packaged? If so, describe the packaging. 
+* Recording: How is it recorded? Can you handle or see the record? 
 
-Materials prompt considerations of the work as *stuff*. 
+"Material" prompts considerations of the work as *stuff*. 
 
 ---
 
@@ -668,7 +668,7 @@ As part of "apprehension" in [the 20 m's](#the-20-ms), I encourage you to consid
 * WOVEN: writing (including reading), oral (what's said and heard), visual (colour, layout, and images, for instance), electronic (how the work transmits media, and whether it's electronic), and nonverbal (gesture, audio, and movement, for instance). Thanks to [Georgia Tech's Writing and Communication Program](https://wcprogram.lmc.gatech.edu/posters/woven) for this approach and the acronym, WOVEN. 
 * Agency: are you moving / engaging with or against the work? Maybe somewhere in between? What's the flow? Are you in, or do you want to be in, control? 
 
-Modes and senses prompt considerations of *attention and how we attend*.  
+"Modes" and senses prompt considerations of *attention and how we attend*.  
 
 ---
 
@@ -681,7 +681,7 @@ As part of "apprehension" in [the 20 m's](#the-20-ms), I encourage you to consid
 * Describe the work's tone. Is it serious? Playful? Vauge? Direct? 
 * Describe the work as a feeling. Any goosebumps? What emotions or experiences do you associate with it? 
 
-Mood prompts considerations of *distance, immediacy, or familiarity.* 
+"Mood" prompts considerations of *distance, immediacy, or familiarity.* 
 
 ---
 
@@ -692,7 +692,7 @@ As part of "comprehension" in [the 20 m's](#the-20-ms), I encourage you to consi
 * Is the work available as a collection of component parts or files? If so, describe them. (Consider a website, for instance. It may have HTML, CSS, and media files.)
 * Describe the components of the work's composition, even if they are not available as a collection of parts or files. (Consider radio drama or podcasts, for instance. Their components may include dialogue (DX), sound effects (SFX), background sound (BG), and music (MX). Or, consider comics. Their components may include panels, gutters, tiers, and speech bubbles.) 
 
-Modules prompt considerations of the *relationships between parts and whole*. 
+"Modules" prompt considerations of the *relationships between parts and whole*. 
 
 ---
 
@@ -707,7 +707,7 @@ As part of "comprehension" in [the 20 m's](#the-20-ms), I encourage you to consi
 * Presentation: the work as its screen (size), resolution, compression, or fidelity, e.g.  
 * Attention: the work as clicks, views, sales, or ratings, e.g. 
 
-Measurements prompt considerations of *value*. 
+"Measure" prompts considerations of *value*. 
 
 ---
 
@@ -722,7 +722,7 @@ As part of "comprehension" in [the 20 n's](#the-20-ms), I encourage you to consi
 * Conflict: between characters, events, groups, environments (the tension upon which the story relies) 
 * Point of view: first, second, or third-person (omniscient or limited)
 
-The main content prompts considerations of *shared interpretation*, or what about a story puts people on the same page. 
+The "main content" prompts considerations of *shared interpretation*, or what about a story puts people on the same page. 
 
 ---
 
@@ -736,7 +736,7 @@ As part of "comprehension" in [the 20 m's](#the-20-ms), I encourage you to consi
 * Describe where the work was made and circulated. Consider its network, geographic location, and "scene." In some cases, the network may be quite literal: a radio or tv network, for instance. 
 * Describe its reception over time. Compare its reception now with its reception then. 
 
-The moment prompts considerations of *shared situations*, or what about a work puts people in the same space and/or time. 
+The "moment" prompts considerations of *shared situations*, or what about a work puts people in the same space and/or time. 
 
 ---
 
@@ -752,7 +752,7 @@ As part of "synthesis" in [the 20 m's](#the-20-ms), I encourage you to consider 
 * Go backwards. Start at the end, work your way to the beginning, and document the process (or experience) along the way. 
 * Check the source code, if available and applicable. You might find some insightful comments there. 
 
-Made prompts considerations of *process* over product.  
+"Made" prompts considerations of *process* over product.  
 
 ---
 
@@ -769,7 +769,7 @@ As part of "synthesis" in [the 20 m's](#the-20-ms), I encourage you to get meta 
 * Focalization: How do we get our knowledge from characters and/or narrators (zero = omniscient narrator who knows more than characters, internal = narrator is a character and thus knows what the character knows, and external focalization = narator or camera eye telling less than what characters know)?
 * Narration (compare with plot above): How is the story told? Often involves abstract (summary), orientation (time and place), complicating action, resolution (climax), evaluation (commentary or elucidation), and coda (time of story meets time of narrative).
 
-The meta stuff prompts considerations of *design, style, and structure*. 
+"Meta" prompts considerations of *design, style, and structure*. 
 
 ---
 
@@ -782,7 +782,7 @@ As part of "synthesis" in [the 20 m's](#the-20-ms), I encourage you to consider 
 * Describe the effect of one of the work's devices, techniques, or mechanics, such as irony, allegory, metafiction, worldbuilding, collage, montage, voiceover, chance, accumulation, role-play, point of view, or allusion. 
 * Identify what you consider to be the most important meaning of the work and explain whether that meaning is referential (points to something in or beyond the work), explicit (what it says directly), implicit (symbols or codes), or symptomatic (unstated beliefs, assumptions, or ideologies). (I'm borrowing these terms from David Bordwell.) 
 
-Meaning prompts considerations of *significance*. 
+"Meaning" prompts considerations of *significance*. 
 
 ---
 
@@ -804,7 +804,17 @@ Massaging and manipulation prompt considerations of *discipline and ideology*.
 
 ### Move 
 
-Coming soon. 
+As part of "synthesis" in [the 20 m's](#the-20-ms), I encourage you to consider how people move with the work. Here are some ways to think about movement:   
+
+* Arrangement and layout: How does the work guide interpretation and experience? How does it structure play and perception? 
+* Mechanics and actions: How does the work prompt input? What are the mechanics? The horizons of action? 
+* Expected and unexpected: How does the work play with expectations? With where it may go or what people assume may happen next? What moves are surprising? 
+* Repetition and amplitude: What moves does the work ask people to rehearse? What's intense or loud about it? Subtle?
+* Idleness and inaction: How does the work invite or afford idleness or inaction? What happens when people don't engage or participate? 
+* Rules and boundaries: How and where does the work draw boundaries? Where can't people go, or what can't they do? 
+* Embodiment: How and when does the work draw attention to people's unique, embodied experiences? How and when does it ignore or standardize them? 
+
+"Move" prompts considerations of *activity and anticipation*.  
 
 ---
 
@@ -816,9 +826,21 @@ As part of "synthesis" in [the 20 m's](#the-20-ms), I encourage you to consider 
 * Describe the work as an embodied experience. What's pleasurable (or not) about it?  
 * Describe why people might want to research the work. What about it rewards study? 
 
-Motivation prompts considerations of *traction*. 
+"Motivates" prompts considerations of *traction*. 
 
 ---
+
+### Morphed 
+
+Coming soon. 
+
+---
+
+### Maintained
+
+Coming soon. 
+
+--- 
 
 ### Memories
 

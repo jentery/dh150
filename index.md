@@ -565,7 +565,7 @@ Consider distilling the work, reflecting on it, and even graphing its parts, sto
 * Get [*meta*](#meta). Describe how the story is told.
 * Describe what the work [*means*](#means) (or its multiple, incongruous *meanings*). 
 * Describe how it [*massages*](#massage) or [*manipulates*](#massage) people's senses.
-* Describe how people *move* with, within, across, and beyond it. 
+* Describe how people [*move*](#move) with, within, across, and beyond it. 
 * Describe what [*motivates*](#motivates) people to return to and/or identify with it. 
 * Describe how it and responses to it have [*morphed*](#morphed) over time. 
 * Describe how it is or would be collected and [*maintained*](#maintained) over time. 

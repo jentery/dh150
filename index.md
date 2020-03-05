@@ -835,7 +835,7 @@ As part of "synthesis" in [the 20 m's](#the-20-ms), you may want to consider how
 * Rules and boundaries: How and where does the work draw boundaries? Where can't people go in the work, or what can't they do? 
 * Embodiment: How and when does the work draw attention to people's unique, embodied experiences? How and when does it ignore or standardize those experiences? 
 
-"Move" prompts considerations of *activity and anticipation*.  
+"Move" prompts considerations of *agency and anticipation*.  
 
 ---
 

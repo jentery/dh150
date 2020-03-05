@@ -74,7 +74,7 @@ Here's a list of what we'll study in the order we'll study them:
 * Alison Bechdel, *Fun Home: A Family Tragicomic* (selections) 
 * Emil Ferris, *My Favorite Thing Is Monsters* (selections) 
 * Amanda Strong and Leanne Betasamosake Simpson, *Biidaaban (The Dawn Comes)*
-* Fulbright Company, *Gone Home* 
+* Fullbright Company, *Gone Home* 
 * N.K. Jemisin, *The Fifth Season* (selections) 
 * Porpentine and Brenda Neotenomie, *With Those We Love Alive* 
 * Toby Fox and Temmie Chang, *Undertale* 
@@ -210,7 +210,7 @@ Amanda Strong and Leanne Betasamosake Simpson, [*Biidaaban (The Dawn Comes)*](ht
 
 ### R 5 March
 
-Fulbright Company, [*Gone Home*](https://gonehome.game/) (2013; play or watch no-commentary gameplay for at least 60 minutes)  
+Fullbright Company, [*Gone Home*](https://gonehome.game/) (2013; play or watch no-commentary gameplay for at least 60 minutes)  
 
 We'll have a workhop (#4) today.  
 

@@ -524,7 +524,7 @@ Read *With Those We Love Alive* at least two times and trace your path through i
 
 Select a comic we studied this term and then imitate its style to compose three panels about a day or moment in your life. Include your three panels as an image or images in your entry and use 50-75 words to explain what you did with the panels and whose work you imitated. Do not include anyone else in the comic without their written permission. 
 
-Select a game we studied this term and then imitate its style to wireframe a single situation or encounter that introduces a new action (or mechanic) to the game. Include your wireframe as an image in your entry and use 50-75 words to explain why you're introducing this new action to the game.   
+Select a game we studied this term and then imitate its style to wireframe a single situation or encounter that introduces a new action (or mechanic) to the game. Include your wireframe as an image in your entry and use 50-75 words to explain why you're introducing this new action (or mechanic).   
 
 Create a simple [Twine](https://twinery.org/) story that either demonstrates or explains the use of *one* of the [20 m's](#the-20-ms). Feel free to draw examples from a work or two we studied. Upload your Twine story to your UVic webspace and then, in your entry, describe the story in a sentence and link to it.  
 

@@ -934,6 +934,35 @@ When we consider how images are made in comics, the following terms are often us
 
 These notes draw from work by Lisa Cartwright, Hillary Chute, Gilles Deleuze, Mary Ann Doane, Scott McCloud, W.J.T. Mitchell, Charles Sanders Peirce, Susan Sontag, and Marita Sturken.  
 
+**Games and Fiction**
+
+The following terms are useful when discussing games as images (and more).
+
+Components of a game (drawn from the work of Walker White): 
+* Engine (for physics, graphics, sound, and game dynamics) 
+* Rules (framework or guidelines for action) and mechanics (the actions afforded) 
+* Interface (for options, navigation, and menus) 
+* Content (such as the story, characters, conditions, levels, and audio, image, and text) 
+* Play (uncompelled or uncoerced negotiation with the components above; a relation between game and player) 
+
+Some key terms for games (drawn from the work of Anna Anthropy, Naomi Clark, Alexander Galloway, Brenda Romero, and Brian Upton): 
+* Game state: all variables at play in a given scenario; may include everything from number of players and components to possible actions and conflicts to goals and win conditions; essentially the game’s "metagame"
+* Phase space: the conceptual space representing possible game states; helps to account for movement from one location to the next; has direction and goals built into it (such as unlocking, levels, and disclosure) 
+* Playspace or actionable space: the actual, playable gameworld, where players negotiate with game states and phase space 
+* Horizon of action: the synthesis of states attainable (according to the game) and states desired (by a player) 
+* Goals: desired game states, or games states with a special status 
+* Trajectory: path through phase and play space toward horizon of action 
+* Types of action (care of Alexander Galloway): diegetic machine act (the game proceeds without the player), diegetic player act (such as player character movement, expression, and dialogue), non-diegetic machine act (such game goals, points, stats, bugs, and crashes), and non-diegetic player action (such as pressing pause or selecting options)
+
+Evaluation of games (drawn from the work of Anna Anthropy, Naomi Clark, Brenda Romero, and Brian Upton): 
+* Choice: What possible actions, or "verbs," are afforded by horizons of action?  
+* Variety: How much repetition occurs in the horizon of action?  
+* Consequence: To what degree do actions have palpable/clear outcomes? 
+* Predictability: To what degree can actions, or "verbs," be anticipated?  
+* Uncertainty: To what degree are the outcomes predetermined? 
+* Satisfaction: To what degree are desirable outcomes attainable?  
+* Values: How do the actions and horizons of action correspond with particular worldviews? What do those worldviews assume about players and games?  
+
 ---
 
 ### Text and Fiction

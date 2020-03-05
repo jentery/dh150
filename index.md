@@ -508,7 +508,27 @@ Use the style and content of the above prompts to write your own and respond to 
 
 **Second Half of Your Log** 
 
-These prompts are coming soon (by mid-February). 
+*Required*: For the final entry in your log, please use images, video, audio, and/or text to communicate the most important thing you learned in class this term. 
+
+Pick a page in either *Fun Home* or *My Favorite Thing Is Monsters* and then describe in 250-300 words its use of an icon, symbol, and index. 
+
+Use 250-300 words to describe how and to what effects *Biidaaban (The Dawn Comes)* uses animation to address assumptions of "common sense."
+
+Use 250-300 words to describe how and to what effects *Gone Home*'s content and design address what's often missing from videogames.  
+
+Use 250-300 words to describe how and to what effects N.K. Jemisin uses second-person narration in *The Fifth Season*. 
+
+Use 250-300 words to explain whether or not the design of *Undertale* is manipulative. 
+
+Read *With Those We Love Alive* at least two times and trace your path through it each time. Try not to follow the same path twice. Then use 250-300 words to document your decisions and explain their effects on the story and your experience of it. 
+
+Select a comic we studied this term and then imitate its style to compose three panels about a day or moment in your life. Include your three panels as an image or images in your entry and use 50-75 words to explain what you did with the panels and whose work you imitated. Do not include anyone else in the comic without their written permission. 
+
+Select a game we studied this term and then imitate its style to wireframe a single situation or encounter that introduces a new action (or mechanic) to the game. Include your wireframe as an image in your entry and use 50-75 words to explain why you're introducing this new action to the game.   
+
+Create a simple [Twine](https://twinery.org/) story that either demonstrates or explains the use of *one* of the [20 m's](#the-20-ms). Feel free to draw examples from a work or two we studied. Upload your Twine story to your UVic webspace and then, in your entry, describe the story in a sentence and link to it.  
+
+Use the style and content of the above prompts to write your own prompt and then respond to it. Please email a draft of your prompt to me by Thursday, March 26th for review and approval.
 
 **Rubric for the Log**
 

@@ -250,13 +250,13 @@ This module focuses on using audio, image, and text to prototype what you want t
 
 ### R 26 March
 
-Notes, ["Types of Prototypes"](#types-of-prototypes)
+Notes, "Types of Prototypes"
 
 We'll return your marks for the fifth and sixth workshops by today. 
 
 ### M 30 March
 
-Notes, ["Prototyping as Speculation"](#prototyping-as-speculation)  
+Notes, "Prototyping as Speculation"
 
 We'll have two workshops (#7 and #8) today.  
 
@@ -266,7 +266,7 @@ This module focuses on recapping and reflecting on what we learned this term.
 
 ### R 2 April 
 
-Notes, ["Review"](#review) 
+Notes, "Review" 
 
 The second half of your log is due today. 
 
@@ -853,7 +853,14 @@ Motivation prompts considerations of *traction*.
 
 ### Morphed
 
-Coming soon. 
+As part of "synthesis" in [the 20 m's](#the-20-ms), you may want to consider how the work morphs or changes shape. Here are some ways to approach morphing:
+
+* Describe how the work's content and design have changed over time. If the work is online, then you can use the [Wayback Machine](https://archive.org/web/) to study the work as it appeared on particular dates.  
+* Describe versions of the work, if applicable. Perhaps it's been updated (e.g., version 1.1.6 vs. version 2.2.6) over time or multiple editions exist. 
+* Describe how the shape of the work changes when you interact with it or provide input. Maybe more content becomes available as you progress through the work, or perhaps the work gradually discloses certain features. 
+* Describe how the work's content and design correspond with its [moment](#moment), including its network but also interpretations of it during different periods of time (interpretation then versus interpretation now, for example). 
+
+Morphing prompts considerations of *mutability*, where the work is neither frozen nor static but dynamic, changing with technologies and contexts over time and across space. 
 
 ---
 
@@ -1005,24 +1012,6 @@ Evaluation of games (drawn from the work of Anna Anthropy, Naomi Clark, Brenda R
 ---
 
 ### Text and Fiction
-
-Notes coming soon. 
-
----
-
-### Types of Prototypes 
-
-Notes coming soon. 
-
----
-
-### Prototyping as Speculation
-
-Notes coming soon. 
-
----
-
-### Review
 
 Notes coming soon. 
 

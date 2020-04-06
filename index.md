@@ -1027,7 +1027,23 @@ Evaluation of games (drawn from the work of Anna Anthropy, Naomi Clark, Brenda R
 
 ### Text and Fiction
 
-Notes coming soon. 
+During our brief discussion of the role of text in fiction, we discussed how text functions as: 
+
+**Image**: here, we might consider the text's perceptual and graphic dimensions, such as the layout of a page or website or the arrangement of words; recall *M00D 0F THE M0MENT* or *My Favorite Thing Is Monsters*, for example
+
+**Symbol**: in this case, we're talking about text as the use of systems (alphabets) of characters (symbols) to compose words and create meaning (connotation and denotation); this version of text is most common in studies of fiction; recall our analysis of "Message in a Bottle" or *Fun Home,* for instance   
+
+**Script**: we may also note how text functions as a recording or document, the content of which is to be performed or rehearsed; scripts may also function as evidence of an event or performance; recall our discussion of *Sorry, Wrong Number*, for example  
+
+**Instruction**: here, text conveys rules or steps to follow, without much, if any, attention to connotation or figurative language; this use of text is most common in games (video and tabletop); consider *Secrets Agent* and *Simple World*, for instance  
+
+**Tag**: text may also be used for organization, structure, or markup; it may facilitate association or pattern analysis; this is text as metadata or hashtag; consider the use of HTML in works such as *With Those We Love Alive* 
+
+**Action**: this is executable text, from menus, links, and buttons in an interface to the use of programming languages as "source code"; consider any game here, including the use of the C++ and C# languages to create *Gone Home*, which also relies heavily on menus to navigate options and perform certain actions 
+
+**Type**: here we're examining text as lettering and its design; aspects of type include its stroke (straight, curved, or angled letterforms), axis (neutral, positive, or negative "inclination" of the stroke), aperture (the openness or constraint of a letter), and serif (a visual stop at the beginning and/or end of a stroke); consider the use of typefaces in the game, *Undertale* 
+
+Of course, text as media serves several of these functions at once. An important thing to remember is that text isn't just Text. Its multiple, often contradictory functions mean it's not homogeneous in its intent or effect. 
 
 ---
 

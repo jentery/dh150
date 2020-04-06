@@ -486,49 +486,63 @@ Responses to these prompts should take approximately 60 to 90 minutes to compose
 
 **First Half of Your Log** 
 
-Young-Hae Chang Heavy Industries made an animated piece titled, *M00D OF THE MOMENT*. Please use 250-300 words and at least one example from the piece to not only describe its mood but also explain whether and under what assumptions you consider it to be immersive.  
+1. Young-Hae Chang Heavy Industries made an animated piece titled, *M00D OF THE MOMENT*. Please use 250-300 words and at least one example from the piece to not only describe its mood but also explain whether and under what assumptions you consider it to be immersive.  
 
-Marina Kittaka's *Secrets Agents* is a puzzle adventure game with voice-over. Compose 30 seconds to 1 minute of additional voice-over for the game and use 50-75 words to describe your intent for it. Please also indicate when in the game the voice-over would play or what action would trigger it. Include the audio file in your entry.
+2. Marina Kittaka's *Secrets Agents* is a puzzle adventure game with voice-over. Compose 30 seconds to 1 minute of additional voice-over for the game and use 50-75 words to describe your intent for it. Please also indicate when in the game the voice-over would play or what action would trigger it. Include the audio file in your entry.
 
-Nalo Hopkinson's piece, "Message in a Bottle," is a short story partly about curation. Please use 250-300 words and at least one example from the story to explain why, with some attention to the function of "messengers" in the narrative.  
+3. Nalo Hopkinson's piece, "Message in a Bottle," is a short story partly about curation. Please use 250-300 words and at least one example from the story to explain why, with some attention to the function of "messengers" in the narrative.  
 
-Orson Welles's *War of the Worlds* uses sound effects and acousmatic voices to combine science fiction with *radio vérité*. Please use 250-300 words and at least one example from the radio drama to explain how it not only achieves this combination but also massages or manipulates the listening process.  
+4. Orson Welles's *War of the Worlds* uses sound effects and acousmatic voices to combine science fiction with *radio vérité*. Please use 250-300 words and at least one example from the radio drama to explain how it not only achieves this combination but also massages or manipulates the listening process.  
 
-Episode one of *Within the Wires*' first season uses an audio cassette and a full body relaxation course to mediate its relation with listeners. Please use 250-300 words and at least one example from the episode to describe how and to what effects on the story's style. 
+5. Episode one of *Within the Wires*' first season uses an audio cassette and a full body relaxation course to mediate its relation with listeners. Please use 250-300 words and at least one example from the episode to describe how and to what effects on the story's style. 
 
-*Everything Is Alive* is a podcast where inanimate objects speak and participate in interviews. Review the titles of all 21 episodes and then compose 1 to 2 minutes of your own. Please follow the podcast's conventions: give your episode a title as well as a one- or two-sentence description. Include the audio file in your entry and avoid re-using objects or names from previous episodes.  
+6. *Everything Is Alive* is a podcast where inanimate objects speak and participate in interviews. Review the titles of all 21 episodes and then compose 1 to 2 minutes of your own. Please follow the podcast's conventions: give your episode a title as well as a one- or two-sentence description. Include the audio file in your entry and avoid re-using objects or names from previous episodes.  
 
-Lucille Fletcher's *Sorry, Wrong Number* demonstrates that the telephone network is anything but immediate. Please use 250-300 words and at least one example from the radio drama to explain how, by whom, and to what effects Mrs. Stevenson's conversations are mediated. 
+7. Lucille Fletcher's *Sorry, Wrong Number* demonstrates that the telephone network is anything but immediate. Please use 250-300 words and at least one example from the radio drama to explain how, by whom, and to what effects Mrs. Stevenson's conversations are mediated. 
 
-I provided you with a style template for your log. Change it to improve how your log is read and navigated and then use 200-250 words plus examples from your `style.css` file to explain the changes, why you made them, and how they improved the log's design. 
+8. I provided you with a style template for your log. Change it to improve how your log is read and navigated and then use 200-250 words plus examples from your `style.css` file to explain the changes, why you made them, and how they improved the log's design. 
 
-Imagine you've been asked to teach Grade 12 students about the use of audio in fiction. Please identify one (and only one) key concept you'd teach and then compose a 2- to 3-minute audio file that not only explains the concept but also conveys or performs its significance to Grade 12 students. In your audio, please draw example(s) from at least one work of fiction we studied.  
+9. Imagine you've been asked to teach Grade 12 students about the use of audio in fiction. Please identify one (and only one) key concept you'd teach and then compose a 2- to 3-minute audio file that not only explains the concept but also conveys or performs its significance to Grade 12 students. In your audio, please draw example(s) from at least one work of fiction we studied.  
 
-Use the style and content of the above prompts to write your own and respond to it. Please email a draft of your prompt to me by Monday, February 10th for review and approval. 
+10. Use the style and content of the above prompts to write your own and respond to it. Please email a draft of your prompt to me by Monday, February 10th for review and approval. 
 
 **Second Half of Your Log** 
 
-*Required*: For the final entry in your log, please use images, video, audio, and/or text to communicate the most important thing you learned in class this term. 
+You should respond to *four or five* of the following prompts and interpret at least *four* assigned fictions in the process. By "assigned fictions," I mean any work appearing on the course schedule since January 6th (the first day of classes). You are welcome to interpret works, such as *Undertale* and *The Fifth Season*, we did not have an opportunity to discuss in class.
 
-Pick a page in either *Fun Home* or *My Favorite Thing Is Monsters* and then describe in 250-300 words its use of an icon, symbol, and index. 
+The first prompt is required. It is also rather open-ended. Feel free to experiment with it, and to draw upon social or personal experience when addressing it.
 
-Use 250-300 words to describe how and to what effects *Biidaaban (The Dawn Comes)* uses animation to address assumptions of "common sense."
+1. Required: For the final entry in your log, please use images, video, audio, and/or text to communicate the most important thing you learned in class this term.
 
-Use 250-300 words to describe how and to what effects *Gone Home*'s content and design address what's often missing from videogames.  
+2. Pick a page in either *Fun Home* or *My Favorite Thing Is Monsters* and then describe in 250-300 words its use of an icon, symbol, and index.
 
-Use 250-300 words to describe how and to what effects N.K. Jemisin uses second-person narration in *The Fifth Season*. 
+3. Use 250-300 words to describe how and to what effects *Biidaaban (The Dawn Comes)* uses animation to address assumptions of "common sense."
 
-Use 250-300 words to explain whether or not the design of *Undertale* is manipulative. 
+4. Use 250-300 words to describe how and to what effects *Gone Home*’s content and design address what's often missing from videogames.
 
-Read *With Those We Love Alive* at least two times and trace your path through it each time. Try not to follow the same path twice. Then use 250-300 words to document your decisions and explain their effects on the story and your experience of it. 
+5. Use 250-300 words to describe how and to what effects N.K. Jemisin uses second-person narration in *The Fifth Season*.
 
-Select a comic we studied this term and then imitate its style to compose three panels about a day or moment in your life. Include your three panels as an image or images in your entry and use 50-75 words to explain what you did with the panels and whose work you imitated. Do not include anyone else in the comic without their written permission. 
+6. Use 250-300 words to explain whether or not the design of *Undertale* is manipulative.
 
-Select a game we studied this term and then imitate its style to wireframe a hypothetical situation or encounter for the game that introduces a new action (or mechanic) to the gameplay. Include your wireframe as an image in your entry and use 50-75 words to explain why you're introducing this new action (or mechanic). 
+7. Read *With Those We Love Alive* at least two times and trace your path through it each time. Try not to follow the same path twice. Then use 250-300 words to document your decisions and explain their effects on the story and your experience of it.
 
-Create a simple [Twine](https://twinery.org/) story that either demonstrates or explains the use of *one* of the [20 m's](#the-20-ms). Feel free to draw examples from a work or two we studied. Upload your Twine story to your UVic webspace and then use your entry to link to your story and describe it in a sentence.
+8. Select a comic we studied this term and then imitate its style to compose three panels about a day or moment in your life. Include your three panels as an image or images in your entry and use 50-75 words to explain what you did with the panels and whose work you imitated. Do not include anyone else in the comic without their written permission.
 
-Use the style and content of the above prompts to write your own prompt and then respond to it. Please email a draft of your prompt to me by Thursday, March 26th for review and approval.
+9. Select a game we studied this term and then imitate its style to wireframe a hypothetical situation or encounter for the game that introduces a new action (or mechanic) to the gameplay. Include your wireframe as an image in your entry and use 50-75 words to explain why you're introducing this new action (or mechanic).
+
+10. Select a game we studied this term and use 250-300 words to explain how and why someone could play it the "wrong way." Include images or video in your entry, if you wish.
+
+11. Select a work we studied this term and use 250-300 words to explain its use of a typeface, including the typeface's stroke, aperture, axis, and serifs (or lack of serifs). Include images in your entry, if you wish.
+
+12. Select a work we studied this term and use 250-300 words to describe how people "move" with it, including eye movement, the use of controllers, and/or the use of gestures or hands. Include images or video in your entry, if you wish.
+
+13. Select a work we studied this term and use 250-300 words to describe how it uses media to show ("mimesis") and tell ("diegesis") a story. Include images in your entry, if you wish.
+
+14. Select a work we studied this term and use 250-300 words to describe how it treats text as an image. Include images in your entry, if you wish.
+
+15. Create a simple [Twine](https://twinery.org/) story that either demonstrates or explains the use of one of the 20 m's. Feel free to draw examples from a work or two we studied. Upload your Twine story to your UVic webspace and then use your entry to link to your story and describe it in a sentence.
+
+16. Use the style and content of the above prompts to write your own prompt and then respond to it. Please email a draft of your prompt to me by Thursday, April 2nd for review and approval.
 
 **Rubric for the Log**
 

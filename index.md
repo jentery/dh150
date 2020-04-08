@@ -889,13 +889,22 @@ As part of "synthesis" in [the 20 m's](#the-20-ms), you may want to consider how
 * Account for who is maintaining the work, where, and how. What expertise is required? What sort of technologies and facilities are necessary to maintain the work? What's the near future (next 20 years) of the work in its current format? The distant future (50 years from now)? 
 * Describe the ephemeral dimensions of the work. What aspects of it resist storage or preservation? Why might its ephemerality (or what can't be recorded or captured) be important? 
 
-Maintenance prompts consideration of *persistence and obsolescence.* 
+Maintenance prompts considerations of *persistence and obsolescence.* 
 
 ---
 
 ### Mediates
 
-Coming soon. 
+As part of "evaluation" in [the 20 m's](#the-20-ms), you may want to consider how the work mediates its relation to power and “common sense," which includes norms, assumed knowledge, and congealed ways of perceiving. Here are some ways to approach mediation: 
+
+* Describe the values, ways of living, and ways of perceiving the work takes for granted. When and why does it assume you agree with it? What does it assume you or the characters already know? How does it rationalize or make sense of experience and perception? 
+* Describe what the work considers to be interesting. On what does it focus? What does it foreground or centre? What does it ignore?  
+* Describe what the work considers to be subversive. What norms does it resist or reject? How does it "speak back" to power? How is it powerful? 
+* Describe whom and what the work is addressing. Who is included in the intended audience? Excluded? What social, cultural, or political issues does it engage, either directly or indirectly? By whom and for whom was it made?  
+* Describe how the work builds or projects a world. What makes it run? What are its laws or boundaries? Its mythologies or shared stories? 
+* Describe what's immediate in the work. What happens instantly or without friction? What's considered to be natural or commonplace?  
+
+Mediation prompts considerations of *ideals and worldviews*. 
 
 ---
 

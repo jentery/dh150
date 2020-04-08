@@ -880,7 +880,16 @@ Morphing prompts considerations of *mutability*, where the work is neither froze
 
 ### Maintained
 
-Coming soon. 
+As part of "synthesis" in [the 20 m's](#the-20-ms), you may want to consider how the work is maintained over time. Here are some ways to approach maintenance: 
+
+* Describe the format(s) used to make and circulate the work. Today, we often think in terms of file formats: PDF, EPUB, HTML, MP3, JPG, and the like. You can also understand formats more broadly: comics, novels, radio, and games, for example. Formats are ways to nest, circulate, or store media in / as fiction. 
+* Describe how these formats are accessed today and were accessed in the past. Where are they found? Do they still "run"? Do they require specific operating systems or software? Do you need to access them in person or on site (in a library or archive)? What's not online, and why? What's not "open" or freely available, and why? When and why might accessing the work in its original format(s) matter? 
+*  Describe how these formats "rot" or degrade over time. How long have they been around? What might replace them? Are they proprietary? If so, who invests in them, and why? 
+* Describe how the work appears across formats, from print and analog to electronic and digital. What changes across these appearances? What features are added or lost? How does the format shape experience and meaning? 
+* Account for who is maintaining the work, where, and how. What expertise is required? What sort of technologies and facilities are necessary to maintain the work? What's the near future (next 20 years) of the work in its current format? The distant future (50 years from now)? 
+* Describe the ephemeral dimensions of the work. What aspects of it resist storage or preservation? Why might its ephemerality (or what can't be recorded or captured) be important? 
+
+Maintenance prompts consideration of *persistence and obsolescence.* 
 
 ---
 

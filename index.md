@@ -833,7 +833,7 @@ As part of "synthesis" in [the 20 m's](#the-20-ms), you may want to consider how
 * Does the work involve simultaneity? Does it ask you to balance things or to multitask? If so, then to what effects? 
 * Does the work address you (hey you! hi there)? If so, then how? Directly or indirectly? Under what assumptions?       
 
-Massaging and manipulation prompt considerations of *discipline, ideology, and pleasure.*
+Massaging and manipulation prompt considerations of *discipline and pleasure.*
 
 ---
 
@@ -910,7 +910,15 @@ Mediation prompts considerations of *ideals and worldviews*.
 
 ### Misses
 
-Coming soon. 
+As part of "evaluation" in [the 20 m's](#the-20-ms), you may want to consider who and what the work misses, overlooks, or essentializes. Here are some ways to approach this question: 
+
+* Describe characters and character experiences you'd expect to be a part of the work. What characters and experiences are absent? Why do you think that's the case? 
+* Describe when and how characterization in the work strikes you as stereotypical, hyperbolic (caricature), or problematic. What motivates these representations? 
+* Describe what kind of interactions or features you'd expect to be a part of the work. What interactions or features are absent? Why do you think that's the case? 
+* Describe the work's use of detail. What's absent or not quite what you'd expect? Why do you think that's the case? 
+* Describe the consistency of the work, including consistency of its characters, plots, devices, settings, actions, and objects. What changes, or is missing, from scene to scene, moment to moment? 
+
+"Misses" prompts considerations of *continuity, expectations, and omissions*.
 
 ---
 

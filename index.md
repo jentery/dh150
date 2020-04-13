@@ -939,7 +939,13 @@ As part of "evaluation" in [the 20 m's](#the-20-ms), you may want to consider th
 
 ### Mimesis
 
-Coming soon. 
+As part of "evaluation" in [the 20 m's](#the-20-ms), you may want to consider the role of mimesis in the work. Here are some ways to approach mimesis:
+
+* Describe how the work shows and tells. What does the narrator say? What do the characters say? What's described as fact? As experience? What's treated as information? What's alluded to? What's symbolic? Poetic? What pictures are painted? When and why does something have multiple, if not contradictory, meanings? What's direct about the work, and what's indirect? What roles do audio, image, and text play in apprehending and comprehending what's direct and indirect? 
+* Describe how the work "holds a mirror up to nature." How does the work represent or reproduce reality? Comment on it? How does it project a world? How does it build its own? How aware is it of the media it uses? How "meta" is it? What's imitated? What's warped or exaggerated? What's fabricated? How compelling or "true to life" are the fabrications? 
+* Describe how the work invites immersion and criticism. What's cathartic about it? What draws you into it and sustains your attention? What pleases you about it? What concerns you about it? How does it distract you? How does it invite you to play a role, and how do you feel about that experience? What does it want you to treat as fact or truth? As fabrication or falsity? How do fabrication and fact overlap in the work? What does it look at, stand above, or examine from afar? What does it meander or stroll through? When and how is it intimate? Sincere? Ironic? Reflexive? Judgmental? What does it politicize, and what does it aestheticize? How? 
+
+"Mimesis" prompts considerations of how boundaries are drawn between *inside and outside*, *close and distant*.  
 
 --- 
 
